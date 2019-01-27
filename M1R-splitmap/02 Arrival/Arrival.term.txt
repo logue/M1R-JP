@@ -2,107 +2,107 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 1000
-Airlock 34-a Terminal Access <Port 19.1.2.128>
+エアロック 34-a ターミナル アクセス <ポート 19.1.2.128>
 #PICT 1000
-<Message to All Marathon Terminals>
+<全マラソンターミナルへの報告>
 
-$BMarathon Emergency Systems Broadcast$b
+$Bマラソン緊急システム放送$b
 
-Today at 0820 hours, the Marathon came under surprise attack from unknown hostile forces.  The Marathon has sustained serious damage.  
+今日の午前８時２０分、マラソンは不明の敵軍に攻撃され、その結果マラソンは多大な損害を受けた。
 
-At 0830 hours, alien forces boarded the Marathon.  The current situation is dire.  All personnel are required to arm themselves and fight for their lives.
-<Posted 2794.7.3.14.08.39>
+午前８時３０分には、エイリアンの軍隊がマラソンを乗っ取った。現在の状況は非常に重大である。乗組員全員はただちに武器を取り、戦う準備をせよ。
+<報告時間 2794.7.3.14.08.39>
 #LOGOFF 1000
-Airlock 34-a Terminal Access <Port 19.1.2.128>
+エアロック 34-a ターミナル アクセス <ポート 19.1.2.128>
 #LOGON 8702
-Airlock 34-a Terminal Access <Port 19.1.2.128>
+エアロック 34-a ターミナル アクセス <ポート 19.1.2.128>
 #PICT 1700
 
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-Welcome to the Marathon.  I am Leela, one of the two surviving Artificial Intelligences aboard the Marathon.  I have been severely damaged, and am working to understand the current situation.
+　マラソンへようこそ。私はマラソンに搭載されている人工知能（ＡＩ）リーラです。マラソンには私の他にもう1つの人工知能が無事に動作しています。私は現在多大な損害を受けています。できる限り現在の状況を理解しようとしています。
 
-Find the teleport terminal located in the Hangar’s control room.  By that time, I should have a better idea of what is going on.
+　まずは、格納庫のコントロール室にあるテレポートターミナルを探してください。それまでには、私は現在の状態がより詳しく理解できそうです。
 #PICT 1001
-This is where you are now.  From here you can explore the rest of the Hangar area, although not all of the doors on the level are functioning.
+　これが現在の位置です。ここから格納庫の付近の検索ができます。ただし、このレベルのドアには正しく動作しないものがあります。
 #PICT 1002
-There is a pattern buffer at this location.
+　ここにはパターンバッファがあります。
 #PICT 1003
-There is a jump pad at this location.  Activate the terminal to leave the Hangar area.
+　ここにはジャンプパッドがあります。ターミナルを起動させると格納庫エリアから出られます。
 
-***END MESSAGE***
+***通信終了***
 #LOGOFF 8702
-Airlock 34-a Terminal Access <Port 19.1.2.128>
+　エアロック 34-a ターミナル アクセス <ポート 19.1.2.128>
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
 #UNFINISHED
 #LOGON 5917
-Hangar Area-5 Engineering Access 50-h<291.7.577.456>
+格納庫エリア-5 工学部アクセス 50-h<291.7.577.456>
 #PICT 1046
 
-<$BUnauthorized access$b-alarm 2521->
-<Security Breached 50-h<291.7.577.456>->
+<$B無断アクセス$b-警告 2521->
+<保護違反 50-h<291.7.577.456>->
 
 $U*$u0001010$B4A80$b600A2F0C4EBA182E4A80584F2E00BC87
 *6700FF46202EFE43AEFE4A2F0C2F074EBA1DC672FFB
 *280504F6700079d4202EFE4E6000079E70012D40FE5
 *2722AB2866610202EFE5253AEFE52101B4880
 
-^^Fire $Ua$und @3DC39 aspects of the theory are as follows: each society has some controlling force or forces which decide its direction, but the relationships in society are arbitrary- humanity can relate to money, machines, neighbors, anything really; $I%6582@1$i
+　^^火と$uﾇ @3DC39 理論の主な要素は次のとおりである。それぞれ社会にはその指導を決める影響がありながら、社会での関係は常に不定である。例えば、人類は通貨、機器、お互いの人間など $I%6582@1$i
 
-$I<logical reset @67FC229>$i
+$I<論理リセット @67FC229>$i
 #PICT 1046
 
-$I<logical reset @67FC229>$i
+$I<論理リセット @67FC229>$i
 
-individual character and personality are preserved in stories, movies, Rom-personalities, etc; although individual expression is a universal ability, individual freedom is constrained by the society.(see attached figure)^^
+　個人の個性や性格は映画、小説、個人ロムなどに保管される。また、個人的な表現は一般的に可能であるが、個人的な自由とは社会が制限する。（添付を参照）^^
 
 *584F2E00206DFDCA7008C0307800$B66C$b6202EFE
 *4A53AEFE4A2F0C2F074EBA1E2A72FFB280504F
 *6690600007F67025B086660E101B488048C02C
-$I<logical reset @67FC231>$i
+$I<論理リセット @67FC231>$i
 
-<$BSpurious Interrupt$b- $IBreach Disabled$i>
-<$BFurther Access Denied$b>
+<$B擬似割り込み$b- $I違反不能$i>
+<以降のアクセス拒否>
 
-<$BBreach Location Undetermined$b>
+<$B違反の位置は不明$b>
 #LOGOFF 5917
-Hangar Area-5 Engineering Access 50-h<291.7.577.456>
+格納庫エリア-5 工学部アクセス 50-h<291.7.577.456>
 #END
 #FINISHED
 #LOGON 5918
-Hangar Area-5 Engineering Access 50-h<291.7.577.456>
+格納庫エリア-5 工学部アクセス 50-h<291.7.577.456>
 #PICT 1046
-<$BUnauthorized access$b-alarm 2521->
-<Security Breached 50-h<291.7.577.456>->
+<$B無断アクセス$b-警告 2521->
+<保護違反 49-h<294.2.577.456>->
 
 $U*$u0001010$B4A80$b600A2F0C4EBA182E4A80584F2E00BC87
 *6700FF46202EFE43AEFE4A2F0C2F074EBA1DC672FFB
 *280504F6700079d4202EFE4E6000079E70012D40FE5
 *2722AB2866610202EFE5253AEFE52101B4880
 
-^^Fire and Brimstone $BSeven$b Riders of the Apocalypse Labyrinth or Dreams of Armageddon Irregular Removal of Tissue Happenstance Conflagrate Condign Binnacle of Spiritual Blistering^^
+^^炎と硫黄、$B７人$bのライダー、黙示録の迷宮もしくは夢、偶発的なハルマゲドンの除去、偶発的かつ適切な羅針盤の火葬、霊魂の水ぶくれ^^
 
 *584F2E00206DFDCA7008C0307800$B66C$b6202EFE
 *4A53AEFE4A2F0C2F074EBA1E2A72FFB280504F
 *6690600007F67025B086660E101B488048C02C
 
-<$BSpurious Interrupt$b- $IBreach Disabled$i>
-<$BFurther Access Denied$b>
-<$BBreach Location Undetermined$b>
+<$B擬似割り込み$b- $I違反不能$i>
+<$B以降アクセス拒否$b>
+<$B違反が起きた場所が未確定$b>
 #LOGOFF 5918
-Hangar Area-5 Engineering Access 50-h<291.7.577.456>
+格納庫エリア-5 工学部アクセス 50-h<291.7.577.456>
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
 #UNFINISHED
 #LOGON 5917
-Hangar Area-5 Engineering Access 49-h<294.2.577.456>
+格納庫エリア-5 工学部アクセス 50-h<291.7.577.456>
 #PICT 1700
 
-<$BUnauthorized access$b-alarm 2521->
-<Security Breached 49-h<294.2.577.456>->
+<$B無断アクセス$b-警告 2521->
+<保護違反 49-h<294.2.577.456>->
 
 18RF
 (kgf42# f#h %34(*,96693 349973@) f$Uk$ueoocp)
@@ -116,23 +116,23 @@ $U*$u00011010111$B011101$b1100011110111010111
 01$BAF$b42000006726F636B65742$B1$b000000000000
 00000672$B6$bF636B6574210000000000000000
 
-<$BSpurious Interrupt$b- $IBreach Disabled$i>
-<$BFurther Access Denied$b>
+<$B擬似割り込み$b- $I違反不能$i>
+<$B以降アクセス拒否$b>
 #PICT 1004
 
-$B<Alert>  $b
-Security Breach at <294.2.577.456>
+$B<警告>$b
+<294.2.577.456>にて機密違反
 
 #LOGOFF 5917
-Hangar Area-5 Engineering Access 49-h<294.2.577.456>
+格納庫エリア-5 工学部アクセス 50-h<291.7.577.456>
 #END
 #FINISHED
 #LOGON 5918
-Hangar Area-5 Engineering Access 49-h<294.2.577.456>
+格納庫エリア-5 工学部アクセス 50-h<291.7.577.456>
 #PICT 1701
 
-<$BUnauthorized access$b-alarm 2521->
-<Security Breached 49-h<294.2.577.456>->
+<$B無断アクセス$b-警告 2521->
+<保護違反 49-h<294.2.577.456>->
 
 18RF
 (kgf42# f#h %34(*,96693 349973@) f$Uk$ueoocp)
@@ -146,38 +146,38 @@ $U*$u00011010111$B011101$b1100011110111010111
 01$BAF$b42000006726F636B65742$B1$b000000000000
 00000672$B6$bF636B6574210000000000000000
 
-<$BSpurious Interrupt$b- $IBreach Disabled$i>
-<$BFurther Access Denied$b>
+<$B擬似割り込み$b- $I違反不能$i>
+<$B以降アクセス拒否$b>
 #PICT 1004
 
-$B<Alert>  $b
-Security Breach at <294.2.577.456>
+$B<警告>$b
+<294.2.577.456>にて機密違反
 
 #LOGOFF 5918
-Hangar Area-5 Engineering Access 49-h<294.2.577.456>
+格納庫エリア-5 工学部アクセス 50-h<291.7.577.456>
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
 #UNFINISHED
 #LOGON 8702
-Hangar Area 5 Teleporter Pad Terminal<93.53.211.53>
+格納庫エリア 5 テレポータパッド ターミナル<93.53.211.53>
 #INFORMATION
 
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-All of the information that I have gathered so far indicates that the Alien invasion of the Marathon has been relatively uncoordinated.  I suspect that this is partially due to the Marathon’s large size. 
+　私がこれまで集めた情報によると、エイリアンの侵略はそれほど統制のとれたものではありません。理由としては、マラソン自体の巨大さなどが考えられます。
 
-However disorderly the Alien invasion is, their assault of the Computer Net has been extremely effective.  I detect security breaches in almost every computer system onboard the Marathon; I have learned that there is an Alien creature that is capable of interfacing with our systems.
+　しかしながら、彼らによるコンピュータネットへの攻撃は非常に効果的でした。マラソン上のコンピュータのほとんどに保護違反があると思われます。また、我々のシステムと接触できるエイリアンがいることが明らかになりました。
 
-You must kill any of these creatures that you find.  It is a priority that we stop them.  Even now, they are penetrating my defenses. 
+　エイリアンと遭遇した場合はただちに殺すことが重要です。できるだけ早く止めることが第一の任務です。今現在でも、私の防衛システムは侵入されています。
 
-Teleport now.
+　今からテレポートしてください。
 
-***End Message***
+***通信終了***
 
-$B***JUMP PAD ACTIVATION INITIATION START***
-***TRANSPORT WHEN READY***
+$B***ジャンプパッド起動初期化開始***
+***テレポート準備完了***
 #LOGOFF 8702
-Hangar Area 5 Teleporter Pad Terminal<93.53.211.53>
+格納庫エリア 5 テレポータパッド ターミナル<93.53.211.53>
 #INTERLEVEL TELEPORT 3
 #ENDTERMINAL 3

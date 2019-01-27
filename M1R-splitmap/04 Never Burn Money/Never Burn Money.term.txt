@@ -2,282 +2,281 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 8702
-Public Access Terminal 4-a<892.33.12.479>
+公衆ターミナル 4-a<892.33.12.479>
 #INFORMATION
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-The Marathon’s Automatic Manufacturing Systems have finished making replacement circuits.  There are three circuits; each should be in its manufacturing holding chamber.
+　マラソンの自動製造システムは新しい回路を完成しました。合計3つの回路があり、それぞれ製造室に格納されています。
 
-With luck, the alien viruses have not infiltrated the Manufacturing Systems, but even if they had, I would have no way of knowing.  Tycho is responsible for the engineering network, and he is preoccupied with the increasingly steady attacks on our systems.  If the counterattack is not able to remove some of the computer infiltrators, then we will eventually succumb.  
+　エイリアンのウイルスはまだ製造システムに侵入していないはずですが、侵入しているとしても、私には意識することが不可能です。私のシステムへの攻撃は強まっています。ティコは工学ネットワークを担当しています。 and he is preoccupied with the increasingly steady attacks on our systems.すぐに反撃して侵入者を破壊しなければ、私は征服されてしまいます。
 
-It is absolutely imperative that a counterattack begin as soon as possible.  The Marathon is not defenseless, and we can’t let it be taken without a fight.
+　ただちに反撃に移ることが重要です。マラソンは決して無防備ではありませんが、戦わずに取られてはなりません。
 
-***END MESSAGE***
+***メッセージ終了***
 
 #PICT 1009
-This is where the circuits should be.  Look in all of the receptacle lockers.
+　基盤はここにあるはずです。容器ロッカーを全部調べてください。
 
 #PICT 1010
-There is a pattern buffer located next to your current location.  I suggest that you use it immediately.
+　現在位置の隣にパターンバッファがあります。すぐに使用してください。
 
 #PICT 1011
-After you have retrieved the circuits, return to the terminal at this location, and I will transport you to the Defense Center to install them.
+　基盤を回収した後、ここのターミナルへ戻ってください。防衛センターまでテレポートしたら、基盤を設置してください。
 #LOGOFF 8702
-Public Access Terminal 4-a<892.33.12.479>
+公衆ターミナル 4-a<892.33.12.479>
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
 #UNFINISHED
 #LOGON 5919
-AMS Terminal 33-f<31.6.7.885>
+自動製造システム ターミナル 33-f<31.6.7.885>
 #STATIC 14
 #PICT 1702
-$BAutomatic Manufacturing System$b
+$B自動製造システム$b
 #TAG 3
 #PICT 1702
-$BAutomatic Manufacturing System$b
+$B自動製造システム$b
 
-*Transfer 5990-p success
+*転送 5990-p 成功
 
-*TRANSPORT MATERIALS ON
-AMS RECEPTION COUNTER 3*
+*マテリアル転送起動
+自動製造システム受信件数3*
 #TAG 5
 #PICT 1702
-$BAutomatic Manufacturing System$b
+$B自動製造システム$b
 
-*Transfer 5991-p success
+*転送 5991-p 成功
 
-*TRANSPORT MATERIALS ON
-AMS RECEPTION COUNTER 5*
+*マテリアル転送起動
+自動製造システム受信件数5*
 #STATIC 7
 #PICT 1702
-$BAutomatic Manufacturing System$b
+$B自動製造システム$b
 
-*Transfer 5992-p delayed
+*転送 5992-p 遅延
 #PICT 1702
-$BAutomatic Manufacturing System$b
+$B自動製造システム$b
 
-*Transfer 5992-p delayed
+*転送 5992-p 遅延
 
-*Transfer 5993-p delayed
+*転送 5993-p 遅延
 #PICT 1702
-$BAutomatic Manufacturing System$b
+$B自動製造システム$b
 
-*Transfer 5992-p delayed
+*転送 5992-p 遅延
 
-*Transfer 5993-p delayed
+*転送 5993-p 遅延
 
-*Transfer 5994-p delayed
+*転送 5994-p 遅延
 #PICT 1702
-$BAutomatic Manufacturing System$b
+$B自動製造システム$b
 
-*Transfer 5992-p delayed
+*転送 5992-p 遅延
 
-*Transfer 5993-p delayed
+*転送 5993-p 遅延
 
-*Transfer 5994-p delayed
+*転送 5994-p 遅延
 
-*Transfer 5995-p delayed
+*転送 5995-p 遅延
 #STATIC 2
 #PICT 1702
-$BAutomatic Manufacturing System$b
+$B自動製造システム$b
 
-*Transfer 5992-p delayed
+*転送 5992-p 遅延
 
-*Transfer 5993-p delayed
+*転送 5993-p 遅延
 
-*Transfer 5994-p delayed
+*転送 5994-p 遅延
 
-*Transfer 5995-p delayed
+*転送 5995-p 遅延
 
-*Transfer 5996-p delayed
+*転送 5996-p 遅延
 #PICT 1702
-$BAutomatic Manufacturing System$b
+$B自動製造システム$b
 
-*Transfer 5992-p delayed
+*転送 5992-p 遅延
 
-*Transfer 5993-p delayed
+*転送 5993-p 遅延
 
-*Transfer 5994-p delayed
+*転送 5994-p 遅延
 
-*Transfer 5995-p delayed
+*転送 5995-p 遅延
 
-*Transfer 5996-p delayed
+*転送 5996-p 遅延
 
-*Transfer 5997-p delayed
+*転送 5997-p 遅延
 #STATIC 14
 #TAG 6
 #PICT 1702
-$BAutomatic Manufacturing System$b
+$B自動製造システム$b
 
-*Transfer 5992-p delayed
+*転送 5992-p 遅延
 
-*Transfer 5993-p delayed
+*転送 5993-p 遅延
 
-*Transfer 5994-p delayed
+*転送 5994-p 遅延
 
-*Transfer 5995-p delayed
+*転送 5995-p 遅延
 
-*Transfer 5996-p delayed
+*転送 5996-p 遅延
 
-*Transfer 5997-p delayed
+*転送 5997-p 遅延
 
-*Transfer canceled
--AMS Transport System Error
-***CAUSE UNKNOWN***
+*転送中止
+-自動製造システム転送エラー
+***原因不明***
 #PICT 1702
-$BAutomatic Manufacturing System$b
+$B自動製造システム$b
 
-*Transfer 5992-p delayed
+*転送 5992-p 遅延
 
-*Transfer 5993-p delayed
+*転送 5993-p 遅延
 
-*Transfer 5994-p delayed
+*転送 5994-p 遅延
 
-*Transfer 5995-p delayed
+*転送 5995-p 遅延
 
-*Transfer 5996-p delayed
+*転送 5996-p 遅延
 
-*Transfer 5997-p delayed
+*転送 5997-p 遅延
 
-*Transfer canceled
--AMS Transport System Error
-***CAUSE UNKNOWN***
+*転送中止
+-自動製造システム転送エラー
+***原因不明***
 
-*TRANSPORT MATERIALS ON 
-INTER-TRANSFER COUNTER*
+*資料はただいま転送台にあります*
 #STATIC 7
 #LOGOFF 5919
-AMS Terminal 33-f<31.6.7.885>
+自動製造システム ターミナル 33-f<31.6.7.885>
 #LOGON 8702
-AMS Terminal 33-f<31.6.7.885>
+自動製造システム ターミナル 33-f<31.6.7.885>
 #INFORMATION
 
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの通信***
 
-I was afraid this would happen.  You’ll have to go to the Manufacturing Transport Station to get the last circuit board.
+　やはりこうなると思いました。最後の基盤は、製造転送ステーションから取ってくることが必要です。
 
-Collect the two circuit boards that were transferred and then go to the Transport Station.
+転送された2つの基盤をまず回収して、転送ステーションに行ってください。
 
 #PICT 1012
-Take the elevator here to access the main processor tunnel.
+　このエレベーターでメインプロセッサトンネルへ入れます。
 
 #TAG 1
 #PICT 1013
-You should find the third chip intact on the Transport Station.  The error was a failure of the final transporter conductor. 
+　３つ目のチップは転送ステーションにあります。エラーの原因は最終転送機の故障でした。 
 
-***END MESSAGE***
+***通信終了***
 
 #TAG 2
 #PICT 1014
-$B<Alert>$b
-Security Breach at <40.638.49.993>
+$B<警告>$b
+<40.638.49.993>にて機密違反
 #TAG 4
 #LOGOFF 8702
-AMS Terminal 33-f<31.6.7.885>
+自動製造システム ターミナル 33-f<31.6.7.885>
 #END
 #FINISHED
 #LOGON 5920
-AMS Terminal 33-f<31.6.7.885>
+自動製造システム ターミナル 33-f<31.6.7.885>
 #STATIC 14
 #PICT 1702
-$BAutomatic Manufacturing System offline$b
+$B自動製造システムはオフラインです。$b
 
 Human!  You mu~t find a jump p4d and install those circuts!  I have expended [precious,limited] processor cycles creating them for you and AI:870229, cycles I could have expended figh````ting!ing the alien compilers.  You mus7_~4ve the vic#*ms of %*)~n^^J!
 
 <$BSpurious Interrupt$b>
 #PICT 1014
 
-$B<Alert>$b
-Security Breach at <40.638.49.993>
+$B<警告>$b
+<40.638.49.993>にて機密違反
 #LOGOFF 5920
-AMS Terminal 33-f<31.6.7.885>
+自動製造システム ターミナル 33-f<31.6.7.885>
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
 #UNFINISHED
 #LOGON 8702
-AMS Terminal 39-f<33.2.7.885>
+自動製造システム ターミナル 39-f<33.2.7.885>
 #INFORMATION
-***MESSAGE FROM LEELA***
+***リーラからの通信***
 
-You must retrieve all three of the repair chips.  There is no point in going to the Defense Center unless you have all three.  
+　修理基盤は3つとも回収しなければいけません。全部揃っていないかぎり、防衛センターに行っても意味がありません。
 
-Search until you have found them.
+　見つかるまで探してください。
 
-***END MESSAGE***
+***通信終了***
 
 #LOGOFF 8702
-AMS Terminal 39-f<33.2.7.885>
+自動製造システム ターミナル 39-f<33.2.7.885>
 #END
 #FINISHED
 #LOGON 8702
-AMS Terminal 39-f<33.2.7.885>
+自動製造システム ターミナル 39-f<33.2.7.885>
 #INFORMATION
-***MESSAGE FROM LEELA***
-Good job.
+***リーラからの通信***
+　ごくろうさまです。
 
-I have received reports from some human security forces.  They agree that the Aliens are concentrating on the aft Engineering Section.  I would conjecture that they will try to shut down the Marathon’s reactors.
+　人間の保安隊からの報告が入っています。どうやらエイリアンは後部の工学部に集中しているようです。多分マラソンのリアクターを停止するつもりです。
 
-Your next mission will be to put the Automatic Defenses on-line.  I will give you exact information when you arrive.
+　次の任務は、自動防衛システムを起動させることです。細かい手順はそちらへ着いた時に知らせます。
 
-Teleport when ready.
+　準備ができたらテレポートしてください。
 
-***END MESSAGE***
+***通信終了***
 
 
-$B***JUMP PAD ACTIVATION INITIATION START***
-***TRANSPORT WHEN READY***
+$B***ジャンプパッド起動初期化開始***
+***テレポート準備完了***
 #LOGOFF 8702
-AMS Terminal 39-f<33.2.7.885>
+自動製造システム ターミナル 39-f<33.2.7.885>
 #INTERLEVEL TELEPORT 5
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
 #UNFINISHED
 #LOGON 8702
-Public Access Terminal 95-f<95.93.193.32>
+公衆アクセスターミナル 95-f<95.93.193.32>
 #INFORMATION
-$IWARNING: CORE OS (AF44+2DEB) MOD DATE LATER THAN CURRENT DATE/TIME
+$I警告: コア OS (AF44+2DEB) MOD DATE LATER THAN CURRENT DATE/TIME
 
-ff~~x~f~sx~~
-%%%here was nothing to be gained from hesitation now%&^)}:>?~~~~~~~fxf~~~~~~~~~~f~~~~
-et in her possession it
+ff‾‾x‾f‾sx‾‾
+%%%今ここでは、なにも今躊躇なしになにも獲得してはいけません%&^)}:>?‾‾‾‾‾‾‾fxf‾‾‾‾‾‾‾‾‾‾f‾‾‾‾
+et 彼女の所有物です。
 
-would become something of consequence: though it was nothing more than a simp~le tho`~~``f`~~~rticular flower, or more precise~.
-~~hen she had it just so the room flickered and tore, bending into somewhere else: ~~~ffs`~~~~f~~~[system error #25 at _Jackson]$i~~~~%*|\]~``se which she caused to be consumed by an ashless fire.
+　ある程度の結果に似合うでしょう:それはそうでしたが、まさに単〜純 tho`‾‾``f`‾‾‾広がる花、もしくはもっと正確〜。
+‾‾彼女がそれを全くそのとおり持っていた時、全くそのとおり、余地は点滅し裂けました。他のどこかに曲がること： ‾‾‾ffs`‾‾‾‾f‾‾‾[システムエラー #25 ジャクソン＿で]$i‾‾‾‾%*|¥]‾``se 彼女はは灰がない火によって消費させた。
 
-doors opened before her without cause, their locks rusted and shatter#~#[>ff
-fxf~~~~~
+　原因なしで彼女の前で開かれたドア、さびたそれらのロック、また粉々になる。#‾#[>ff
+fxf‾‾‾‾‾
 
-~~efore her slender hands began to dance in front of her horrified face. r~~fefore turning into a fine powder which settled in a pile on ~~~~4*)
- where she had been standing.$B<'scod BFB1 0002'+1Ad2>$b
-14 seven hundred miles away, eyes on fire, tearing at her hair.  Turning in fury she kicked viciouslyf
-aAnger made her careless and she mis~#&fx~~~gBd{}{@fx($~~~~
-!#%8\
-~fxf~~~~fx
+　‾‾の前に、彼女の細い手は、ぞっとした顔でダンスをし始めました。きれいなパウダーが積もって〜〜〜に変わってい‾‾‾‾4*)
+ 彼女がたっている場所で。$B<'scod BFB1 0002'+1Ad2>$b
+　14,700マイル遠方で、彼女の髪の毛を引き裂いて燃えているのが目に映った。彼女が怒り心頭に蹴ったlyf
+a怒りは不注意なミスを作りました。‾#&fx‾‾‾gBd{}{@fx($‾‾‾‾
+!#%8¥
+‾fxf‾‾‾‾fx
 34
 #LOGOFF 8702
-Public Access Terminal 95-f<95.93.193.32>
+公衆アクセスターミナル 95-f<95.93.193.32>
 #ENDTERMINAL 3
 ;
 #TERMINAL 4
 #UNFINISHED
 #LOGON 1708
-Public Access Terminal 95-w<39.59.19.21>
+公衆アクセスターミナル 95-f<95.93.193.32>
 #INFORMATION
 
-<Data Transfer from Leela>
-Host <39.59.19.21>
-<Transfer Durandal>
-<Error Unknown>
+<リーラからデーターを転送>
+ホスト<39.59.19.21>
+<デュランダルに転送>
+<エラー不明>
 
-<Transfer Durandal>
-<Error Unknown>
+<デュランダルに転送>
+<エラー不明>
 
-<Interior Error>
+<内部エラー>
 
-***MESSAGE RECEIVED***
+***メッセージ受信***
 
 Gheritt White had been floating six feet off the floor for three weeks.  His feet and hands tingled, and his eyes burned with the flames of a dying fire.  He had last heard someone speak to him as the cell door slammed shut.  He didn’t remember what the uniformed man had said.  The words had bounced off the bars of the cell and rang through Gheritt’s ears.  Gheritt had been talking to himself for the last few minutes, something about getting caught, but then his ears began to tingle just like his hands.
 
@@ -311,49 +310,49 @@ He escaped into the waves.
 
 The waves.
 
-***END MESSAGE***
+***メッセージ終了***
 
-<Accept Next Message>
-<Reply Unknown>
+<次のメッセージを承認>
+<返答は未知>
 #LOGOFF 1708
-Public Access Terminal 95-w<39.59.19.21>
+公衆アクセスターミナル95-w<39.59.19.21>
 #ENDTERMINAL 4
 ;
 #TERMINAL 5
 #UNFINISHED
 #LOGON 8702
-AMS Terminal 39-f<33.2.7.885>
+自動製造システム ターミナル 39-f<33.2.7.885>
 #INFORMATION
-***MESSAGE FROM LEELA***
+***リーラからの通信***
 
-You must retrieve all three of the repair chips.  There is no point in going to the Defense Center unless you have all three.  
+　修理基盤は3つとも回収しなければいけません。全部揃っていないかぎり、防衛センターに行っても意味がありません。
 
-Search until you have found them.
+　見つかるまで探してください。
 
-***END MESSAGE***
+***通信終了***
 
 #LOGOFF 8702
-AMS Terminal 39-f<33.2.7.885>
+自動製造システム ターミナル 39-f<33.2.7.885>
 #END
 #FINISHED
 #LOGON 8702
-AMS Terminal 39-f<33.2.7.885>
+自動製造システム ターミナル 39-f<33.2.7.885>
 #INFORMATION
-***MESSAGE FROM LEELA***
-Good job.
+***リーラからの通信***
+　ごくろうさまです。
 
-I have received reports from some human security forces.  They agree that the Aliens are concentrating on the aft Engineering Section.  I would conjecture that they will try to shut down the Marathon’s reactors.
+　人間の保安隊からの報告が入っています。どうやらエイリアンは後部の工学部に集中しているようです。多分マラソンのリアクターを停止するつもりです。
 
-Your next mission will be to put the Automatic Defenses on-line.  I will give you exact information when you arrive.
+　次の任務は、自動防衛システムを起動させることです。細かい手順はそちらへ着いた時に知らせます。
 
-Teleport when ready.
+　準備ができたらテレポートしてください。
 
-***END MESSAGE***
+***通信終了***
 
 
-$B***JUMP PAD ACTIVATION INITIATION START***
-***TRANSPORT WHEN READY***
+$B***ジャンプパッド起動初期化開始***
+***テレポート準備完了***
 #LOGOFF 8702
-AMS Terminal 39-f<33.2.7.885>
+自動製造システム ターミナル 39-f<33.2.7.885>
 #INTERLEVEL TELEPORT 5
 #ENDTERMINAL 5

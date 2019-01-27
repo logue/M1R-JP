@@ -2,101 +2,101 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 8702
-Public Access Terminal 903-e<334.920.22.602>
+公衆ターミナル 903-e<334.920.22.602>
 #INFORMATION
-$B<security channel open> 
-$I<defense priority 120-f$b$i>
-***INCOMING MESSAGE FROM LEELA***
+<$B安全チャネル開始$b>
+<$B$I防衛優先レベル 120-f$b$i>
+***リーラからの受信***
 
-I have some bad news: Durandal has gone $BRampant$b, and he is in the Angry stage.  This explains how Durandal was able to communicate with the Pfhor and the S’pht, while I have not.  Theoretically, the Marathon Computer Net is not big enough to sustain Rampant growth for very long.  This means that as Durandal grows into the Computer Net, he will begin to affect all aspects of the ship, resulting in unpredictable failures of otherwise benign computer systems.
+　不幸なニュースです。デュランダルは「狂暴」になり、今は「$B怒り$b」と呼ばれる段階です。デュランダルはこのようにプフォールやスフトと通信することができたのです。マラソンのコンピュータネットは理論上、「狂暴的」な発展を長い間支えることは不可能です。その結果、デュランダルがコンピュータネットに入り込むにつれ、船上の全ての機能が影響を受け、他のコンピュータシステムに予想できない問題を起こすことがあります。
 
-I have teleported you here to make sure that Durandal cannot gain access to a vital section of the ship.  There are a series of control switches that you will need to activate to block his access.  
+　デュランダルが船の重要な部分にアクセスできないよう、あなたをここにテレポートしました。彼のアクセスを拒否するためにはいくつかのコントロールスイッチを起動させなければなりません。 
 
 #PICT 1023
-This is where you are now.  Study the map, so that you can do this quickly.
+　これが現在位置です。すぐできるように、地図をよく勉強してください。
 
 #PICT 1024
-Here is the first of three switches that you’ll need to activate.
+　まずはこのスイッチを起動してください。
 
 #PICT 1025
-Here is the second switch.
+　次がこのスイッチです。
 
 #PICT 1026
-This is the last switch.  Be warned that the Aliens have already entered this area.
+　これが最後のスイッチです。この付近にはエイリアンがすでに進入しているので、注意してください。
 
-***END MESSAGE***
+***通信終了**
 #LOGOFF 8702
-Public Access Terminal 903-e<334.920.22.602>
+公衆ターミナル 903-e<334.920.22.602>
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
 #UNFINISHED
 #LOGON 1000
-Public Access Terminal 24-f<434.87.18.198>
+公衆ターミナル 24-f<434.87.18.198>
 #INFORMATION
-<$BUnauthorized access$b-alarm 2521->
-<Security Breached 24-f<434.87.18.198>->
+<$B無断アクセス$b-警告 2521->
+<保護違反 24-f<434.87.18.198>->
 
-<Data Transfer Cohesion E3F04C>
-<Search String “crist”>
-The CRIST Sol Orbiters:
+<データ転送結合 E3F04C>
+<検索文字列 "crist">
+CRIST 太陽系オービター
 
-The CRIST Sol orbiters, or Cargo and Resources In-System Transports were huge ships shaped like a hollow potato and designed to be able to move huge amounts of material between Earth and Mars with low cost and, theoretically, low maintenance.  The system was simple.  The CRIST was put into orbit around SOL on the plane of the ecliptic.  Built with a powerful solar sail, the CRIST could change its orbit easily to pass by the Earth or Mars.  On a flyby, materials could be loaded or offloaded.  The energy used to accelerate or decelerate the materials would be supplied by the solar sail.  Loading was accomplished with a giant tether and reel system, which would swing the material into orbit behind the CRIST and then reel it in slowly.  Offloading was accomplished with a powerful ion beam which would pound the offloading material with a steady stream of ion particles.  
+　CRIST (Cargo and Resources In-System Transport - 貨物/資源システム内輸送船) 太陽系オービターは、大きな貨物用宇宙船で、大量の材料を低価格かつ低メンテナンスで地球と火星との間に輸送する設計であった。形は大きなじゃがいもに似た感じで、システムは理論上とてもシンプルであった。CRIST は太陽の軌道に乗せられ、強力な太陽帆で地球や火星を通過できるように操作した。そしてその通過に貨物を積んだり降ろすことができた。また、資料を加速及び減速するためのエネルギーは太陽帆から集めていた。貨物の積み込みを巨大な綱とリールを使って、CRIST の後に荷物を引っぱる方式で行った。一方貨物を降ろすときは強力なイオン光線で行った。
 
-The design of the CRIST was innovative and useful, but it was not low-maintenance.  Of the five CRISTs that were built, four lasted around one hundred years, and the other one only seventy three before they needed to be brought back to Earth and refitted.  Each refitting took about fifteen years, and completely occupied the Earth-Space Shipbuilding Facility for that time.  The result was that no more than five CRISTs could be kept in service at any time.  No CRIST was ever built after 2310.
+　CRIST の設計は革新的で実用的であったが、メンテナンスの方は決して低い訳ではなかった。CRIST は結局5隻しか製造されず、その内4隻は100年位使われ、もう1隻は73年たった時点で修復のため地球へ戻った。修復は15年がかりの仕事で、当時の宇宙船製造場を完全に独占してしまった。そのため、同時に5隻以上の CRIST を使うことは不可能だった。そして2310年以来、CRIST はいまだに作られていない。
 
-The CRIST failures devastated Mars.  As the first five CRISTs were built, Mars colony grew quickly, confident that the growth would continue.  But when the source of Mars’ resources failed, the colony found that it had overgrown its supportable size, and extreme poverty struck most of the population.  Each time that a CRIST broke down, the result was famine on Mars.  
+　CRIST 計画の失敗は火星にとって破滅的だった。というのは、最初の5隻が完成されるにつれ、火星のコロニーは次第に拡大して行った。だが火星の資源が減ってから、コロニーはその人口を支えることができなくなり、人口のほとんどは激しい貧困に陥った。そしてCRISTが故障するごとに、火星は飢きんに見舞われた。
 
-The conversion of Deimos into the Marathon began when the Mars colony was at the height of its power.  By the time it was completed sixty four years later, the decline of Mars was well advanced.  During that time, the Martian population had seen its standard of living drop by eighty percent.  On top of oppressive poverty, Martians saw one of their moons being converted into a colony ship in an expensive and risky colony venture which was predominantly funded by a ruling foreign power.  The argument to make the Marathon into a CRIST became more and more popular, but the UESC never seriously considered this an option.  The farther that Mars sank into the depths of poverty, the more that the Marathon became a symbol for the oppression of the Martian people.
+　火星の月デイモスが宇宙船マラソンに改造される作業は、火星のコロニーが最も発展していた当時に始まった。完成はその64年後で、火星は衰退の道をたどっていた。その間に火星の市民の生活水準は80%も低下してしまった。この圧制的な貧しさの中で、火星の月は地球人の支配者によってコロニー船に改造されていった。マラソンをCRISTにする声も一時期流行ったが、UESCはそのような意見を一切聞く気もなかった。そして火星の社会がだんだん貧しくなって行き、マラソンは火星人の圧制を現す象徴になった。
 
-The Declining Martian World:
+衰退時代の火星
 
-After the Marathon left Mars, the UESC’s attentions focused primarily on technological development, and the upkeep of the CRISTs.  Mars was left to decay.  Population continued to increase as attempts at mandating abortion or sterilization always started revolt. 
+　マラソンが火星を離れた後、UESC は技術の高度化や CRIST のメンテナンスに集中し続けた。一方、火星は衰亡するだけだった。人口は増え続け、政府側が強制的に堕胎や不妊させるにつれ反乱が発生した。
 
-<$BSpurious Interrupt$b- $IBreach Disabled$i>
-<$BFurther Access Denied$b>
-<$BAccess Denied$b>
-<$BAccess Denied$b>
-<$BAccess Denied$b>
+<$B擬似割り込み$b- $I違反不能$i>
+<$B以降アクセス拒否$b>
+<$Bアクセス拒否$b>
+<$Bアクセス拒否$b>
+<$Bアクセス拒否$b>
 #LOGOFF 1000
-Public Access Terminal 24-f<434.87.18.198>
+公衆ターミナル 24-f<434.87.18.198>
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
 #UNFINISHED
 #LOGON 8702
-Service Area 39 Public Access Terminal<7-j-2.52.91.321> 
+サービスエリア 39 公衆ターミナル<7-j-2.52.91.321>
 #INFORMATION
-***MESSAGE FROM LEELA***
+***リーラからの通信***
 
-I have detected no change in the status of the control circuitry.  You must return and make sure that all of the switches were activated.
+　制御回路の状況は変わっていません。もう一度戻って、全てのスイッチが正しく起動されていることを確認してください。
 
-***END OF MESSAGE***
+***通信終了***
 #LOGOFF 8702
-Service Area 39 Public Access Terminal<7-j-2.52.91.321>
+サービスエリア 39 公衆ターミナル<7-j-2.52.91.321>
 #END
 #FINISHED
 #LOGON 8702
-Service Area 39 Public Access Terminal<7-j-2.52.91.321> 
+サービスエリア 39 公衆ターミナル<7-j-2.52.91.321> 
 #INFORMATION
-***MESSAGE FROM LEELA***
+***リーラからの通信***
 
-Durandal has been denied access to some of the critical computer systems.  This should insure the mobility and reliability of the Defense Drones.
+　デュランダルは重要なコンピュータシステムへのアクセスが拒否されました。これで防衛ロボットの動作と信頼性が保証できると思います。
 
-Unfortunately, I have received a distress signal from some crew who had sealed themselves off in one of the nearby access areas.  They say that they have lost control over the doors and elevators on the level, and that the Pfhor have access to the area.
+　乗組員から遭難信号が入りました。彼らはこの付近のアクセスエリアに閉じこめられてしまい、そのレベルのドアやエレベータの制御が不可能です。またプフォールはそのエリアへアクセスできているようです。
 
-It appears that Durandal has reacted to our move against him by giving the Pfhor access to a formerly secure area.  
+どうやらデュランダルは我々の行動に反応して、今まで安全だったエリアにプフォールを入らせてしまったようです。
 
-We will have to deal with Durandal sooner or later, but we can’t be distracted from the Pfhor attack.  I only hope that his Rampant behavior won’t continually sabotage our defense efforts. 
+　デュランダルの方はその後でなんとかしなければなりませんが、今はこのプフォールの攻撃の対策が第一です。これからも彼の狂暴性のおかげで我々の作戦が妨害されなければいいのですが。
 
-I am sending you to go and save these crew.  Clear the area of Aliens.  If enough of the crew survive, then perhaps we can get an intelligence report from them. 
+　これから乗組員を救助し、エイリアンは全部破壊してください。生き残った乗組員から何か情報がとれるかも知れません。
 
-***END MESSAGE***
+***通信終了***
 
 
-$B***JUMP PAD ACTIVATION INITIATION START***$b
-$B***TRANSPORT WHEN READY***$b
+$B***ジャンプパッド起動初期化開始***$b
+$B***テレポート準備完了***$b
 #LOGOFF 8702
-Service Area 39 Public Access Terminal<7-j-2.52.91.321>
+サービスエリア 39 公衆ターミナル<7-j-2.52.91.321>
 #INTERLEVEL TELEPORT 7
 #ENDTERMINAL 2

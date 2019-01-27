@@ -2,41 +2,41 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 8702
-Level 29-b Section 10 Public Access Terminal<102.21.521.146>
+レベル 29-b セクション 10 公衆ターミナル<102.21.521.146>
 #PICT 1043
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-I am now in contact with a number of colonists planetside, but their reports on the situation below are conflicting and obviously exaggerated.  The primary medium-range radio antenna has been disabled or destroyed, which makes communication extremely difficult.
+　私は現在、惑星上の住民と連絡をとっていますが、状況に関する情報は矛盾している上、かなり誇張されていると思われます。主な中距離ラジオアンテナは不能または破壊されているため、通信が非常に困難です。
 
 #PICT 1042
 
-The only thing which seems clear is that the spaceport was obliterated by low-yield nuclear weapons minutes after the attack on the Marathon began.  This I can verify through my own optical instruments.
+　マラソンが最初に攻撃を受けた数分後、惑星上のスペースポートは低力の核兵器で破壊されたことは確かです。これは私の光学機器で確認しました。
 
-The invaders seem to be more interested in the Marathon than the colony, at least in the short term.  The motives behind their unprovoked attack are still unknown, however.
+　侵略者は惑星上のコロニーよりもマラソンを狙っているようです。かれらの攻撃の理由はいまだに不明です。
 
 #PICT 1005
 
-If we are to repel these invaders, I need you to be better armed.
+これらの侵略者を撃退するために、あなたはより良い武装をする必要があります。
 
-Here is the computer terminal you are using now.  I cannot teleport you out of this section from here, so you will have to leave from a jump-pad equipped terminal once you're done here.
+　これが現在使用中のコンピュータターミナルです。ここからはテレポートできないため、機関銃を見つけたら他のターミナルを使ってこのセクションから出ることが必要です。
 
 #PICT 1006
 
-I've located a free M.75 Assault Rifle/Grenade Launcher and ammunition at this location.  When firing on the fully automatic setting this weapon is highly inaccurate, but the grenades hit hard and it’s the best we can do right now.  Ammunition may be scarce for a while, so be prepared to fall back to your pistol or scavenge what you can off the Aliens.
+　ここには M-75 機関銃/グレネード砲と弾薬があります。この武器は自動設定では非常に不正確です。一方、弾は強力です。弾薬は少ない可能性があるため、必要であればピストルだけで戦えるよう覚悟してください。
 
 #PICT 1007
 
-Here is the terminal you must reach to leave this section.  Alien infiltration of this area is high; proceed with caution.  You may find doors blocked, stairways retracted, or oxygen stations malfunctioning on the way, because the AIs in control of these functions are damaged and behaving erratically.
+　ここにはこのセクションから出るためのターミナルがあります。の付近にはエイリアンの進入が非常に多いため十分注意してください。これらの機能を制御しているAIは、損傷を受けており不安定になっています。途中でドアがブロックされていたり、階段が引き込まれていたり、または酸素ステーションが誤動作していることを確認しています。
 
-The BioVent core's macerators are still running, so stay off the bottom if you must venture through them.
+　BioVentコアのパイプ製造機はまだ動いているようです。ここを通過するときは、底から離れるようにしてください。
 
-***END OF MESSAGE***
+***通信終了***
 #LOGOFF 8702
-Level 29-b Section 10 Public Access Terminal<102.21.521.146>
+レベル 29-b セクション 10 公衆ターミナル<102.21.521.146>
 #END
 #FINISHED
 #LOGON 1000
-Level 29-b Section 10 Public Access Terminal<102.21.521.146>
+レベル 29-b セクション 10 公衆ターミナル<102.21.521.146>
 #PICT 1045
 
 Marathon Internal Engineering Documents
@@ -66,7 +66,7 @@ Fires 600 rounds per minute of .75 caliber shells. Standard clip holds 52 rounds
 $B<Alert>$b
 Security Breach at <12.53.2111.42>
 #LOGOFF 1000
-Level 29-b Section 10 Public Access Terminal<102.21.521.146>
+レベル 29-b セクション 10 公衆ターミナル<102.21.521.146>
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -74,54 +74,55 @@ Level 29-b Section 10 Public Access Terminal<102.21.521.146>
 #LOGON 1000
 Public Access Terminal 2362-d<12.53.2111.42>
 #INFORMATION
-<$BUnauthorized access$b-alarm 2521->
-<Security Breached 2362-d<12.53.2117.42>->
+<$B無断アクセス$b-警告 2521->
+<保護違反 2362-d<12.53.2117.42>->
 
-Marathon Internal Engineering Documents 
-Section 1-c appendix H
+マラソン 工学部内部書類
+セクション 1-c 付録 H
 
-Subject: Doors
-By:  Estasia Orestes, Dominick I. Plackar, and Ursa Simbalzi
-Date: <2402.03.23.16.42>
+課題：ドア
+著者：Estasia Orestes, Dominick I. Plackar, and Ursa Simbalzi
+日付：<2402.03.23.16.42>
 
-There are five basic door designs to be used on the Marathon:
-1. Outer Bulkhead Doors
-2. Airlock Doors
-3. Inner Bulkhead Doors
-4. Tertiary or Inner Sealed Non-Vacuum Safe Doors
-5. Quaternary or Inner Powered Automatic Opening Doors
+マラソンに搭載されているドアには次の5種類がある。
+１，外部隔壁ドア
+２，エアロック・ドア
+３，内部隔壁ドア
+４，第三次及び内部用密閉真空非安全型ドア
+５，第四次及び内部自動開閉パワードア
 
-Direct control of all doors except the Tertiary and Quaternary doors will be given to Durandal with indirect control of all other doors going to Durandal.  The difference between direct and indirect control primarily has to do with the manner of opening the doors.  Durandal will only open a directly controlled door when he is specifically asked to do so.   Indirectly controlled doors are automatically controlled by Durandal to open when needed.  
+　第三次及び第四次以外のドアはデュランダルが直接制御し、その他のドア全てはデュランダルが二次的に制御する。直接制御と二次的制御との違いは、その開く方法にある。直接制御ドアはデュランダルが開くように指示したときだけ、開く。二次制御ドアは自動的に開くようにデュランダルが制御する。
 
-However, due to the expense involved with adding thermal and visual spectrum sensors to the Tertiary and Quaternary door groups, these doors will be minimally used.  The expected savings of not using this extra sensory input is estimated to be fifty-seven percent of the base cost of the basic inner bulkhead door.
+　しかし、第三次そして第四次ドアに装備される温度及び視覚センサーのコスト問題のため、これらのドアはほとんど使わないことにする。結果として、内部隔壁ドアの基準コストに比べおよそ57パーセント節約できる。
 
-The types of doors are all basically the same with some slight variations.  The doors in classes 1 and 3 are the same doors classified separately to distinguish between the level of safety checking required to assure acceptable leakage.  The airlock doors are specifically modified to work with manual and remote activation switches.  Airlocks are all to be marked with a specific airlock symbol and to be outfitted with an air recharge system.
+　どの種類のドアも基本的には同じである。特に、1型と3型は同じ構造のドアで、空気漏れの安全性レベルの検査だけが異なる。エアロックは手動及びリモート起動スイッチのどちらでも動くように改造されている。エアロックは全て独特のエアロック印で示され、その上酸素処理システムが付属される。
 
-The tertiary and quaternary doors are designed exactly as the bulkhead doors, but are checked coarsely for air leakage.
+　第三次及び第四次ドアは隔壁ドアと全く同じ設計で、空気漏れの検査レベルが低いだけである。
 
-This article as well as articles 530-f and 532-g on windows and elevators respectively will be placed for public access in the Marathon Internal Engineering Documents section 1-c appendix H.
-<$BSpurious Interrupt- Breach Disabled$b>
-<$BFurther Access Denied$b>
+　この書類及び窓とエレベーターに関する書類（530-f, 532-f）はマラソンの内部工学部書類セクション１−ｃ付録Ｈに、公衆アクセス用に保管される。
+
+<$B擬似割り込み - 違反不能$b>
+<$B以降アクセス拒否$b>
 
 #PICT 1008
 
-$B<Alert>$b 
-$BSecurity Breach at Terminal 2362-d$b<12.53.2111.42>
+$B<警告>$b 
+$B保護違反 - ターミナル 2362-d$b<12.53.2111.42>
 #LOGOFF 1000
-Public Access Terminal 2362-d<12.53.2111.42>
+公衆ターミナル 2362-d<12.53.2111.42>
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
 #UNFINISHED
 #LOGON 8702
-Public Access Terminal <101.532.74.95>
+公衆ターミナル <101.532.74.95>
 #PICT 1047
 
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-Good work clearing this section of the Aliens.  However, you have not picked up the assault rifle.  It is essential that you properly arm yourself as soon as possible.
+よくやりました。このエリアからのエイリアン反応はありません。しかし、あなたはアサルトライフルを拾っていないようですね。できるだけ早く適切に武装することが重要です。
 
-There is a circuit breaker at this location.  Resetting it will create a surge that should cycle the warehouse doors, but may damage some equipment in the area.
+この場所にはサーキットブレーカがあります。リセットすると、倉庫のドアを循環させるはずのサージが発生し、そのエリアの一部の機器が損傷する可能性があります。
 
 #PICT 1006
 
@@ -132,31 +133,31 @@ Return here when you have the assault rifle.
 ***END OF MESSAGE***
 
 #LOGOFF 8702
-Public Access Terminal <101.532.74.95>
+公衆ターミナル <101.532.74.95>
 #END
 #FINISHED
 #LOGON 8702
-Public Access Terminal <101.532.74.95>
+公衆ターミナル <101.532.74.95>
 #PICT 1700
 
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-The Marathon’s automated defenses were disabled during the initial attack by a directed magnetic pulse.  The aliens used the same weapon to disable the Marathon’s other two AIs, Durandal and Tycho, and to severely damage myself.
+　マラソンの自動防衛システムは初期の攻撃で、誘導磁気パルスによって障害を受けました。また、その武器を使ったエイリアンは他の２つのＡＩデュランダルとティコを不能にし、私は重大なダメージを受けています。
 
-Durandal is responsible for controlling the ship’s autonomous functions: doors, life support, kitchens, air reprocessors, stairs, and so on.  Because he is non-functional, I am working to assume as many of these tasks as possible.  Tycho controls the science and engineering network.
+　デュランダルは船上のドア、生命維持装置、調理場、酸素処理機、階段などといった自動機能を管理します。彼は現在不能なため、私がそれらの機能を管理しています。ティコが科学部と工学部を管理します。
 
 #PICT 1048
 
-Now that you are better armed, our first priority is to reactivate the Marathon’s defenses, under my control, so that we may offer some resistance to the aliens.  I have built three replacement circuit boards for the defense system, but cannot move them from the manufacturing center without assistance.
+　第一の任務はマラソンの防衛システムを再起動させることです。そのために私は防衛システム用の基盤を３つ製造しました。しかし、これらは製造センターから移動することができません。
 
-I will now transport you to retrieve the replacement parts, and will give you further instructions when you arrive.
+　これから基盤を回収できるようにテレポートします。
 
 
-***END OF MESSAGE***
+***通信終了***
 
-$B***JUMP PAD ACTIVATION INITIATION START***
-***TRANSPORT WHEN READY***
+$B***ジャンプパッド起動初期化開始***
+***テレポート準備完了***
 #LOGOFF 8702
-Public Access Terminal <101.532.74.95>
+公衆ターミナル <101.532.74.95>
 #INTERLEVEL TELEPORT 4
 #ENDTERMINAL 2

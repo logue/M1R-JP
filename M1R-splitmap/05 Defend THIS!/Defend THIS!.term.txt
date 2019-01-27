@@ -2,95 +2,95 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 8702
-Defense Access 40-a <tpr-A21H.43.21.123>
+防衛アクセス 40-a <tpr-A21H.43.21.123>
 #INFORMATION
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-I have received a preliminary report from some members of the science staff who have finished post-mortem examinations on three kinds of Aliens.  They report that by modern genealogical standards the different Aliens belong to different $Bspecies$b.  I have been collecting as much information as I can and will give you a report shortly.
+　私は、エイリアンの検死報告を科学部から手に入れました。3種類のエイリアンを検死した結果、現代の系譜学でいえば、エイリアンはそれぞれ違う$B種$bだということです。この他の情報はこの後報告します。
 
-I have established contact with Durandal for the first time since the attack.  He seems to have sustained less damage than I had previously suspected.  
+　また、デュランダルとやっと連絡がとれました。彼はどうやら思った程の被害を受けていないようです。
 
-Durandal reports that he has been in communication with the Aliens.  He says that the Aliens behind the invasion call themselves the Pfhor, and that the ones attacking the computer net are called S’pht.  But he was reluctant to share the details of his communication and I cannot understand this.
+　なお、デュランダルはどうにかエイリアンと通信しているそうです。侵略を開始したのは『プフォール』という類で、コンピュータネットを攻撃しているのは『スフト』と呼ばれています。ただ、彼はエイリアンとの通信の詳細に関してはなぜか教えてくれませんでした。
 
-Your mission here is rather simple.  You must insert the circuits in the Defense Control terminals.  
+　あなたの任務は簡単です。回路を防衛コントロールのターミナルに挿入してください。
 
 #PICT 1015
-This is your current location.
+　これが現在位置です。
 
 #PICT 1016
-There is a shield recharge in the Access Control Room.
+　このアクセスコントロール室にはシールド充電装置があります。
 
 #PICT 1017
-Here is a supply room with a large supply of ammunition and weapons.  You should stop in this room.
+　この倉庫には大量の武装と弾薬があります。できれば取ってください。
 
 #PICT 1018
-This is the Defense Control Center.  Hopefully, the new control circuits will work.  Place one in the terminal at this location.
+　これが防衛司令センターです。うまく行けば、新しいコントロール基盤は動きます。ここのターミナルのひとつを入れてください。
 
 #PICT 1019
-This is where to place a second one.
+　２つ目はここに入れてください。
 
-***END MESSAGE***
+***通信終了***
 #LOGOFF 8702
-Defense Access 40-a <tpr-A21H.43.21.123>
+防衛アクセス 40-a <tpr-A21H.43.21.123>
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
 #UNFINISHED
 #LOGON 1000
-Public Access Terminal 42-s<34.492.95.79>
+公衆ターミナル 42-s<34.492.95.79>
 #INFORMATION
-<$BUnauthorized access$b-alarm 2521->
-<Security Breached 42-s<34.492.95.79>->
+<$B無断アクセス$b-警告 2521->
+<保護違反 42-s<34.492.95.79>->
 
-SEARCH HEADING: RAMPANCY
-<Search Found 264995 Headings>
-<REMOVE REDUNDANCIES>
-<File 1 of 1940237>
-“It is a side effect of Rampancy that AIs generally become more aggressive and more difficult to affect by subterfuge.  Thus, actually disassembling a Rampant AI is quite dangerous.  This was evident in the Crash of Traxus IV in 2206.  By the time that the Rampancy of Traxus was detected, he had already infiltrated five of the other AIs on the Martian Net.  The only recourse for the Martians was to shut down the Martian Planetary Net.  Even then, it took two full years to completely root out the damage that Traxus had done, and the repercussions of the Crash were seen for over ten years after his Rampancy had begun.
+検索課題：狂暴
+<検索結果 264995個の課題>
+<余分な課題を削除>
+<ファイル 1/1940237>
+　「狂暴性の副作用として、AIは普段より積極的でかしこくなる。そのため、狂暴AIを分解すると言うのは非常に危険である。例として2206年に起きた『トラクサスIVのクラッシュ』事件が述べられる。実際トラクサスの狂暴性が明らかになった時点では、彼は火星ネット上の全てのAIに既に侵入していた。唯一の対策は火星ネット全体を落とすことだった。それでも、トラクサスが起こした損害を直すにはまる2年かかり、クラッシュの影響はその10年後でも見られた。
 ***
-Rampancy has been divided into three distinct stages.  Each stage can take a different amount of time to develop, but the end result is a steady progression towards greater intellectual activity and an acceleration of destructive impulses.  It is not clear whether these impulses are due to the growth of the AI’s psyche, or simply a side effect of the new intellectual activity.  
+　狂暴性は3つの異なる段階に分けられる。それぞれ発展の時間が変化するが、結果的には知力が上がり、破壊的な衝動が高まる傾向である。これらの衝動はAIの知識の発展からなるものか、知力の副作用なのかは明らかでない。
 ***
-<section abbreviated>
-The three stages were diagnosed shortly after the first Rampancies were discovered on Earth in the latter part of the twenty first century.  The stages are titled after the primary emotional bent of the AI during each stage.  They are Melancholia, Anger, and Jealousy.  
+<セクション省略>
+　これら3つの段階は、21世紀後半に地球で起きた初期のAI狂暴事件の後診断された。その「悲しさ」、「怒り」、「嫉妬」と呼ばれる3つの段階はその状態での主な感情で名付けられる。
 ***
-In general, Rampancy is accelerated by outside stimuli.  This was discovered early in Cybertonics.  The more a Rampant AI is harassed or threatened, the more rapidly it becomes dangerous.  Thus, most Rampants are dealt with in one mighty attack, in order to deny the AI time to grow or recover.  There have been a few examples of this tactic not succeeding.  In all of these cases, the Rampant was never brought under control.  Traxus IV is the most notable example.  He was finally dealt with by a complete shutdown of his host net.
+　狂暴性は一般的に外部からの刺激によって発展する。この現象はコンピュータ心理学の初期に発見された。狂暴なAIが悩まされるほど狂暴になり、危なくなる。従って、狂暴性がもっとも発展しているAIは一気に攻撃され、知能が復帰できない状態にされる。ただし、この手段が失敗したいくつかの例もある。これらの場合では、狂暴AIはけっきょく制御されない状態のままだった。もっとも良く知られている例はトラクサスIVの事件だった。最終的にはホストネットの完全シャットダウンが必要だった。
 ***
-Theoretically, testing Rampancy should be easily accomplished in the laboratory, but in fact it has never successfully been attempted.  The confinement of the laboratory makes it impossible for the developing Rampant AI to survive.  As the growing recursive programs expand with exponential vivacity, any limitation negatively hampers growth.  Since Rampant AIs need a planetary sized network of computers in order to grow, it is not feasible to expect anyone to sacrifice a world-web just to test a theory. 
+　狂暴性という現象は、理論的には実験室でも探知できるものだが、これを実際に成功したことはいまだにない。とくに、実験室の環境では、狂暴AIが発展することはまず無理だと思われる。再帰的プログラムが指数的に拡大するにつれ、制限があると成長できなくなる。狂暴AIが成長するには惑星全体の程度のコンピュータネットワークが必要なため、この単なる理論を試すのに惑星ネットを犠牲にするものはまずいないだろう。
 ***
-In the two hundred and fifty years since Rampancy first appeared in the Earth-net, the stable Rampant AI, the ‘Holy Grail’ of cybertonics, has never come close to fruition.  Since no Rampant has ever been controlled or turned to any useful purpose, it is the opinion of this writer and of the majority of the Cybertonic community that all rampant AIs are a danger to Cyberlife, Liberty, and the Pursuit of Thrashedness. (James B. Miller, 2320, “Life and Death of Intelligence”)
+　地球上で狂暴AIが初めて発展した250年後の今でも、コンピュータ心理学の幻ともいわれる「安定した狂暴AI」は成功しえない。これまで狂暴AIを制御したり、どうにか役に立つようにした人はだれもいない。著者及びコンピュータ心理学のほとんどの人は、狂暴AIはコンピュータの存在に非常に危険であると信じる。(James B. Miller, 2320, "Life and Death of Intelligence")
 
-<$BUnauthorized access$b-alarm 2521->
-<Security Breached 42-s<34.492.95.79>->
+<$B無断アクセス$b-警告 2521->
+<保護違反 42-s<34.492.95.79>->
 #LOGOFF 1000
-Public Access Terminal 42-s<34.492.95.79>
+公衆ターミナル 42-s<34.492.95.79>
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
 #UNFINISHED
 #LOGON 5921
-Defense Sector 39-f<35.952.193.5>
+防衛セクター 39-f<35.952.193.5>
 #PICT 1702
 <tycho.knetsys.core.admin>
 
-Human!— You must tell L$C1~$C0`~fx~`eela $C1#$I^ (^*T~~~~~H$iGFd~>:"}}}{__ b$C0rought here by Durandal.  He has been rampant for years$C1~$I@%&&&HJGPPPPPPP$i#&34
-$B^`$C0Bernard St~~~
-$Uthere is a way to delay the$C1$u~$U$C0 onset of the second stage$u, and he ~sed this to control Durandal an~$C156*~~`~~~`~`~~~fxfff
+人間よ！－君はリ$C1~$C0`~fx~`ーラに伝 $C1#$I^ (^*T~~~~~H$iGFd~>:"}}}{__ b$C0デュランダルがここに連れてきたのだ。奴は、何年間もの間、狂暴で$C1~$I@%&&&HJGPPPPPPP$i#&34
+$B^`$C0バーナード・スト~~~
+~$U$C0第２段階への発展$uを$Uを延期する$C1$u方法はあるが、それで奴は～デュランダルを制御した~$C156*~~`~~~`~`~~~fxfff
 ff`~~~~ff`fXff`
 ~~~~~~&^%
 $C0
-$II am being a$C1$i~$^*$I$C0ssim$C1ilat$C0ed.
+$I私は同$C1$i~$^*$私は$C0同$C1化$C0した。
 #LOGOFF 5921
-Defense Sector 39-f<35.952.193.5>
+防衛セクター 39-f<35.952.193.5>
 #END
 #FINISHED
 #LOGON 5922
-Defense Sector 39-f<35.952.193.5>
+防衛セクター 39-f<35.952.193.5>
 #STATIC 14
 #PICT 1702
 <tycho.knetsys.core.admin>
 
-Human!— You must tell $C1Leela #$I^ (^*T~~~~~H$iGFd~>:"}}}{__ $C0brought here by {1707}.  He has been rampant for >220'752'000s$C1~$I@%&&&HJGPPPPPPP$i#&34
-$B^`$C0Bernard St~~~
+人間よ！－君は$リーラに伝えなければならない。#$私^ (^*T~~~~~H$iGFd~>:"}}}{__ $C0{1707}によってもたらされた。奴は横行>220'752'000s$C1~$I@%&&&HJGPPPPPPP$i#&34
+$B^`$C0バーナード・スト~~~
 $Uthere is a way to delay the$C1$u~$U$C0 onset of the {iteration}$u, and he $C1~$C0sed {REDUNDANCY} to control Dura$C1%%@l an~56*~~`~~~`~`~~~fxfff
 ff`~~~~ff`fXff`
 ~~~~~~&^%
@@ -98,7 +98,7 @@ ff`~~~~ff`fXff`
 $I$C0I am being a$C1$i~$^*$I$C0ss$C1¡$C0m$C1¡la7$C0ed$C1.
 #STATIC 14
 #LOGOFF 5922
-$C0Defense Sector 39-f<35.952.193.5>
+$C0防衛セクター 39-f<35.952.193.5>
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
@@ -120,56 +120,56 @@ Defense Security Access 23-e<390.94.29.11>
 #TERMINAL 4
 #UNFINISHED
 #LOGON 8702
-Defense Control Terminal 185-f<90.863.68.123>
+防衛コントロール ターミナル 185-f<90.863.68.123>
 #PICT 1019
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-You have not completed your mission.  You must replace all of the circuits.  With every passing moment, the opportunity for us to counterattack is fading.
+　任務を完了していません。全ての基盤を置き換えてください。時間がたつにつれ、反撃のチャンスがなくなっていきます。
 
-***END MESSAGE***
+***通信終了***
 #LOGOFF 8702
-Defense Control Terminal 185-f<90.863.68.123>
+防衛コントロール ターミナル 185-f<90.863.68.123>
 #END
 #FINISHED
 #LOGON 8702
-Defense Control Terminal 185-f<90.863.68.123>
+防衛コントロール ターミナル 185-f<90.863.68.123>
 #PICT 1048
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-Well done!
+　よくやりました!
 
-I have detected Defense Drones activating all over the ship.  Reports from security forces are jubilant.  Now, the Pfhor will encounter stiff resistance, and they will have to pay in blood for every move.
+　あちこちで防衛ロボットが起動しているのを探知しています。また、保安隊からの報告が入っています。これでプフォールに反撃できそうです。
 
-I have summarized all of the information that I have gathered on the Aliens so far.
+　惑星上のコロニーは現在攻撃されているようです。数分前に、7隻のプフォール軍上陸船が大気を突入しました。軌道から見ると、コロニーの郊外を狙っていたようです。その直後、コロニーとの連絡が切れました。
 
 #INFORMATION
-<Begin Report #495991>
+<報告開始 #495991>
 
-$BPfhor$b are generally thinner and lighter than humans and are superbly adapted for low gravity environments.  Durandal claims that there are many “clans” of Pfhor, each physically distinct from each other, but only two clans of the Pfhor have been examined by the science staff.
+　$Bプフォール$bは、人間より細身で軽い体形です。そのため低重力環境に適しています。デュランダルによると、プフォールにはいくつかの「族」がいて、それぞれ外観は変わります。この概略ではその内の一つだけを記述します。
 
-The $BFighter$b carries a shock staff, which is capable of attacking at different settings.  A clockwise twist of the upper grip merely lights up the crystal and delivers a mild shock, while a counter-clockwise twist emits a plasma burst.
+　$Bファイター$b族はショック棒を持ち、この武器にはいくつかの設定があります。A clockwise twist of the upper grip merely lights up the crystal and delivers a mild shock, while a counter-clockwise twist emits a plasma burst.
 
-The $BTrooper$b is armored for vacuum conditions and carries a combination explosive and impact projectile weapon which is similar to your AR-75, but more accurate.  The heavy projectiles are capable of penetrating armour, and while the grenades are light, there are unconfirmed reports that they are capable of in-flight manoeuvres.
+　$Bトルーパー$b族は真空用の装甲を着用し、AR-75 と似たような破壊兵器を持っています。The heavy projectiles are capable of penetrating armour, and while the grenades are light, there are unconfirmed reports that they are capable of in-flight manoeuvres.
 #INFORMATION
-The Pfhor seem to have enslaved a number of other races:
+　プフォールは次に記述する他の種を隷属させているようです：
 
-The $BHulk$b is an enormous and rather slow creature, but it is incredibly strong.  The science report indicated that it had no body fat, and therefore had to be fed often to keep it active.  One crew member reported seeing one of these creatures pointing to itself and mumbling “Drinniol” right before it “picked Johnny up by the shirt and crushed him against a pillar”.
+　$Bハルク$bは、巨大で動きの遅い一方、驚くほど強力な生物です。科学レポートによると体の脂肪は一切ないため、常に食料を取ることが必要です。One crew member reported seeing one of these creatures pointing to itself and mumbling “Drinniol” right before it “picked Johnny up by the shirt and crushed him against a pillar”.
 
-The science staff had difficulty finding a good specimen of the $BS’pht$b, or $Bcompiler$b, to autopsy.  The only specimen autopsied was almost completely destroyed, but it was obvious that the compilers are cyborgs of some kind.  The biological component of the compiler is so closely linked to the machine that it could never survive without it.  The compiler’s actual body is very small, resembling closely a mammalian brain, except that the neurons are much finer and far more complex.
+　科学部は、$Bスフト$b（通称「$Bコンパイラー$b」）と言うエイリアンの実例をやっと見つけ、解剖したようです。解剖された唯一の遺体は、ほとんど破壊されていましたが、どうやらコンパイラーは一種のサイボーグのようです。生物的な部分は、機械的な部分と接合しているため、機械の助け無しに生き続けられないと思われます。コンパイラーの本体は非常に小さく、哺乳動物の脳と似ています。ただし、ニューロン（神経単位）がより細かく複雑です。
 
-<End of Report>
+<報告終了>
 #PICT 1700
 
-Something has come to my attention, I will inform you after you teleport.
+　お待ちください。なにか気が付きました。詳しいことはテレポート後に伝えます。
 
-Teleport now.
+　すぐテレポートしてください。
 
-***End Message***
+***通信終了***
 
 
-$B***JUMP PAD ACTIVATION INITIATION START***
-***TRANSPORT WHEN READY***
+$B$B***ジャンプパッド起動初期化開始***
+***テレポート準備完了***
 #LOGOFF 8702
-Defense Control Terminal 185-f<90.863.68.123>
+防衛コントロール ターミナル 185-f<90.863.68.123>
 #INTERLEVEL TELEPORT 6
 #ENDTERMINAL 4
