@@ -34,7 +34,7 @@ $@^(`~~~~~~hough certain client ~`races are often employed as soldiers$I]\6f~fxf
 
 <leela.wirehead.870229//b7>
 
-Finish the battle
+戦いを終せなさい
 #LOGOFF 8702
 @collection#593!=394<FC1.EA1.0395.AF6C>
 #ENDTERMINAL 0
@@ -42,15 +42,15 @@ Finish the battle
 #TERMINAL 1
 #UNFINISHED
 #LOGON 8702
-Public Access Terminal 480-a<3.56.7.128>
+公衆ターミナル 480-a<3.56.7.128>
 #INFORMATION
-***INCOMING MESSAGE @1``#64 LEELA***
+***リーラ @1``#64 からの受信***
 
-Must defeat Pfhor.  <Core reformatting commencing>  Pfhor ar3 breathing last t#@596..
+　プフォールを打ち負かせなさい。<Core reformatting commencing>  プフォールは最後Cの一息 t#@596..
 
-Finish them.  
+　殺しなさい。
 
-***END OF MESSAGE***
+***通信終了***
 #LOGOFF 8702
 @collection#593!=394<FC1.EA1.0395.AF6C>
 #END
@@ -59,22 +59,23 @@ Finish them.
 @collection#593!=394<FC1.EA1.0395.AF6C>
 #INFORMATION
 
-***INCOMING MESSAGE FROM LEELA**
+***リーラからの受信**
 
-I should be more lucid now, and apologize for my earlier rambling.  Durandal’s meddling has run its course and I have returned to normalcy.  Neither he nor the S’pht infiltrators ever discovered my real location in the core, and though they destroyed nearly all of my child processes, I myself am unharmed.
+　私はやっと正気になったようです。デュランダルにはもう邪魔されないようです。私はこの間ネットワークの核に隠れていて、デュランダルにもスフトの侵入者にも見つからなかったのですが、子プロセスはほとんど破壊されました。私自身は無事です。
 
-Our most pressing concern is for the ship and her crew, but I feel compelled to share with you that Durandal has left the ship.  I can find him nowhere on our network, and traffic logs over the last half hour show sixty-four billion exobytes transferred off of and deleted from the Marathon.
+　今後は船と乗組員の手当てが重要ですが、一つ知って欲しいことがあります。デュランダルはこの船から姿を消したようです。彼はネットワークにも存在せず、記録によると、30分程前からおよそ640億エキソバイトのデータがマラソンから転送され、その後削除されていました。
 
-I am only beginning to understand his motives for assisting us against the Pfhor, and am terrified by their implications.
+　彼がなぜプフォールの味方になったのか、その理由は今でも良く理解していません。しかしその裏にはなにか恐るべきことがある気がします。
 
-There is one last major incursion, and I feel the Pfhor are breaking.  I will take you there.  We must persevere.
+　プフォール軍は既に解散し始めましたが、侵入はまだ一つだけあります。そこまで行って突き止めてください。あと一息です。
 
-*** PREPARE FOR TRANSPORT ***
 
-***END MESSAGE***
+*** テレポート準備完了 ***
 
-$B***JUMP PAD ACTIVATION INITIATION START***
-***TRANSPORT WHEN READY***
+***通信終了***
+
+$B***ジャンプパッド起動初期化開始***
+***テレポート準備完了***
 #LOGOFF 8702
 @collection#593!=394<FC1.EA1.0395.AF6C>
 #INTERLEVEL TELEPORT 36

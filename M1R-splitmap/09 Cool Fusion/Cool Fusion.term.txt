@@ -2,80 +2,80 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 8702
-Public Access Terminal <46.02.32.55>
+公衆ターミナル <46.02.32.55>
 #INFORMATION
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-There has been an unexpected lull in the fighting.  I don’t know exactly why, but it seems that the Aliens have stopped their advance.  I want to use this break in the fighting to send a message to Earth apprising them of our situation.
+　戦いは一時減ったようです。なぜか、エイリアンは進行を停止したようです。この間、私は地球と連絡を取り、我々の状況を報告したいと思います。
 
-However, the long range transmitter array has been destroyed, and you must manually reset the secondary transmitter.  To do this, you will need to go into the G-4 Sunbathing Landing Station.
+　しかし、長距離送信アレーは破壊されているため、二次送信機を手動でリセットしなければなりません。これには、G-4 日光浴発着ステーションへ行くことが必要です。
 
-It would be foolhardy to send you into vacuum conditions without a better vacuum-capable%#29SC^7 than your pistol.  The AR-75 doesn’t work in vacuum.
-
-
+　真空状態では、手元のピストルの性能が落ちるため、より効果的な武器が必要です。尚、AR-75 は真空では使えません。
 
 
 
 
 
 
-I want you to find a Zeus Class Fusion Pistol.  It has two firing modes.  Standard firing ejects hi$U#2423#Bfjrf$u volts, and secondary firing mode charges on $B<transmission error>$b and ejects a blast that does a huge amount of damage.
+
+
+　ゼウス級核融合ピストルを探してください。この銃には２つの射撃モードがあります。標準では、高$U#2423#電jrf$u圧、そして２次射撃モードでは、$B<転送エラー>$bで充電し、強力な発射が可能です。
 
  @t $#cY B.    Ex
  @t Y#C9 B.  
- @t $Y#9 B.  exception
+ @t $Y#9 B.  例外
 
-$B<bypassing through traffic>
+$B<トラフィックをバイパスしています>
 #PICT 1030
-My records and sensors are becoming less reliable, but I believe that you should find a Zeus Class Fusion Pistol at this location.  
+　私の記録及びセンサーの信頼性は落ちていますが、ゼウズ級核融合ピストルはここにあるはずです。
 
-Do not rely too much on this information that I have given you.  It has been intercepted in transmission, and I cannot verify its accuracy.
+　尚、私からの情報はあまりたよりにしないでください。転送中に妨害されているので、どれだけ正確であるかは、判りません。
 
 ***END OF MESSAGE***
 #LOGOFF 8702
-Public Access Terminal <46.02.32.55>
+公衆ターミナル <46.02.32.55>
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
 #UNFINISHED
 #LOGON 8702
-Public Access Terminal 34-f<83.91.117.223>
+公衆ターミナル 34-f<83.91.117.223>
 #INFORMATION
 ***MESSAGE FROM LEELA***
 
-You have not retrieved the Fusion Gun.  Return when you have done so.
+　核融合銃を回収していません。取ってから戻ってください。
 
 ***END OF MESSAGE***
 
 #LOGOFF 8702
-Public Access Terminal 34-f<83.91.117.223>
+公衆ターミナル 34-f<83.91.117.223>
 #END
 #FINISHED
 #LOGON 8702
-Public Access Terminal 34-f<83.91.117.223>
+公衆ターミナル 34-f<83.91.117.223>
 #INFORMATION
-***MESSAGE FROM LEELA***
+***リーラからの通信***
 
-I have obtained more debriefing reports from the crew whom you rescued earlier.
+　以前に救助した乗組員からの報告が入りました。
 
-They have reported seeing two types of Pfhor that you have not yet encountered.  Evidently, these are two of the other “clans” which Durandal alluded to in earlier communications.  
+　彼らは、あなたがまだ遭遇していない2種類のプフォールを見たと言っています。これらは、前にデュランダルが説明していた他の2族だと思われます。
 
-One is taller than the Fighters.  Oddly, the report indicated that this new Pfhor fired only upon other Pfhor and never on any humans.  Because of this and their general appearance, the crew who saw them referred to them as Enforcers.
+　一種は、ファイターより背が高い者です。不思議なことに、この種類は他のプフォールだけを攻撃し、人間は一切攻撃しないようです。そのためこれらはエンフォーサー（強制者）と呼ばれています。
 
-The other Alien was named Hunter by the crew due to its size and appearance.  It fires an energy weapon from its shoulder and is heavily armored.  Unlike the Fighters, the Hunters never take prisoners.
+　もう一種は、その大きさと外観からハンター（狩人）と名付けられています。武器は、肩にのせたエネルギー兵器で、重装甲を備えています。ファイターと違って、ハンターは捕虜を一切取りません。
 
-I am sending you to the G-4 Sunbathing Landing Station.
+　これからG-4日光浴上陸ステーションへ送ります。
 
-Standby to teleport.
+　テレポートの準備をしてください。
 
-***END OF MESSAGE***$B
+***通信終了***
 
-***JUMP PAD ACTIVATION INITIATION ERROR***
+$B***ジャンプパッド起動初期化エラー***
 
-***JUMP PAD ACTIVATION INITIATION START***
-***TRANSPORT WHEN READY***$b
+***ジャンプパッド起動初期化開始***
+***テレポート準備完了***$b
 #LOGOFF 8702
-Public Access Terminal 34-f<83.91.117.223>
+公衆ターミナル 34-f<83.91.117.223>
 #INTERLEVEL TELEPORT 10
 #ENDTERMINAL 1
 ;

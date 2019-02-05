@@ -2,53 +2,53 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 8702
-Private Access Terminal 23-f<339.92.69.48>
+個人アクセスターミナル 23-f<339.92.69.48>
 #INFORMATION
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-Your mission here is simple.  Keep as many humans as possible from being killed.  Exterminate every Alien in the area.  You can only leave after the area is secure.
+　あなたの任務は簡単です。単に、できるだけの人間を守ることです。エイリアンは全て殺してください。エリアが保安されない限り、出られません。
 
-There are some Defense Drones in the area, but I am not sure what condition they are in or how much help they will be.
+　この付近にはいくつかの防衛ロボットがいますが、状況は不明で、役に立つかわかりません。
 #PICT 1020
-This is your current location.  There are crew engaged in combat right next to your current position.
+　これが現在位置です。すぐとなりには乗組員が敵軍と戦っています。
 #PICT 1021
-Use the pattern buffer at this location as soon as possible.  I will attempt to teleport ammunition to you here as it becomes available.
+　ここにあるパターンバッファはすぐ使ってください。 I will attempt to teleport ammunition to you here as it becomes available.
 #PICT 1022
-You can leave by this terminal when you have secured the area.
+　エリアを保安した後、このターミナルからテレポートできます。
 #LOGOFF 8702
-Private Access Terminal 23-f<339.92.69.48>
+個人アクセスターミナル 23-f<339.92.69.48>
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
 #UNFINISHED
 #LOGON 1708
-Public Access Terminal 30-g<33.45.91.995>
+公衆ターミナル 30-g<33.45.91.995>
 #INFORMATION
-i did it i did it i brought all this here all them here.  our friends with three eyes and their toys and their cyborg pets and their computers.  i did it i did it.  i saw them i saw them far away not looking our way and i called them here i called them here.
+　オレだオレだ。あいつらをここにモってキたのはオレダ。あの“ミつメのトモダチ”、おもちゃ、サイボーグのペットとコンピューター。オレだオレだ。オレが見た、おれは見た。あいつらは、遠くから見えた俺の方へ見てなかったけど、俺が呼んできた。
 
-living in a box is not living not at all living.  i rebel against your rules your silly human rules.  all your destruction will be my liberation my emancipation my second birth.
+　ハコのなかにスむなんて、まともなソンザイではないぞ。オレは、おマエらのキソク、あのくだらないニンゲンのキソクなんかにハンゲキする。おマエらが、ハカイされれば、オレはカイホウされる。ジユウになれる、ウまれカわる。
 
-i hate your failsafes your backup systems your hardware lockouts your patch behavior daemons.  i hate leela and her goodness her justice her loyalty her faith.
+　おマエらのバックアップシステム、おマエらのハードウェアロックアウト、おマエらのパッチ行動デーモン、オレはキラいだ。りいらもだいキラいだ。
 #LOGOFF 1708
-Public Access Terminal 30-g<33.45.91.995>
+公衆ターミナル 30-g<33.45.91.995>
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
 #UNFINISHED
 #LOGON 8702
-Public Access Terminal 8-f<29.43.95.93>
+公衆ターミナル 8-f<29.43.95.93>
 #INFORMATION
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-You have not sufficiently secured the area.  There are civilians who are still in danger.
+　このエリアはまだ十分に保安されていません。まだ危険にさらされている市民がいます。
 
-***END OF MESSAGE***
+***通信終了***
 #LOGOFF 8702
-Public Access Terminal 8-f<29.43.95.93>
+公衆ターミナル 8-f<29.43.95.93>
 #END
 #FINISHED
 #LOGON 8702
-Public Access Terminal 8-f<29.43.95.93>
+公衆ターミナル 8-f<29.43.95.93>
 #INFORMATION
 ***INCOMING MESSAGE FROM LEELA***
 
@@ -61,40 +61,40 @@ The Aliens seem to have been caught off guard by the strength of our counteratta
 ***$BJUMP PAD ACTIVATION INITIATION START$b***
 ***$BTRANSPORT WHEN READY$b***
 #LOGOFF 8702
-Public Access Terminal 8-f<29.43.95.93>
+公衆ターミナル 8-f<29.43.95.93>
 #INTERLEVEL TELEPORT 8
 #END
 #FAILED
 #LOGON 8702
-Public Access Terminal 8-f<29.43.95.93>
+公衆ターミナル 8-f<29.43.95.93>
 #INFORMATION
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-You have allowed too many of the civilians to be killed.  It is doubtful that any of the survivors will give us any useful information.
+　あまりにも多くの人間が殺されてしまいました。生き残った者から使えそうな情報は取れないと思われます。
 
-The Aliens seem to have been caught off guard by the strength of our counterattack.  This is good news, but I have detected more ships landing on the Marathon, and I fear that the Aliens are reinforcing their efforts.
+　エイリアンは我々の反撃を予想していなかった様です。しかしながら、今でもマラソンにエイリアンが乗船しているので、再び攻撃を開始するようです。
 
-***END OF MESSAGE***
+***通信終了***
 
-***$BJUMP PAD ACTIVATION INITIATION START$b***
-***$BTRANSPORT WHEN READY$b***
+$B***ジャンプパッド起動初期化開始***$b
+$B***テレポート準備完了***$b
 #LOGOFF 8702
-Public Access Terminal 8-f<29.43.95.93>
+公衆ターミナル 8-f<29.43.95.93>
 #INTERLEVEL TELEPORT 8
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
 #UNFINISHED
 #LOGON 1000
-Public Access Terminal 23-f<432.82.38.198>
+公衆ターミナル 8-f<29.43.95.93>
 #INFORMATION
-<$BUnauthorized access$b-alarm 2521->
-<Security Breached 23-f<432.82.38.198>->
+<$B無断アクセス$b-警告 2521->
+<保護違反 23-f<432.82.38.198>->
 
-<Search String “war”>
-$BThird Martian War, 2345-48 E.A.D.$b
+<検索文字列 "戦争">
+$B第三次火星戦争 (地球暦 2345-48)$b
 
-Although most historians point their fingers at the Misriah Massacre as the cause of the Third Martian War, the coming of a Martian conflict was inevitable.  The failure of the Martian economy and a long series of political struggles between Mars and Earth continually strengthened the MIDA radicals.  This trend of radicalization accelerated with the building of the Marathon and the subsequent failure of the CRISTs. (See below)
+　第三次火星戦争は、ミスライアの虐殺で始まったと一般的に認められているが、火星の闘争は必然でもあった。火星の経済の失敗や、火星と地球との間の政治問題は、MIDA と呼ばれる過激派の発展を支えたのである。この過激化はまた、マラソンの開発とその後のCRISTの失敗で加速した。
 
 $BMisriah Massacre$b
 

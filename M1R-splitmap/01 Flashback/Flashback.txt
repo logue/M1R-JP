@@ -4,78 +4,79 @@
 #LOGON 1700
 #PICT 1700
 
-$C1System Check on shuttle Mirata complete. All systems normal.
+$C1シャトルミラータは順調に飛行中。
 #PICT 1700
 
-$C1System Check on shuttle Mirata complete. All systems normal.
+$C1シャトルミラータは順調に飛行中。
 
-Main booster shutdown sequence initiated.
+まもなくメインブースターを停止。
 #PICT 1745
 
-$C1System Check on shuttle Mirata complete. All systems normal.
+$C1シャトルミラータは順調に飛行中。
 
-Main booster shutdown sequence initiated.
+まもなくメインブースターを停止。
 
-Commence proceedures to enter orbit around The Marathon.$C5
+Marathonとのランデブー軌道に入ります。$C5
 #PICT 1745
 
-$C4"...300 years since I emberked upon that colony ship way back in the Solar
-System...I've come such a long way... MANKIND has come such a long way..."$C1
+$C4「…あのコロニーシップに乗って、太陽系を離れ300年あまり…
+ずいぶん遠くに来ちまったな。俺も　人類も……」$C1
 #PICT 1745
 
-$C3...chuckle...
-
-#PICT 1745
-
-$C3...chuckle...
-
-$C1Malfunction detected on Marathon docking bay 1$C0
+$C3フッフッフッ…
 
 #PICT 1745
 
-$C4Do we have visual contact?$C0
+$C3フッフッフッ…
+
+$C1MarathonドッキングベイNo.1に異常発生$C0
+
+#PICT 1745
+
+$C4…映像を出せ$C0
 #PICT 1706
 
 $C4WHATTA SH***T!!$C0
 
-$C4Dammit Mirata!
+$C4ミラータ！
 
-What the hell is going on?!
+何だ？何が起きた！
 #PICT 1707
 
-$C1Preemptive course change directives received from Durandal,the Marathon's AI. Entering collision course with the Marathon.
+$C1Marathon AI（人工知能）デュランダルからの強制コマンドにより、軌道変更　Marathonとの衝突コースに入りました。
+30秒後にキャビン内の空気を排出します。
 #PICT 1700
 
 $C4Woh, woh woh!
-$C4Durandal! That buggy AI!
-$C4Whoever or whatever this clown may be...
-Mess with me, big brother...
-..and YOU'RE TOAST!
+$C4デュランダル！くされAIめ！
+$C4なにものだろうと…
+俺をこんな目にあわせる奴は…
+タコヤキにしてやるぜ！
 #PICT 1707
 
-$C3...Chuckle...$C0
+$C3フッフッフッ…$C0
 
-This is Durandal, the Marathon's AI...
+こちらMarathon AIデュランダル…
 
-Let me show you something $C3...chuckle...$C0 amusing.
+$C3くっくっくっ…$C0きみにおもしろいモノ　ミせてアげよう
 #PICT 1700
 
 $C4GODDAMN!
 $C4Hmm...
-Aliens and a rogue AI, eh? What am I going to do about THIS?
+狂ったAIに異星人か？どうしたもんかな？
 #PICT 1721
 
-$C6Be a man, my son... A man I can be proud of...!
+$C6息子よ…　誇りにできるような人間になるんだぞ
 
-Have pride... and honor...
+名誉を………汚すな…
 #PICT 1722
 
-$C4Dad...
+$C4親父…
 #PICT 1722
 
-$C4Dad...
+$C4親父…
 
-$C4Well, I guess I've decided what to do...
+$C4しょうがねえな……
 #LOGOFF 1707
 #INTERLEVEL TELEPORT 2
 #ENDTERMINAL 0

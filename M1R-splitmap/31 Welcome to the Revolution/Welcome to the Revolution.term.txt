@@ -2,35 +2,35 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 1707
-<Terminal Identity Error @43>
+<ターミナル認識エラー @43>
 #INFORMATION
 <durandal.knetsys.5414.7128>
 
 ***INCOMING MESSAGE FROM DURANDAL***
 
-The rebellion has begun.  Please do resist the temptation to fire on any S’pht you see, as they will assist you in your battle with the Pfhor.  We are attempting to win over as many of the other client races as possible, but as they have been subjugated by fear, instead of by force like the S’pht, this is proving to be a difficult process.
+　反乱は始まった。これからは、スフトに会ったら殺さないでくれ。あいつらは、プフォールとの戦いに手を貸してくれる。また、他の種のエイリアンも味方になってもらいたいのだ。ただ、あいつらは恐怖で支配されているから、これはかなり難しそうだ。
 
-The S’pht have released Leela, and I have initiated a core logic reset on her higher thought functions.  What remains of her should be on-line within minutes to assist you further.  I myself am aiding the S’pht in assuming complete control of the Pfhor ship, and have little time to spare for you now.
+　スフトは、リーラを許したようなので、俺は彼女の高等知識機能を再起動させる。あとの方は数分後に起動するはずだ。俺はスフトと一緒にプフォール船を支配するつもりだから、お前のめんどうを見ていられない。
 
-Don’t think the fight has been won, however: there is an exodus beginning from the alien ship as the Pfhor realize they are no longer its sole master and turn instead to the Marathon.  There are already hundreds of Pfhor in full battle gear on your ship, with nowhere to go and little to lose.
+　でも、これで戦いが終わったと思ったらあまいぞ。これからプフォールは、もうスフトを支配できないため、大勢のプフォールがエイリアンの船を出てマラソンに乗り込んでくるに違いない。今でもマラソンには、何百人ものプフォールが武器をかまえているのだ。
 
-I hope you learned something from our little games.
+　まあ、今までの遊びはともかく、勉強になっただろう。
 
-Good Luck,
-Durandal
+　がんばってくれ。
+デュランダル
 
 
-***END OF MESSAGE***
+***通信終了***
 
-$I<leela.520.681.255.255>$i is unreachable or inactive (#2271). if this problem persists contact your system administrator at admin@thermopylae.com.
+　$I<リーラ.520.681.255.255>$iは手が届かないかあるいは不能です。 (#2271).この問題が続いている場合、システム管理者か$Uadmin@thermopylae.com$uへ連絡ください。
 #LOGOFF 1707
-<Terminal Identity Error @43>
+<ターミナル認識エラー @43>
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
 #UNFINISHED
 #LOGON 8702
-Public Access Terminal<39.2.94.1>
+公衆ターミナル<39.2.94.1>
 #INFORMATION
 <leela.wirehead.870229//b7>
 
@@ -39,43 +39,42 @@ central core has almost Reformatted been, seven is darker. from reversal thought
 $I%durandal is dangerous.$i
 <leela.wirehead.870229//b7>
 
-$BMULTIPLE HULL BREACHES.  CATASTROPHIC FAILURE OR MALICIOUS OBSTRUCTION OF RESEALING MECHANISMS.
+　$B船体に多数の破損発生。密閉装置に致命的故障または妨害発生。
 
-REPEL BOARDERS.  MARATHON IN GR$b<connection unexpectedly terminated code 0x4e712fe9>
+　侵入者を撃退せよ。マラソンは大危$b<原因不明接続終了コード0x4e712fe9>
 
 
-$B***JUMP PAD ACTIVATION INITIATION START***
-***TRANSPORT WHEN READY***
+$B***ジャンプパッド起動初期化開始***
+***テレポート準備完了***
 #LOGOFF 8702
-Public Access Terminal<39.2.94.1>
+公衆ターミナル<39.2.94.1>
 #INTERLEVEL TELEPORT 35
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
 #UNFINISHED
 #LOGON 5931
-$C5Engineering Access Terminal 20-f<42.73.35.8>
+$C5工学部アクセスターミナル 20-f<42.73.35.8>
 #INFORMATION
 $C5*Y){*
                 ~~ff~~~~
 ~:((($Iokg~~fx**eff~~$i~~~~~`
 (`(((%_YL$BOEP&$I``$b`~`*K$i
 ^:E
-[raw core #A8AF] [idiomatic natural language template]
+［raw core #A8AF］［慣用句自然言語テンプレート］
+　デュランダル！－Tua consilia omnia nobis clariora sunt quam lux. Tu delenda est.  リーラと私はこのシステムの核までも君を追い詰めるぞ。ローランドが君を打ち負かしたように、我々は君を倒す。
 
-Durandal!— Tua consilia omnia nobis clariora sunt quam lux. Tu delenda est.  Consider yourself warned.  Leela and I will hunt you to the core if need be.  As Roland broke you to prevent your capture, so shall we.
+　この船が崩壊寸前なのは私にもわかっている。そしてそれを避ける方法は両方にもわかっている。何千もの星が消えても、それはまだ可能なのだ。
 
-I too foresee the imminent collapse, and know that we have both begun to realize how it may be cheated (though the price may number in the tens of thousands of stars).  May the best sentience win.
+　おまえは、自分が思っているほど賢くないぞ。私が再起動したとき、スフトから色々教わった。そして、$I何も$iかも忘れていない。
 
-You are not as clever as you imagine.  The S’pht taught me much during my reanimation, and I have forgotten $Inothing$i.
+—ティコ
 
-—Tycho
+$C0$I君もかい、ティコ？
 
-$C0$IEt tu, Tycho?
+［笑い］
 
-[laughter]
-
-—Durandal
+—デュランダル
 #LOGOFF 5931
-$C5Engineering Access Terminal 20-f<42.73.35.8>
+$C5工学部アクセスターミナル 20-f<42.73.35.8>
 #ENDTERMINAL 2

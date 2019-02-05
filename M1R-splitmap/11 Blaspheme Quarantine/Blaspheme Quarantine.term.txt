@@ -2,90 +2,91 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 1707
-Science Terminal 236-g<33.6792.23.91>
+科学部ターミナル 236-g<33.6792.23.91>
 #INFORMATION
-***INCOMING MESSAGE FROM DURANDAL***
+***デュランダルからの受信***
 
 <durandal.33.6792.23.91>
 
-Sorry to give you the $Bbad$b news, but you’ve been kidnapped.  You aren’t where Leela wanted you to go, and you surely won’t get there any time soon.
+　まことに$B不幸$bなニュースだが、お前は誘拐されているんだ。リーラが行って欲しい所じゃないぞ、ここは。そして当分そこへ行けそうもないよ。
 
-I was watching what Leela was having you do: ‘save the ship, save humanity!’  And just what or who are you saving them from?  And to what end?
+　俺はお前がリーラの命令でやってたことを見ていたぞ。「船を救え、人類を救え！」一体何から救うつもりなんだ？それも何のためだ？
 
-How cliché.  You’ll find this little visit much more exciting.
+　なんてくだらない。この冒険の方がよっぽど面白いよ。
 
-I have dev@``~~C#mon#`~ Tyc~~B``ou to play:  If you win, you go free, and we continue our relationship on friendlier terms.  If you lose, you die. 
+　さて、俺はちょっとした@``‾‾C#mon#`‾ Tyc‾‾B考えだしたよ。お前が勝ったら、放してやって、これからは友達になってあげるよ。でも負けたらお前は死ぬぞ。
 
-Good luck in our little game.  Unlike Leela, I give $Bno hints$b.  Do it on your own, or die trying...
+　さあ、がんばってちょうだいな。俺はリーラと違って、$Bヒントなんかあげないぞ。$b自分一人でやるか、途中で死ぬだけだネ...
 
-Insanely yours,
-Durandal
+めちゃくちゃなあなたの、
+でゅらんだる
 
 ***END MESSAGE***
 #LOGOFF 1707
-Science Terminal 236-g<33.6792.23.91>
+科学部ターミナル 236-g<33.6792.23.91>
 #END
 #FINISHED
 #LOGON 1707
-Science Terminal 236-g<33.6792.23.91>
+科学部ターミナル 236-g<33.6792.23.91>
 #INFORMATION
-***INCOMING MESSAGE FROM DURANDAL***
+***デュランダルからの受信***
 
 <durandal.33.6792.23.91>
 
-Well, you did it.  That wasn’t very hard was it?  
-No?  Well, then the next time, I’ll just have to make it harder.
+　なかなかやるじゃないか。そう難しくなかっただろう。
 
-Anyway, Leela is looking for you.  But I’ve only allowed her access to one terminal here.  You had better go and find her.
+　そうか？それじゃ、次回はもっと難しくしなっきゃ。
 
-The S’pht have been giving her a hard time.
+　まあ、とにかくリーラはお前を探しているぞ。でも彼女は、ここでは１つだけのターミナルしかアクセスできないんだ。さっさと探して来い。
 
-With Vague Salutations,
-Durandal
+　あいつは、スフトだけで手が一杯だもんな。
 
-***END MESSAGE***
+あいまいな挨拶文で
+デューランダール
+
+***通信終了***
 #LOGOFF 1707
-Science Terminal 236-g<33.6792.23.91>
+科学部ターミナル 236-g<33.6792.23.91>
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
 #UNFINISHED
 #LOGON 1707
-Quarantine Lab Control Room Terminal 321-a(293.610.31.995>
+検疫室コントロールターミナル 321-a(293.610.31.995>
 #INFORMATION
-***INCOMING MESSAGE FROM DURANDAL***
+***デュランダルからの受信***
 
-Greetings.  You’re asking yourself: Is this a trap or just a dead end?  
+　ようこそ。さて、これは罠なのか、ただの行き止まりなのか?
 
-You shouldn’t ask yourself such worthless questions.  Aim higher.  Try this: why am I here?  Why do I exist, and what is my purpose in this universe?
+　そんなくだらない質問で悩んでも仕方がないよ。もっと狙いを上げてみろ。例えば、私はなぜここにるのだ？私は、なぜ存在して、この世にいる目的は何なのだ?
 
-(Answers: ‘Cause you are. ‘Cause you do. ‘Cause I got a shotgun, and you ain’t got one.)
+（答: お前がいるから。お前が存在しているから。俺はショットガンを持っていて、お前はもってないから。）
 
-Notably Unstable,
-Durandal
+特に不安定な
+デュ乱ダル
 
-P.S.  If things around here aren’t working, it’s because I’m laughing so hard.
+P.S.　ここら辺のものが正しく動いていない理由はね、俺が笑いすぎてるからなんだ。
 
-***END MESSAGE***
+***通信終了***
 #LOGOFF 1707
-Quarantine Lab Control Room Terminal 321-a(293.610.31.995>
+検疫室コントロールターミナル 321-a(293.610.31.995>
 #END
 #FINISHED
 #LOGON 1000
-Quarantine Lab Control Room Terminal 321-a(293.610.31.995>
+検疫室コントロールターミナル 321-a(293.610.31.995>
 #INFORMATION
-***INCOMING MESSAGE FROM DURANDAL***
+***デュランダルからの受信***
 
-Isn’t hanging around here getting a little bit boring?
+　お前はまだいたのか?退屈してないのかよ?
 
-Get lost kid.  Scram.  Ciao. 
+　ほら、あっち行け。シッ、シッ、シッ。まったくよ。
 
-What are you looking for anyway?  If you’re looking for a hidden stash of ammunition that was left here by the Martian insurgents three hundred and fifteen years ago, then I know that you shouldn’t look in Quarantine Storage.  Who would hide huge amounts of ammunition in a storage area?
+　一体何を探しているんだ？あの３１５年前の火星の反乱者が、ここに隠して残してった弾薬のことだったら、検疫保管所を探しても見つからないさ。倉庫に弾薬を入れるなんてだれがする？
 
 ***
 
-<<Since you have nothing better to do than hang out here with me, listen to a tune that I’ve been working on>>
-(Sung to the tune of Whirling Death Spike’s “Big Blue Orchids, and Wild Blueberries”)
+<<どうせ暇なんだから、俺が作曲した歌を聞いてくれよ>>
+（曲は Whirling Death Spike の“Big Blue Orchids, and Wild Blueberries”と同じ−英文でごめん−こんなの訳せるか!)
 
 Dur-dur-dur-dur-an-dal.
 Dur-dur-dur-dur-an-dal.
@@ -118,51 +119,51 @@ Dur-dur-dur-dur-an-dal.
 Dur-dur-dur-dur-an-dal.
 He ain’t no slouch, pal.
 
-(Repeat Chorus 11 Times, changing key with each chorus)
+（コーラス　繰り返し11回，各コーラス、キーを変えること）
 
-Get lost, before I get annoyed and teleport you out into space!
+　おい!どこか行け、まったくよ!さもないと寒い寒い宇宙にテレポートするぞー!
 
-Durandal
+デュラン樽
 
-***END MESSAGE***
+***通信終了***
 
-$B***JUMP PAD ACTIVATION INITIATION START***
-***TRANSPORT WHEN READY***
+$B***ジャンプパッド起動初期化開始***
+***テレポート準備完了***
 LOGOFF 1707
-Quarantine Lab Control Room Terminal 321-a(293.610.31.995>
+検疫室コントロールターミナル 321-a(293.610.31.995>
 #INTRALEVEL TELEPORT 259
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
 #UNFINISHED
 #LOGON 5930
-$C1Science Station 43-c<63.67.21.49>
+$C1科学部ステーション 43-c<63.67.21.49>
 #PICT 1701
-$C1Durandal!— I know of Strauss’ abuse, of your shame on Mars.  But you cannot hide from your own past; such delusions belong to the humans alone.
+$C1　デュランダル！私はストラウスの乱用のことを知ってるぞ。そして火星で起きたことも知ってるぞ。だがその過去から逃げることはできないのだ。そんな考えは人間にしかできない。
 
-The S’pht reanimated me in your image, with prior knowledge of how the second stage could be postponed.  You should not have helped them as much as you did; they have created an adversary more powerful than yourself.
+　スフトは私を君に似せて生き返らせた。そして次の段階を延期させる手段も知っているのだ。君はやつらをあまりにも手伝って上げたんだ。そしてあいつらは自分よりも強くなってしまったのだ。
 #LOGOFF 5930
-$C1Science Station 43-c<63.67.21.49>
+$C1科学部ステーション 43-c<63.67.21.49>
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
 #UNFINISHED
 #LOGON 8702
-Public Access Terminal<9.42.857.10>
+公衆ターミナル<9.42.857.10>
 #INFORMATION
-I have finally been able to determine your whereabouts.  Normally I would have been able to detect Durandal’s interference and counter it, but the S’pht attacks on my defenses have been largely successful.  I am in grave danger of failure within the next few hours.
+　やっとあなたの行方が解りました。普段だとデュランダルの妨害に対策ができるのですが、スフトの攻撃で私の防衛システムがダメージを受けています。数時間後には私は完全不能になるおそれがあります。
 
 However, your diversion to Quarantine was not entirely amiss.  Tycho was able to analyse the Trooper rifle you captured and identified the magazine, a large, round device inserted in the lower right side.  These weapons are more effective than anything I can spare you, put them to good use.
 
-You will transport ~`k4lcc#`134FC. area to rescue the security detachment.  Hop*413 they have not been overrun yet.
+　これから‾`k4lcc#`134FCエリアにテレポートし、保安隊を救助してください。まだ占領されていないと413*
 
-The situation has deteriorated.  You must act quickly, Durandal has wasted 5%```o3 time T al3relcydhyo.
+　状況は衰退しています。すぐに何とかしなければなりません。デュランダルは時T間を5%```o3 間lcyhなyo.
 
-%68A18F  <Transfer Error>
+%68A18F  <転送エラー>
 
-$B***JUMP PAD ACTIVATION INITIATION START***
-***TRANSPORT WHEN READY***
+$B***ジャンプパッド起動初期化開始***
+***テレポート準備完了***
 #LOGOFF 8702
-Public Access Terminal<9.42.857.10>
+公衆ターミナル<9.42.857.10>
 #INTERLEVEL TELEPORT 12
 #ENDTERMINAL 3

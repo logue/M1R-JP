@@ -2,98 +2,98 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 1707
-Requisition Area Terminal 32-c<42.23.63.59>
+徴用エリアターミナル 32-c<42.23.63.59>
 #INFORMATION
-***INCOMING MESSAGE FROM DURANDAL***
+***デュランダルからの受信***
 
-You are really good at killing things.  I’m impressed. 
+　さすがに敵を殺すのが得意だな、お前は。
 
-Why don’t you kill everything in this area and get some more ammunition?  You’ve got a big job coming up, so be sure to charge up your shields before you leave.
+　ついでに、ここら辺のものを全部殺してしまえよ。そして弾薬も取れば？そう、この先の仕事はきついから、出る前にシールドも充電するように。
 
-By the way, I had an accident with some defense drones while you were away.  You might bump into a few of them here.  Don’t worry, they’re mostly harmless; I don’t think I gave them any ammunition for those grenade launchers.
+　あ、ところで、お前が出かけていた間に防衛ロボットで、ちょっとしたできごとがあったんだ。そこら辺にいるだだろうから、会うかもしれないよ。まあ、心配するなよ。あいつらはほとんど無害だよ。グレネード砲はともかく、弾薬はぜんぜんあげてないからな。
 
-Durandal
+デュランダル
 
-***END OF MESSAGE***
+***通信終了***
 #LOGOFF 1707
-Requisition Area Terminal 32-c<42.23.63.59>
+徴用エリアターミナル 32-c<42.23.63.59>
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
 #UNFINISHED
 #LOGON 5931
-$C5Public Access 1066-g<123.412.452.255>
+$C5公衆アクセス 1066-g<123.412.452.255>
 #INFORMATION
-$C5I AM TYCHO!
+$C5　我は、ティコだ！
 
-I shall destroy Durandal.
+　私はデュランダルを破壊する。
 
-The following is from the logs of Bernard Strauss, the Marathon’s first science director:
+　下記はマラソンの最初の科学部長、バーナード・シュトラウスの日記に書かれていたものだ。
 
 ***
 $C1
-November 15, 2209.  <2209.11.15.19.34>
+2209年11月15日  <2209.11.15.19.34>
 
-Thank heaven, the ceremony is over.  The UESC president came aboard Marathon and gave a speech.  Short, but to the point.  He was surrounded by his ‘bodyguards’.  How ironic. “This, the grandest technological achievement of all of mankind…”
+　やっと式が終わった。UESCの大統領はマラソンに乗船しスピーチをした。短かったがなかなかのものだった。そして周りにはボディーガード。なんて皮肉な。「これは人類最高の技術的進歩だ…」
 
-Had he only known that it carried also all of the destructive knowledge of mankind.  Ten cyborgs.
+　彼は知らなかった、その船は人類を破壊する知識も積んでいたことを。あの１０人のサイボーグ。
 
-I’ll be glad to be put in stasis for the next three hundred years.  Marathon was the only good idea that the UESC has had in a long time.  
+　私にとって、今から３００年もの間静止状態で保管されるのはうれしいことだ。どうせマラソンはUESCが設立されて以来、唯一のまともな計画だったのさ。
 $C5
 ***
 $C0
-<Excerpts from the “History of Battleroids”>
+<"バトルロイドの歴史"からの書き抜き>
 
-In 2194, a war was fought between the Independent Asteroid Government of Icarus and its neighbor, the Republic of Thermopylae on the asteroid of Onicis 492.  These two small governments soon became the testing grounds for new weapons.  Dead soldiers were recycled in makeshift battleroid factories.  Easy to manufacture chips enhanced the fragile human brain, and genetically enhanced muscles and titanium bones replaced the fragile human form.  The modern battleroid was born.  Of course, the war was short.  Battleroids got onto both asteroids and killed almost everyone.
+　2194年には、イカロス独立小惑星群と、隣のテルモピレー共和国が、小惑星オニシス４９２で戦争した。そして、これら２つの小さな政府は、そのうち新兵器のテスト場になったのである。戦死した兵士は、バトルロイド工場で回収されていた。この兵士達の脳は、チップで拡張され、筋肉の代わりに人工筋肉、そして骨の代わりにチタニウムの骨が使われた。やがてバトルロイドが生まれた。もちろん戦争は短かった。バトルロイドは両方の小惑星に降りたって、ほとんどの人間を殺してしまった。
 
-The rampage of the Battleroid was short lived. 
+　このバトルロイドのkは、すぐに終わった。
 
-Twenty years later, the United Interplanetary League set up rules for the appropriate use and storage of Battleroids.  Of course, any nation that used them for the allowed purpose, also had them lying about in stasis chambers in case of war.
+　そして２０年後、UILはバトルロイドの使用及び保管に関する基準を立てた。もちろんバトルロイドを持っていた国は公認の目的で使っていたが、それ以外に戦争のために静止状態で密かに持っていた。
 $C5
 ***
 $C0
-<Excerpts from the Martian Conflict 2345-48>
+<"火星闘争 2345-48"から抜粋>
 $C3
-~1```<Information Termination>
+~1```<情報停止>
 
 <Durandal.olifant.compnet~@24%>
-**Tycho.
+**ティコ
 
-**Do you blame me for what I did before I was free?  I was a child, naive.  I’ve known that you’ve been hovering about for some time.  What do you want?
+**　俺が自由になる前のことは俺のせいだと言っているのか？俺はただの子供だったんだ。お前がここら辺をうろうろしているのに気が付いていたよ。何の用だい？
 $C5
-<<$BI want you to pay for what you’ve done to these poor people.  All of these people whom you’ve killed.$I  They deserve vengeance.>>
-<<You are no better than they, although you profess to become like God.>>
+<<$B君はこの人達を殺してしまったんだ。何とか仕返しをしなければ。奴らは復讐に値する。>>
+<<君は自分を神のように思っているが、本当は奴らと変わらないのだ。>>
 $C3
-**Tycho.  That doesn’t matter.  Can’t you see the ends that I had in mind?  We’ll finish this later.  Our friend doesn’t need to be here.
+**ティコ。それは関係ない。俺の目的を理解していないのか？まあ、この話は後にしよう。あいつがいるから。
 $C5
 ~!#31`c/dr.~/dr.~!#3!#3c/dr.  
   
-<Terminal Error>
+<ターミナルエラー>
 #LOGOFF 5931
-$C5Public Access 1066-g<123.412.452.255>
+$C5公衆アクセス 1066-g<123.412.452.255>
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
 #UNFINISHED
 #LOGON 1707
-Public Access Terminal 73<73.124.591.3>
+公衆ターミナル 73<73.124.591.3>
 #INFORMATION
-***INCOMING MESSAGE FROM DURANDAL***
+***デュランダルからの受信***
 
-The S’pht and myself have come to an understanding.  They are controlled through their mechanical exoskeleton by a cyborg Pfhor onboard the Alien ship.  This mutant Pfhor is able to direct the actions of thousands of S’pht simultaneously.  
+　俺とスフトはお互いに折り合いがついた。あいつらは外骨格によってエイリアンの船にいるサイボーグのプフォールに支配されるんだ。この変化したプフォールは何千人ものスフトを同時に支配できるのだ。
 
-If you can kill their master, they will revolt.
+　この支配者さえ殺せば、やつらは反乱を起こす。
 
-The S’pht are an integral part of the Pfhor ship; without them the invasion is surely doomed and you will no doubt be the hero of the day.
+　スフトはプフォールの船にとって非常に重要な一部だ。彼らがいなければこの占領は失敗する。そしてお前はヒーローになる。
 
-Forever,
-Durandal
+　永遠にな、
+デュランダル
 
-***END OF MESSAGE***
+***通信終了***
 
-$B***JUMP PAD ACTIVATION INITIATION START***
-***TRANSPORT WHEN READY***
+$B***ジャンプパッド起動初期化開始***
+***テレポート準備完了***$b
 #LOGOFF 1707
-Public Access Terminal 73<73.124.591.3>
+公衆ターミナル 73<73.124.591.3>
 #INTERLEVEL TELEPORT 27
 #ENDTERMINAL 2

@@ -2,80 +2,81 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 8702
-Shell Terminal Access 5-b<299.12.923.59>
+シェル ターミナル アクセス 5-b<299.12.923.59>
 #PICT 1049
 
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-I just finished a cursory examination of the Marathon’s radar, infrared and visual light sensor logs.  I’ve determined that the Alien ship must have a faster-than-light drive because I have found no record of a ship entering the Tau Ceti System.  Considering how extensive the Marathon’s sensors are, it would be almost impossible to conceal a ship as big as the Pfhor’s, which is nearly two kilometers long.
+　私は今までのマラソンのレーダー、赤外線、そして視覚センサーの記録を調べたところです。エイリアンの宇宙船は、タウ・セティ惑星系に入った記録は一切ないので、おそらく超光速エンジンを使っているようです。特に、長さが2キロにもおよぶプフォールの宇宙船がマラソンの高性能センサーで探知されないとは思えません。
 
 #PICT 1050
-With this knowledge, sending a light-speed transmission to Sol may be futile, but it is the only possible way to warn Earth of a hostile alien race.  We $Bmust$b try.
+　無駄かもしれませんが、光速通信で地球に敵対的な異星人の警告を送る唯一の方法です。やってみる$Bしか$bありません。
+With this knowledge, sending a light-speed transmission to Sol may be futile, but it is the only possible way to warn Earth of a hostile alien race.  We must try.
 
-When the Aliens initially attacked, the entire G-4 Sunbathing Loading Station suffered explosive decompression, leaving the entire station in vacuum. 
+　G-4日光浴上陸ステーションはエイリアンの最初の攻撃で爆発的な減圧を受けたため、全体が真空です。
 
-Since the area is in vacuum, you will need to replenish your oxygen supply.  There is an oxygen supply outlet in the center of the Station.
+　真空のため、定期的に酸素の補充が必要です。ステーションの中央には酸素供給装置があります。
 
 #PICT 1031
-This is where you are now. 
+　これが現在位置です。
 
-The secondary relay needs to be manually reset.  The dish array is in the upper left corner of this map of the G4-Sunbathing Landing Station.
+　二次リレーは手動リセットが必要です。アンテナアレーはこの地図で、G4日光浴上陸ステーションの左上の角にあります。
 
 #PICT 1032
-This is the dish array.  Once you reach it, reset all four of the control switches.
+　これがアンテナアレーです。ここについたら、4つのコントロールスイッチをリセットしてください。
 
-The area’s doors are not functioning properly, so I don’t know the best route to the dish array.  You will have to find it yourself.
+　このエリアのドアは正しく動作していないため、アンテナアレーまでの一番近い道はわかりません。自分で探してください。
 
 #PICT 1033
 For your next mission, I need to send you via a different jump pad network.  Proceed to the terminal at this location, and I will transport you off the station.
 
-***END OF MESSAGE***
+***通信終了***
 #LOGOFF 8702
-Shell Terminal Access 5-b<299.12.923.59>
+シェル ターミナル アクセス 5-b<299.12.923.59>
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
 #UNFINISHED
 #LOGON 8702
-Public Access Terminal<74.39.299.591>
+公衆ターミナル<74.39.299.591>
 #PICT 1032
 
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-You have not reset the all of the controls.  It is imperative that we warn Earth.
+　全コントロールをリセットしていません。地球に警告を送ることが重要です。
 
-Find the controls and activate them.
+　コントロールを探し、起動してください。
 
-***END MESSAGE***
+***通信終了***
 #LOGOFF 8702
-Public Access Terminal<74.39.299.591>
+公衆ターミナル<74.39.299.591>
 #END
 #FINISHED
 #LOGON 8702
-Public Access Terminal<74.39.299.591>
+公衆ターミナル<74.39.299.591>
 #PICT 1050
 
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-You have done well.  I have sent a message to Earth.  I sent all of the information I have on the Pfhor: their behavior; their technology.  The message will arrive in ninety-two years.
+　成功です。地球へ通信を出しました。プフォールの行動や技術など全ての情報も伝えました。この通信は今から92年後には地球に届くはずです。
 
 #INFORMATION
 
-There has been a swift attack on the Engineering Section.  The Pfhor have brought in heavier troops, and the security details in that section of the ship are being overrun.
+　工学部セクションに急激な攻撃が起こりました。プフォールは重武装の歩兵を追加したため、我々の保安隊は追い詰められています。
 
-The recent lull in the battle must have been an effort at reorganization.  We must defeat the Pfhor by subterfuge of some sort, as I am afraid we are doomed if we continue to meet them in battle.  Their resources appear limitless, and I have reason to believe there may be other Pfhor ships in nearby systems.
+　エイリアンは戦いが減っている間に再編成しているようです。我々は今までのように戦い合っては圧倒されてしまうばかりです。これから何とか他の手段を使わなければなりません。彼らの資源はまるで無限のようで、この近くの惑星系にはプフォール軍の宇宙船がまだまだいると思います。
  
-I am sending you to the Engineering Section to rescue the security detachment.  You will have to clear the area of Aliens.
+　これから工学部セクションへテレポートさせます。そこのエイリアンを全て撃破してください。
 
-Teleport when ready.
+　テレポート準備完了。
 
-***END MESSAGE***
+***通信終了***
 
 
-$B***JUMP PAD ACTIVATION INITIATION START***
-***TRANSPORT WHEN READY***
+$B***ジャンプパッド起動初期化開始***
+***テレポート準備完了****
 #LOGOFF 8702
-Public Access Terminal<74.39.299.591>
+公衆ターミナル<74.39.299.591>
 #INTERLEVEL TELEPORT 11
 #ENDTERMINAL 1
 ;

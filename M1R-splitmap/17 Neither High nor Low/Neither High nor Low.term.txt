@@ -2,59 +2,59 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 1707
-Public Access Terminal 39-f<13.19.31.37>
+公衆ターミナル 39-f<13.19.31.37>
 #INFORMATION
 
-***INCOMING MESSAGE FROM DURANDAL***
+***デュランダルからの受信***
 
-Give me a D.
-Give me a U.
-Give me an R.
-Give me an A.
-Give me an N.
-Give me a D.
-Give me an A.
-Give me an L.
+Dをくれ。
+Uをくれ。
+Rをくれ。
+Aをくれ。
+Nをくれ。
+Dをくれ。
+Aをくれ。
+Lをくれ。
 
-What does it spell?
+　これは何を綴っているのかな？
 
-Durandal?
-No.
+　デュランダル？
+　いや。
 
-$BDurandal$b?
-$INo$i.
+$Bでゅらんだる$b？
+$Iいや$i。
 
 
 
-T-R-O-U-B-L-E.
+ト・ラ・ブ・ル
 
-T-Minus 15.193792102158E+9 years until the universe closes!
+Ｔマイナス15.193792102158E+9 年に、宇宙が閉じるよ！
 
-***END OF MESSAGE***
+***通信終了***
 #LOGOFF 1707
-Public Access Terminal 39-f<13.19.31.37>
+公衆ターミナル 39-f<13.19.31.37>
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
 #UNFINISHED
 #LOGON 1707
-Public Access Terminal 13-n<3.47.391.30>
+公衆ターミナル 13-n<3.47.391.30>
 #INFORMATION
 
 
-***INCOMING MESSAGE FROM DURANDAL***
+***デュランダルからの受信***
 
-You are about to see what no human has ever seen.  This is a fact-finding mission.  You should explore as much as possible.
+　お前は、今まで人類が見たことのないものを見る。お前の任務は、実情調査だ。できるだけ情報を取って来い。
 
-Stop in front of a window.  If you stop and are not teleported, then either I can't lock onto your teleport beacon, or else I feel you haven't explored the area thoroughly enough.
+　これから先では窓の前に立ってごらん。止まった時にテレポートされなければ、テレポート信号にロックできないか、その付近をまだ十分探索していないということだ。
 
-I will be watching everything.
+　俺は、全てを見ているからな。
 
-***END MESSAGE***
+***通信終了***
 
-$B***JUMP PAD ACTIVATION INITIATION START***
-***TRANSPORT WHEN READY***$b
+$B***ジャンプパッド起動初期化開始***
+***テレポート準備完了***$b
 #LOGOFF 1707
-Public Access Terminal 13-n<3.47.391.30>
+公衆ターミナル 13-n<3.47.391.30>
 #INTERLEVEL TELEPORT 22
 #ENDTERMINAL 1

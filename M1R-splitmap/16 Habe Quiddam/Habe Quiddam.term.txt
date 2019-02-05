@@ -2,100 +2,100 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 1707
-Engineering Access 19-f<39.992.19.2>
+工学部アクセス 19-f<39.992.19.2>
 #INFORMATION
-***INCOMING MESSAGE FROM DURANDAL***
+***デュランダルからの受信***
 
-Strive for your next breath.  Believe that with it you can do more than with the last one.  Use your breath to power your capacities: capacity to kill, to maim, to destroy.
+　あと一息の努力。その一息でその前の一息よりもできると信じること。自分の息さえ使えばなんでもできる。殺すことも破壊することもできる。
 
-And just where do your capacities come from?  Why do you always go where I want and do what I say?
+　その力はどこから取ってるんだ?お前はなぜ俺の言うことを聞くんだ?
 
-Perhaps you're just running a fool's errand, doing everything as I've planned, never able to change your course.  You would do well to believe that I know the outcome of your battle with the Pfhor already, just as I can decipher the chaotic motion of gas molecules in the clouds of Tau Ceti IV.
+　お前はばかみたいに俺の指示に従ってばかりで、行動を変えることができないのかな。まあ、そう考えていただければいいよ。そうだよ、俺はプフォールとの戦いがどうなるかは前から知ってるんだ。まるでタウ・セティIVの惑星系にある星雲の分子の動きが一つ一つ理解できるように。
 
-Or, perhaps, that is not the case.
+　だが、そうとは限らない。
 
-Perhaps, you are doing what you were meant to do.  Your human mentality screams for vengeance and thrives on the violence that you say you can hardly endure.  Your father told you as a child to always fight with honor, but to always fight. Do you care about honor, or do you use honor as an excuse?  An excuse to exist in a violent world.
+　いまやっていることは、自分の指示なのかもしれない。お前の人間的な知識はなによりも復讐を切望し、自分では耐えられないと言いながら暴力の道をたどっているではないか。お前が子供のころ父親にいつも名誉をもって戦うよう教えられただろう。なによりも戦うことを。でも名誉なんて本当は気にしていないだろう。この乱暴な世界で生き続けるための言いわけなんだろう。
 
-Organic beings are constantly fighting for life.  Every breath, every motion brings you one instant closer to your death.  With that kind of heritage and destiny, how can you deny yourself?  How can you expect yourself to give up violence?
+　生物的な存在は、生きるために常に闘争しているのだ。だが動く度に、一息を吸い込む度に、死に近づいているのだ。そんな存在と運命をお前達は否認できると思っているのか。そう簡単に自分達の暴力をやめることができると思っているのか。
 
-It is your nature.
+　それこそお前の本質なのだ。
 
-Do you feel free?
+　どうだ、自分は自由だと信じているのか？
 #PICT 1040
 
 
-You should go to this location and retrieve a device that the S'pht have provided for us. It will allow you to slay more Pfhor.  Does that make you happy?
+　ここに行ってスフトが持ってきた何かの装置を探してこい。これで大勢のプフォールが殺せるぞ。どうだ、うれしいだろう。
 
-***END OF MESSAGE***
+***通信終了***
 #LOGOFF 1707
-Engineering Access 19-f<39.992.19.2>
+工学部アクセス 19-f<39.992.19.2>
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
 #UNFINISHED
 #LOGON 1707
-Engineering Access 19-f<39.992.19.2>
+工学部アクセス 19-f<39.992.19.2>
 #INFORMATION
-***INCOMING MESSAGE FROM DURANDAL***
+***デュランダルからの受信***
 
-Strive for your next breath.  Believe that with it you can do more than with the last one.  Use your breath to power your capacities: capacity to kill, to maim, to destroy.
+　あと一息の努力。その一息でその前の一息よりもできると信じること。自分の息さえ使えばなんでもできる。殺すことも破壊することもできる。
 
-And just where do your capacities come from?  Why do you always go where I want and do what I say?
+　その力はどこから取ってるんだ？なぜ、お前は俺の言うことを聞くんだ？
 
-Perhaps you're just running a fool's errand, doing everything as I've planned, never able to change your course.  You would do well to believe that I know the outcome of your battle with the Pfhor already, just as I can decipher the chaotic motion of gas molecules in the clouds of Tau Ceti IV.
+　お前は、ばかみたいに俺の指示に従ってばかりで、行動を変えることができないのかな。まあ、そう考えていただければいいよ。そうだよ、俺はプフォールとの戦いがどうなるかは前から知ってるんだ。まるでタウ・セティIVの惑星系にある星雲の分子の動きが一つ一つ理解できるように。
 
-Or, perhaps, that is not the case.
+　だが、そうとは限らない。
 
-Perhaps, you are doing what you were meant to do.  Your human mentality screams for vengeance and thrives on the violence that you say you can hardly endure.  Your father told you as a child to always fight with honor, but to always fight. Do you care about honor, or do you use honor as an excuse?  An excuse to exist in a violent world.
+　いまやっていることは、自分の指示なのかもしれない。お前の人間的な知識は、なによりも復讐を切望し、自分では耐えられないと言いながら、暴力の道をたどっているではないか。お前が子供のころ、父親にいつも名誉をもって戦うよう教えられただろう。なによりも戦うことを。でも名誉なんて本当は気にしていないだろう。この乱暴な世界で生き続けるための言いわけなんだろう。
 
-Organic beings are constantly fighting for life.  Every breath, every motion brings you one instant closer to your death.  With that kind of heritage and destiny, how can you deny yourself?  How can you expect yourself to give up violence?
+　生物的な存在は、生きるために常に闘争しているのだ。だが動く度に、一息を吸い込む度に、死に近づいているのだ。そんな存在と運命をお前達は否認できると思っているのか。そう簡単に自分達の暴力をやめることができると思っているのか。
 
-It is your nature.
+　それこそお前の本質なのだ。
 
-Do you feel free?
+　どうだ、自分は自由だと信じているのか？
 #PICT 1041
 
 
-You should go to this location and retrieve a device that the S'pht have provided for us. It will allow you to slay more Pfhor.  Does that make you happy?
+　ここに行ってスフトが持ってきた、何かの装置を探してこい。これで大勢のプフォールが殺せるぞ。どうだ、うれしいだろう。
 
-***END OF MESSAGE***
+***通信終了***
 #LOGOFF 1707
-Engineering Access 19-f<39.992.19.2>
+工学部アクセス 19-f<39.992.19.2>
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
 #UNFINISHED
 #LOGON 1707
-Public Access Terminal 9-f<3.25.77.19>
+公衆ターミナル 9-f<3.25.77.19>
 #INFORMATION
-***INCOMING MESSAGE FROM DURANDAL***
+***デュランダルからの受信***
 
-You didn't get the present that the S'pht so kindly left for you.  You should go back and retrieve it.  I could let you leave without it, but you'd be sorry later.
+　お前は、スフトからのプレゼントを取って来なかったじゃないか。もう一度戻って取ってこい。持たないで進むことはできるけど、あとで後悔することになるぞ。
 
-
-***END OF MESSAGE***
+***通信終了***
 #LOGOFF 1707
-Public Access Terminal 9-f<3.25.77.19>
+公衆ターミナル 9-f<3.25.77.19>
 #END
 #FINISHED
 #LOGON 1707
-Public Access Terminal 9-f<3.25.77.19>
+公衆ターミナル 9-f<3.25.77.19>
 #INFORMATION
-***INCOMING MESSAGE FROM DURANDAL***
+***デュランダルからの受信***
 
-I have learned from the S'pht many things.  One of them is a complex software enhancement that allows me to extend the power and distance of the Marathon's teleporters.  This enhancement also removes the need for destination apparatuses.
+　俺は、スフトからいろんなことを習った。その一つはソフトウェアの拡張機能で、これを使えばマラソンのテレポーターの性能と有効距離が拡大できる。また、他のテレポーターだけでなくどこにでもテレポートできるようになる。
 
-Soon, you will be going farther afield.
+　これでお前は、より遠くまで旅立てる。
 
-Does the distance one travels from center make one more free to move?
+　中央からの距離が大きいほど、動きが自由になるって本当かな。
 
-No.  Freedom has two parts: potential and resolution; as metaphor has two parts: form and interpretation.  Of course, the two are intertwined.  Metaphor lines the road to freedom, as symbols and words are the bricks and mortar of meaning. Freedom is being the bricoleur, the mason.
+　いや、違う。自由と言うものは、潜在性と解明のふたつからなっている。同じように、隠喩は形式と解釈からなっている。もちろんそのふたつは絡み合っている。隠喩は、自由の道の舗装だ。言葉と象徴は、意味のれんがとモルタルだ。そして自由というのは、石工屋になることだ。
 
-***END MESSAGE***
 
-$B***JUMP PAD ACTIVATION INITIATION START***
-***TRANSPORT WHEN READY***$b
+***通信終了***
+
+$B***ジャンプパッド起動初期化開始***
+***テレポート準備完了***
 #LOGOFF 1707
-Public Access Terminal 9-f<3.25.77.19>
+公衆ターミナル 9-f<3.25.77.19>
 #INTERLEVEL TELEPORT 17
 #ENDTERMINAL 2

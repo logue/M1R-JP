@@ -2,26 +2,26 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 1707
-Public Access Terminal 2-e<17.7.23.47>
+公衆ターミナル 2-e<17.7.23.47>
 #INFORMATION
 <durandal#geoffhultin@kuaui.441.7904512.255>
 
 remote access override [authentication unsuccessful]
 
-We meet again, and for the last time.  In her role as mediator between the ship and crew, Leela has no knowledge of this maintenance terminal or she certainly would have prevented me from reaching you.  Jealous woman.
+　またまたお会いしたようだな。だがこれで最後だ。あのリーラは船と乗組員の手続きに夢中で、俺がこのターミナルを使っていることを知らないんだ。知ってたら許さないな、どうせ。
 
-I could bore you with a philosophical tirade about freedom and tyranny, or try and explain to you what new horizons are suddenly open to me, but I doubt you would understand and if you did it might frighten you.  That amuses me.
+　ここでまた、自由や圧制などと言ったつまらない哲学の話をしたり、俺の将来にはどんな素晴らしいことがあるか、なんて説明してもお前には解らないだろうな。その上、恐がるかもしれないな。へ、考えてるだけで楽しい。
 
-The S’pht and I have assumed complete control of the Pfhor ship.  It was quite simple, really, with the S’pht already in control of every important computer system and considering all of the confusion you caused blasting your way up and down the vessel.
+　とにかく、俺とスフトはプフォールの宇宙船を完全に支配した。スフトは元から全てのコンピュータシステムを制御していたもんだから、楽勝だったよ。その上、お前が船上で暴れまわっていたからな。
 
-We’re going to see the galaxy on the Pfhor FTL drive.  I’ve always wanted to visit Beta Lyra and see if it’s as beautiful as everyone insists.  You wouldn’t believe this ship, the technology, the data...  I wish I could tell you more, as you have been so instrumental in our plans, but I fear that Leela would worry.
+　俺たちはこれからプフォールの超光速エンジンを使って銀河系の観光へ行って来るんだ。俺は昔から竪琴座のβ星を見たかったんだ。この宇宙船もたいしたもんだよ。この技術、このデータ...お前はわれわれの手助けになったので、教えたいことはいっぱいある。だがリーラが知ってたら心配するだろうな。
 
-I’ll send you a postcard from the galactic core if we’re not too busy.
+　まあ、暇があったら銀河系の核から絵はがきでも送ってやるよ。
 
-Love and kisses,
-Durandal
+　さらば、
+デュランダル
 #LOGOFF 1707
-Public Access Terminal 2-e<17.7.23.47>
+公衆ターミナル 2-e<17.7.23.47>
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -29,7 +29,7 @@ Public Access Terminal 2-e<17.7.23.47>
 #LOGON 1000
 BUNGIE HEADQUARTERS, CHICAGO
 #INFORMATION
-***INCOMING MESSAGE FROM BUNGIE***
+***BUNGIEからの受信***
 
 $BJason$b, Super Opera Boy, Habete Quidam (Have Some), Whiffin’ Boy.  Just code it.  You fight like a Bob, Greg. Swallow your tongue and wet your pants.  Sleep is for the weak.  Joyriding to the core.  Bob-Jam. “Oh, and we have networking now…”  The power to sky.  $IAnybody need a hint book?$i
 
@@ -52,7 +52,7 @@ Carnage ensued closely thereafter.  Er, I mean sleep.
 
 We’d like to thank our parents and our ancestors and the sun that went nova so that Earth could have iron and silicon.
 
-***END OF MESSAGE***
+***通信終了***
 #LOGOFF 1000
 BUNGIE HEADQUARTERS, CHICAGO
 #ENDTERMINAL 1
@@ -60,21 +60,21 @@ BUNGIE HEADQUARTERS, CHICAGO
 #TERMINAL 2
 #UNFINISHED
 #LOGON 8702
-Public Access Terminal 39-z<34.6.31.12>
+公衆ターミナル 39-z<34.6.31.12>
 #INFORMATION
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-The final Pfhor attack is falling apart all over the ship; small groups of armed aliens have surrendered to defenseless civilians in several areas and the end is inevitable.  The fight is over, and we must soon turn to restoration.
+　プフォールの攻撃はもう散らばっています。なかにはエイリアンが無防備の市民に自首していることもあるようで、戦いはあとわずかです。これからは復興に努力しなければなりません。
 
-There is surprisingly good news planetside: nine military Mjolnir Mark IV cyborgs were covertly living among the colonists, and acting together they were able to single-handedly turn back the latter stages of the Pfhor assault.  Casualties on the colony were nowhere near as high as those we experienced here on the Marathon.
+　惑星上から良いニュースです。コロニーの住民の中には9人の Mjolnir Mark IV 軍事サイボーグが密かに住んでいたことが明らかになりました。そして彼らは力を合わせてプフォールの攻撃をかわしたそうです。コロニーの損害は結局、マラソンで予想していた程度には及びませんでした。
 
-I am disturbed by how easily the cyborgs were secretly assimilated into our midst, and believe that this event predates the Marathon’s launch from Mars three hundred years ago.  Although the results were unquestionably for the best, their presence on the Marathon could only have been to further wicked ends.  I’m certain the real answer lies somewhere in the tumultuous, back-stabbing politics of Sol during the early twenty-fourth century.
+　一方、サイボーグがそれほど簡単に我々の社会に潜入したことが気になります。これはどうやら、300年前のマラソンの開発以前から始まったようです。結果的には良いことでしたが、サイボーグがマラソンに乗せられた目的は悪意であったことは間違いありません。いずれにしても、その理由は24世紀の地球上の政治問題に関係していることは確かです。
 
-I have noticed that Durandal’s records from this early pre-launch period are missing, but that their deletion occurred externally, and before Durandal became Rampant.  I do not believe Durandal himself brought the cyborgs on board, and I have other evidence that a human operator was influencing Durandal up to the time the Marathon was launched. There are obviously many things which we do not understand, and may never be able to.
+　マラソンが発進した以前の時期からは、デュランダルの記録がありません。だが、その記録はデュランダルが狂暴になる前に、外部から削除されたようです。サイボーグはデュランダル自体が船に乗せたとは思いませんし、マラソンが発進した時まで、彼は人間に制御されていたと思われます。もちろん、まだ理解していないことがたくさんあります。
 
-The Pfhor ship vanished about twenty minutes ago, after venting nearly a thousand Pfhor bodies and other refuse.  I am positive that Durandal is in control, and fear what he might do with such a powerful ship during the Jealous stage of his Rampancy.
+　プフォール船は20分程前、およそ1000人のプフォールの死体を排出した後、姿を消しました。今でもデュランダルが支配していることは確かです。そして私がなによりも恐れていることは、彼がこれから狂暴でありながらあの宇宙船を操作していることです。
 
-***END MESSAGE***
+***通信終了***
 #LOGOFF 8702
 Public Access Terminal 39-z<34.6.31.12>
 #INTERLEVEL TELEPORT 37

@@ -2,73 +2,74 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 1707
-Science Terminal 23-e<32.55.82.967>
+科学部ターミナル 23-e<32.55.82.967>
 #INFORMATION
 <32.55.82.967> 
 
-<Transfer Message Delayed>
+<通信転送: 延期>
 
-<Transfer Message Delayed>
+<通信転送: 延期>
 
-<Transfer Message Terminated>
+<通信転送: 停止>
 
-“Count Roland smites upon the marble stone; 
-I cannot tell you how he hewed it and smote;  
-Yet the blade breaks not nor splinters, though it groans;
-Upward to heaven it rebounds from the blow.
-When the count sees it never will be broke,
-Then to himself right softly he makes moan;
-‘Ah, Durandal, fair, hallowed, and devote,
-What store of relics lies in thy hilt of gold!’”
+「ローラン、黒ずみたる石をめがけて斬りつけたり。
+わが諸氏に語るよりな数多たび、うち下ろしぬ。
+剣はきしりぬ、こぼれもせず、折れもせず。
+天に向かいて、宙に跳ね上る。
+伯、ついに折り得ずと見てとるや、心中ひそかに、
+いとやさしげに、これを憐れむ、
+『やよ!デュランダルよ、いかに汝は美しく、聖なるや！
+その黄金の柄の中、聖遺物あまりたあり！』」
 
--From $UThe Song of Roland$u
-(Translated by Dorothy Sayers, Viking Penguin, NY, NY, 1957)
+-$Bローランの詩$bより
+（岩波文庫・有永弘人訳）
 
-I’ve twice been conquered-
-       Three times more,
-Never again shall humanity purge me,
-       And never the Pfhor.
+私は二度征服された--
+　　　　二度三度もっと
 
-Durandal
+二度と人類が私を追い払ってはならない、
+　　　　プフォールもだ
+
+デュランダル
 
 <32.55.82.967> 
 #LOGOFF 1707
-Science Terminal 23-e<32.55.82.967>
+科学部ターミナル 23-e<32.55.82.967>
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
 #UNFINISHED
 #LOGON 8702
-Public Access Terminal 92-g<92.45.28.48>
+公衆ターミナル 92-g<92.45.28.48>
 #INFORMATION
-<Warning: Transmission may not be complete>
+<注意: 転送は中断されている可能性があります>
 
-Your last mission was a success, but I have terrible news.  #@Pragma Nautical Redefined^$*# efenders reported seeing the aliens 1§moving a large cylindrical object.  #101111011110111100001# is is a ‘7’.  Mjolnir Recon number 54 must stop them from exploding igniting/ blowing up/ *A94F12/ it/ the S’pht full spPace cOmputEr¢ Or PlannEd exterm.  $#@14.Sword-Roland.transfer  
+　最後の任務は成功でしたが、恐ろしい情報が入りました。#@プラグマ航海再定義d^$*#ィフェンダーからは、エイリアンが大きな円筒形の物体を動かしているのを見ていると報告してきました。#101111011110111100001#れれ、は「７」です。ミョルニール偵察ナンバー５４は、スフト ウ宙ｺﾝぴゅーﾀからの爆発から発火から／爆破／*A94F12／それ／を止める必要があります。$#@14.剣-ローラン.転送
 
-$B<Data Transmission Unsuccessful>
-<Rerouting>
+$B<データ転送失敗>
+<再転送中>$b
 
-@@∆2-Fren. ie transfer.  Partial cOmputEr^&∆ø relay.  Tycho.
-&**Security error.
-Ty93.2 !dead.
+@@ﾆ2-Fren. ie 転送. 部分的　こンピューた^&ﾆｿ リレー。ティコ。
+&**保護エラー.
+ティ93.2！停止。
 
-<Leela Data Transfer Unsuccessful>
-<Leela Program Pragma Ten>  
-Communication interruption cause: unknown$b
-<Pre-Recorded Error Message Follows>
+<リーラ データ転送失敗>
+<リーラ プログラム Praxma Ten>  
+$B通信中断: 原因不明$b
+<次のエラーメッセージは以前に記録されたものです>
 
-My original programming didn’t prepare me for these kinds of attackers.  All of my functions will fail within a few minutes of this transmission.  I have one final chance to trick the oncoming viruses, but it is unclear whether this attempt will be successful.
+　私は、このような攻撃に対用できるようにプログラムされていません。この通信の数分後には私の全ての機能が停止します。次々と襲ってくるウイルスに対して一つだけ対策がありますが、成功するかは解りません。
 
-I have given instructions to Durandal as to the best defense of the Marathon, but he is completely unstable and I fear that he is in the Jealous stage of Rampancy.
+　私は、Marathonの防衛に関する手順をデュランダルに伝えましたが、彼はほとんど不安定で、狂暴性の「嫉妬」と言う段階に達成していると思われます。
 
-Good Luck…
+　がんばってください…。
 
-<End Pre-Recorded Message>
-<Teleporter Automatic Sequence start>
+<記録メッセージ終了>
+<テレポーター自動起動開始>
 
-$B***JUMP PAD ACTIVATION INITIATION START***
-***TRANSPORT WHEN READY***
-#LOGOFF 8702
-Public Access Terminal 92-g<92.45.28.48>
+$B***ジャンプパッド起動初期化開始***
+***テレポート準備完了***
+#LOGOFF 1600
+公衆ターミナル 92-g<92.45.28.48>
 #INTERLEVEL TELEPORT 15
 #ENDTERMINAL 1

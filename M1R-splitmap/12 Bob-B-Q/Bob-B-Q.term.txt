@@ -2,17 +2,19 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 8702
-Public Access Terminal<78.39.3.91>
+公衆ターミナル<78.39.3.91>
 #INFORMATION
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-You haven't completed your mission. Don't come back until the security detachment is safe and the area is clear of aliens.
+　あなたは、まだ任務を終えていません。このエリアのエイリアンを一掃し、保安を確保するまで戻ってこないでください。
+
+***通信終了***
 #LOGOFF 8702
-Public Access Terminal<78.39.3.91>
+公衆ターミナル<78.39.3.91>
 #END
 #FINISHED
 #LOGON 8702
-Public Access Terminal<78.39.3.91>
+公衆ターミナル<78.39.3.91>
 #INFORMATION
 ***INCOMING MESSAGE FROM LEELA***
 
@@ -38,22 +40,22 @@ Public Access Terminal<78.39.3.91>
 #LOGON 8702
 Public Access Terminal<78.39.3.91>
 #INFORMATION
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
-You let too many crew members die.  You have failed in your mission.
+　あまりにも大勢の乗組員が死んでしまいました。あなたは任務に失敗しました。
 
-I was unable to gain any useful information from the rescued .&2`
+　救助された乗組員からの情報はほとんど .&2`
 
-We must head off the Pfhor threat to the Engineering section.  I am going to send you into the primary re~Tick Count=>$Bfirst_thought$b $U#49$u.  
-You must clear the area of all aliens before they destroy the Primary Reactors.
+　工学部はプフォールの攻撃から守らなければいけません。これから主要原〜瞬間カウント→$B最初＿考え$b$I#49$iへテレポートします。
+　主要原子炉が破壊される前に全てのエイリアンを倒すことが必要です。
 
-~[p[]]*kc3sla/.U
+‾[p[]]*kc3sla/.U
 
-***MESSAGE INTERRUPTED***
+***通信中断***
 
-$B***JUMP PAD ACTIVATION INITIATION START***
-***TRANSPORT WHEN READY***
+$B***ジャンプパッド起動初期化開始***
+***テレポート準備完了***$b
 #LOGOFF 8702
-Public Access Terminal<78.39.3.91>
+公衆ターミナル<78.39.3.91>
 #INTERLEVEL TELEPORT 13
 #ENDTERMINAL 0
