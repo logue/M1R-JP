@@ -12,7 +12,7 @@
 #PICT 1020
 　これが現在位置です。すぐとなりには乗組員が敵軍と戦っています。
 #PICT 1021
-　ここにあるパターンバッファはすぐ使ってください。 I will attempt to teleport ammunition to you here as it becomes available.
+　ここにあるパターンバッファはすぐ使ってください。使用可能になったときに、ここに弾薬をテレポートさせます。
 #PICT 1022
 　エリアを保安した後、このターミナルからテレポートできます。
 #LOGOFF 8702
@@ -50,16 +50,16 @@
 #LOGON 8702
 公衆ターミナル 8-f<29.43.95.93>
 #INFORMATION
-***INCOMING MESSAGE FROM LEELA***
+***リーラからの受信***
 
 You have done well.  The area is secure, and the civilians are now giving me reports as to what they have seen since the invasion began.  Hopefully, some of their information will become useful.
 
 The Aliens seem to have been caught off guard by the strength of our counterattack.  This is good news, but I have detected more ships landing on the Marathon, and I fear that the Aliens are reinforcing their efforts.
 
-***END OF MESSAGE***
+***通信終了***
 
-***$BJUMP PAD ACTIVATION INITIATION START$b***
-***$BTRANSPORT WHEN READY$b***
+***$Bジャンプパッド起動初期化開始$b***
+***$Bテレポート準備完了$b***
 #LOGOFF 8702
 公衆ターミナル 8-f<29.43.95.93>
 #INTERLEVEL TELEPORT 8
@@ -76,8 +76,8 @@ The Aliens seem to have been caught off guard by the strength of our counteratta
 
 ***通信終了***
 
-$B***ジャンプパッド起動初期化開始***$b
-$B***テレポート準備完了***$b
+***$Bジャンプパッド起動初期化開始$b***
+***$Bテレポート準備完了$b***
 #LOGOFF 8702
 公衆ターミナル 8-f<29.43.95.93>
 #INTERLEVEL TELEPORT 8
