@@ -6,11 +6,11 @@
 #INFORMATION
 ***リーラからの受信***
 
-　マラソンの自動製造システムは新しい回路を完成しました。合計3つの回路があり、それぞれ製造室に格納されています。
+　Marathonの自動製造システムは新しい回路を完成しました。合計3つの回路があり、それぞれ製造室に格納されています。
 
-　エイリアンのウイルスはまだ製造システムに侵入していないはずですが、侵入しているとしても、私には意識することが不可能です。私のシステムへの攻撃は強まっています。ティコは工学ネットワークを担当しています。 and he is preoccupied with the increasingly steady attacks on our systems.すぐに反撃して侵入者を破壊しなければ、私は征服されてしまいます。
+　エイリアンのウイルスはまだ製造システムに侵入していないはずですが、侵入しているとしても、私には意識することが不可能です。私のシステムへの攻撃は強まっています。ティコは工学ネットワークを担当していますが、私達のシステムへ集中攻撃を行っています。すぐに反撃して侵入者を破壊しなければ、私は征服されてしまいます。
 
-　ただちに反撃に移ることが重要です。マラソンは決して無防備ではありませんが、戦わずに取られてはなりません。
+　ただちに反撃に移ることが重要です。Marathonは決して無防備ではありませんが、戦わずに取られてはなりません。
 
 ***メッセージ終了***
 
@@ -182,9 +182,10 @@ $B<警告>$b
 #PICT 1702
 $B自動製造システムはオフラインです。$b
 
-Human!  You mu~t find a jump p4d and install those circuts!  I have expended [precious,limited] processor cycles creating them for you and AI:870229, cycles I could have expended figh````ting!ing the alien compilers.  You mus7_~4ve the vic#*ms of %*)~n^^J!
+人間よ！君はジャップパしトを探してこれらの回路をインストールしなければ７らない！私は、君とAI：870229ののために［貴重な，限られた］処理サイクルを費やしたんだ。エイリアンコンパイラとの戦｀｀｀｀戦！いに費やしたサイクルだ。いいヶ＊必ず勝⊃ん％＊）～だ＾＾ぞ！
 
-<$BSpurious Interrupt$b>
+
+<$B怪しい割り込み$b>
 #PICT 1014
 
 $B<警告>$b
@@ -216,7 +217,7 @@ $B<警告>$b
 ***リーラからの通信***
 　ごくろうさまです。
 
-　人間の保安隊からの報告が入っています。どうやらエイリアンは後部の工学部に集中しているようです。多分マラソンのリアクターを停止するつもりです。
+　人間の保安隊からの報告が入っています。どうやらエイリアンは後部の工学部に集中しているようです。多分Marathonのリアクターを停止するつもりです。
 
 　次の任務は、自動防衛システムを起動させることです。細かい手順はそちらへ着いた時に知らせます。
 
@@ -278,29 +279,29 @@ a怒りは不注意なミスを作りました。‾#&fx‾‾‾gBd{}{@fx($�
 
 ***メッセージ受信***
 
-Gheritt White had been floating six feet off the floor for three weeks.  His feet and hands tingled, and his eyes burned with the flames of a dying fire.  He had last heard someone speak to him as the cell door slammed shut.  He didn’t remember what the uniformed man had said.  The words had bounced off the bars of the cell and rang through Gheritt’s ears.  Gheritt had been talking to himself for the last few minutes, something about getting caught, but then his ears began to tingle just like his hands.
+　ゲーリット・ホワイトは、３週間ほど床から６フィート浮いていた。業火に焼かれ瀕死の目の中、彼の足と手は疼いていた。彼は最後に、独房のドアが閉まるときにだれかが自分ついて話すのを聞いた。彼は、制服の男が言ったことを覚えていなかった。その言葉は、独房の格子から跳ね返りゲーリット耳に届いたのだ。ゲーリットはこの数分間、自分自身に問いかけていたが、耳は手のように疼き始めていた。
 
-He looked at his hands, but the fire in his eyes made him blink.  Tears came, and when he opened his eyes again, his hands had been melted into fleshy pancakes that wafted in the ripples flowing over the fire in his eyes.  
+　彼は再び自身の手を見たが、炎が目を瞬きをさせた。涙が流れ、再び目を開くと自分の手は肉のようなパンケーキとなって溶けていた。 
 
-“Damn cell,” he heard someone say.  “Last time I had a good meal was three days ago.  The food they feed you in here could kill a lab rat.”
+　「嫌らしい独房だ」と誰かが言うのを聞いた。「最後に食べ物らしい食べ物を食べたのは３日前だ。ここで食べてるものをネズミに食わせれば殺せるよ」
 
-Rats.  He had remembered something about rats.  But his ears began to ring again and the voice speaking to him faded off into the background of his mind.  In its place, there was a new sound, the clapping of hands together.  He blinked hard to made out his hands again.  They had disappeared; his arms connected at the wrists.  
+ネズミ。ネズミについて何かを覚えていたはずだ。だが、彼の耳は再び鳴り始め、だれかが自分に向かって話す声は、無意識下に消えていった。代わりに新しく聞こえはじめたのは拍手だった。彼もまた激しく拍手した。彼らはいなくなり、手首は腕につながっていた。  
 
-He thought back to the time he went ice skating on a pond.  He remembered the sound of his skates on ice, a gentle scrapping.  Scrapping away now inside his ears, trying to tear down his thoughts.  There had been a woman with a white fur tube over her hands.  Her wrists were like his now.  The wrists of someone who had tried too many times to clap his hands.  He had been applauding everyone else in life, but never himself.  The hands, like himself, had been put into prison, and he didn’t know why.
+　彼は、池でアイススケートをしていたときのことを思い出した。自分が氷の上を穏やかに滑っていたときの音を覚えていた。Scrapping away now inside his ears, trying to tear down his thoughts.白い毛皮の手袋をした女性がいた。彼女の手首は、今の彼の今のようだった。手をたたくことを何度も試みた誰かの手首。彼は、他のすべての人に拍手を送っていたが、彼自身へは決してなかった。 彼自身のような手を持つようなものは刑務所に入れられていた。そして、その理由を知ることができなかった。
 
-“Can’t sleep in here, if the smell of this musty bedroll doesn’t make you sick, then the sound of the rats chewing inside the walls will keep you up.  You’ll wake up from your dreams to their little chomping.  Sometimes I think that they are chewing me...”  The voice was coming from inside the cell, but Gheritt couldn’t see anyone.
+　「こんなかび臭くて寝たきりなのに病気にならないなら眠れない。壁の内側を噛んでいるネズミの音が元気をつけいるのだろう。ちょっとした彼らの悪い夢が目覚めさせてくれるだろう。時々彼らが私に噛み付いているんだろう…」声は、独房の中から聞こえていたはずだが、ゲーリットは誰にも会っていない。
 
-Gheritt hadn’t always been alone, he could vaguely recall from somewhere inside his broken mind that there had been friends, lovers, murderers.  
+　ゲーリットは、常にひとりぼっちではなかった。彼は壊れた心の中のどこかから、友人、恋人、殺人者がいたことを漠然と思い出すことができた。
 
-He recalled a theory he had come up with after a bloody schoolhouse brawl.  The theory was simple.  At some point in time, everyone was a murderer.  Whether or not they ever felt remorse, they had all wanted someone dead.  Hatred.  Everyone knew the feeling of hatred.  Gheritt had known hatred on that schoolyard.  His beater had laughed at their bloody faces, a laugh which now echoed through his ears, rhythmically blocking out the other voice in the cell.
+　彼は、校舎での乱闘で血まみれになったときに思いついた理論を思い出した。この理論は単純だった。ある時点で皆が殺人者なのだ。後悔しているかどうかはわからないが、誰もがみんな死ねと思っている。憎しみ。ゲーリットは校庭に対して憎しみを持っていた。殴ったやつは、血まみれになった顔を笑い、独房内の他の声をリズミカルに遮断していった。
 
-The schoolyard was usually a place where Gheritt and his friends would play football or foursquare or something, but today, there was an edge.  Maybe everyone had eaten cereal with milk that was about to go bad, or maybe there was too much smoke in the air from the wheeling hubcap factory.  Football had been extremely rough.  Gheritt had gone to play foursquare after he got tackled by five boys who weren’t his friends.  But today, even foursquare had an evil twist.  The top square today had become habituated to making fun of the first square.  Gheritt had decided that it was an evil day.  When his beater started to push him around, he exploded.  Hatred flowed from his eyes, his hands and feet began to tingle.  All of his coordination left him, and his face was beaten to a bloody mess.  The schoolyard disciplinarian had been slow to notice the ensuing carnage, and she didn’t really care anyway. 
+　いつもなら、校庭はゲーリットと彼の友人がフットボールや陣地取りや何かをする場所だったが、今日は（縁）があった。たぶん、だれかが悪くなりそうなミルクと一緒に穀物を食べたのか、ホイールハブキャップ工場からの煤煙が多かったのだろう。フットボールはとてもラフだった。ゲーリットは、友達ではなかった他の５人とタックを組んで陣地取りで遊び始めた。しかし、今日では陣地取りでさえ悪巧みをした。今日の一番上の広場は、最初の広場をからかうことに慣れてきました。 ゲーリットは悪の日だ決心した。 殴ったやつが彼を押しのけ始めたとき、怒りは頂点に達した。目からは憎しみが流れ、手と足が疼き始めた。 All of his coordination left him, and his face was beaten to a bloody mess.  The schoolyard disciplinarian had been slow to notice the ensuing carnage, and she didn’t really care anyway. 
 
-Gheritt would have killed him if he could have.  He would have torn out the eyes of his beater.  He would have made him pay for his abuses.  But his hands had begun to tingle.  He couldn’t feel his feet and he had begun to float off the ground.
+　ゲーリットが彼を殺そうと思えばできただろう。彼を殴った奴の目を引き裂いただろう。いじめた対価を支払わせるだろう。しかし、手が震え始めていた。自分の足を感じることもできずに地面から浮かび始めた。
 
-Everyone was a murderer, but Gheritt couldn’t remember his reason for why that was so.  He thought it was something about hands, the passion for justice.  His hands and feet had begun to tingle, and he was floating farther off the floor.  He looked up from his hands, and he saw the bars of the cell, moving left and right, opening wide and then closing shut, like the surf coming up a beach.  Every time that he thought he would be safe, the bars crested up, the opening closing, the wave rising, crashing.  The result would be the same, he would never escape.  The bars would crush him, break his back.  
+　誰もが殺人者であったが、ゲーリットはその理由を覚えていなかった。それは自身の手についてのなにか、正義への情熱だと思った。彼の手は疼きはじめ、更に床から遠くへと浮かんでいった。サーファーが浜に登っていくかのように独房の格子が左右に大きく開いては閉じていくのを両手から見あげていた。 Every time that he thought he would be safe, the bars crested up, the opening closing, the wave rising, crashing. 彼は決して逃げることができないという結果は同じだ。格子は彼を粉砕し背中を折った。
 
-He could feel the roughness of the sand under his palms, for all the motion of the waves around him, his hands had come to rest serenely upon the ocean floor.  His body tossed and flipped, pivoting about his hands under which he could feel the safe, coarse sand.  The wave crashed one final time, he landed upside down, his hands thrown clear from the sandy bottom, the rush of the water filling his ears, his nose, his mouth, the sound of crashing water cascading down from his feet to his head- penetrating his mind to tear down thoughts.  Like the sand castle he had built to withstand the tide, his thoughts came down around him.  
+彼の手は、波の動きの全てに対して砂のざらつきを感じ、海底で静かに休むようになった。 His body tossed and flipped, pivoting about his hands under which he could feel the safe, coarse sand.  The wave crashed one final time, he landed upside down, his hands thrown clear from the sandy bottom, the rush of the water filling his ears, his nose, his mouth, the sound of crashing water cascading down from his feet to his head- penetrating his mind to tear down thoughts.  Like the sand castle he had built to withstand the tide, his thoughts came down around him.  
 
 Gheritt had a good life, so much time, so much time.  He had loved swimming, turning, beating.  He had loved the tingle in his hands and feet, his inability to kill his nemesis.  Once he had fallen down the stairs, and just for a moment, his hands came to rest on the carpet of the stairs.  In that instant, his body had frozen, floating over the stairs, safe from falling, but the moment didn’t last.  The ocean crashed about him, his hands torn free from the sandy bottom, his body flipping, falling.  
 
@@ -341,7 +342,7 @@ The waves.
 ***リーラからの通信***
 　ごくろうさまです。
 
-　人間の保安隊からの報告が入っています。どうやらエイリアンは後部の工学部に集中しているようです。多分マラソンのリアクターを停止するつもりです。
+　人間の保安隊からの報告が入っています。どうやらエイリアンは後部の工学部に集中しているようです。多分Marathonのリアクターを停止するつもりです。
 
 　次の任務は、自動防衛システムを起動させることです。細かい手順はそちらへ着いた時に知らせます。
 
