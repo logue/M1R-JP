@@ -14,7 +14,7 @@
     <object index="25" flags="1" radius="290" height="510"/>
     <object index="26" flags="5" radius="360" height="800" destruction="31">
       <destroyed>
-	<shape coll="22" seq="19"/>
+        <shape coll="22" seq="19"/>
       </destroyed>
     </object>
     <object index="27" flags="1" radius="370" height="350"/>

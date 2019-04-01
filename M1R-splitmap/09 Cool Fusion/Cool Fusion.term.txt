@@ -82,21 +82,21 @@ $B***ジャンプパッド起動初期化エラー***
 #TERMINAL 2
 #UNFINISHED
 #LOGON 1000
-Service Access Terminal <92.387.114.26>
+サービスアクセスターミナル<92.387.114.26>
 #PICT 1058
-$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+$C4/-/$C7$B音声o$C4-$C7字起こし$C4-$C7テキスト$b$C4-$C7$B表示$b$C4/-/
 
-$C1Javan... she's dead. We were trying to get to the Vacuum Chamber controls so we could hole up with some MA ammo, when the cargo lift went crazy.
+$C1　ジャヴァン…彼女は死んだ。貨物リフトがおかしくなったときに機関銃弾薬で穴を開けられるように、私達は真空チャンバー操作盤に到達しようとしていたんだ。
 
-To anyone recieving this, Cargo Lift #B7 (Stairable) is malfunctioning. I'm going update the map system to help warn anyone who misses this terminal. Wait, someone's already... renamed it "the Wave!?" What the hell is going on?
+　これを見ている誰か、カーゴリフト＃８７（安定）は故障している。私は、このターミナルを見逃したひとを助けるために地図システムを更新中だ。あ、ちょっと待った…。誰か「波が！？」って言わなかったか？一体何が起きたんだ？
 
-That's got to be deliberate. That's got to be sabotage. Javan stepped onto the lift and it just rolled up on her like a... a wave. Smashed her right into the ceiling.
+　慎重にならないと。明らかに妨害を受けている。ジャヴァンは、エレベーターに足を踏み入れた…、波だ。彼女の右側が天井にぶつかったんだ。
 #PICT 1058
-$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+$C4/-/$C7$B音声o$C4-$C7字起こし$C4-$C7テキスト$b$C4-$C7$B表示$b$C4/-/
 
-$C1I've heard Durandal is having outages, but this lift shouldn't have worked at all if he was offline! Why would anyone do this? To defend against the aliens? Whoever did this, whatever their reason, they killed her.
+$C1　デュランダルが停止していると聞いているが、彼がオフラインの場合、このリフトは全く機能しないはずだ！どうしてこんなことをしたんだ。エイリアンから守るためか？そうだとしても、結果的に彼女は殺されたんだ。
 
-Javan's blood is dripping from the ceiling. I can't look at her body. I can't risk using the lift myself. I don't know if I'm going to make it.
+　ジャヴァンの血が、天井から滴り落ちている。彼女の体は見えない。自分が、リフトを使用する危険はなくなった。そうするかどうかは自分でもわからない。
 #LOGOFF 1000
-Service Access Terminal <92.387.114.26>
+サービスアクセスターミナル<92.387.114.26>
 #ENDTERMINAL 2

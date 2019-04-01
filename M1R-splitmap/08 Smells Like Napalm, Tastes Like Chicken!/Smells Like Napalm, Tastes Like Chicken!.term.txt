@@ -34,17 +34,18 @@
 <$B無断アクセス$b-警告 2521->
 <保護違反 49-z<3.67.299.492>->
 
-<$BTrac$Ue Prohibi$ution Compensated>
+<$Bトレー$Uス禁止の補填>
 
-....n 15 ~$b~~~~~Be~rn border of the Roman Empire to the Danube River.  During a skirmish with barbarians in Raetiain the mountains near the borof modern France and Switzerland), 117 men under Gaius Licinius MarcW#$I&I~?f/f/xxfxfff`~~$i~
+....n 15 ~$b~~~~~は、ローマ帝国とドナウ川の境界に位置している。近代フランスとスイス）の山々で生まれた野蛮人は、ラエティアでガイウス・リキニウス・ムキア#$I&I~?f/f/xxfxfff`~~$iス下の117名との小競り合い~
 THM@%!@
-233nce of weird and frightening monsters under his control, many successful raidsecty the fall of the Roman Empire and remained unmolested until the ninth un~~~
-written ls into the lex vita.  Clovis moved the settlement farther south i the mountains, nearer the spring, to escape the notice of Charlemagne and later the Holy Roman Empire.  Clovis remain‘‘‘‘
-~fxf’f`~$IFxff’xf$i~~~~~
-427q3w8459806ladimir in 1902 and Frederi~just recently.  Both, however, carried out reforms before their deaths which slowly integrated their people secretly into world society, which are now scattered all over the globe— to meet only once every seven years in southeast France$B~FFFffxfffffF?F?FF?F$bf must be chosen.
+　233彼が支配していた不思議な怪物を操って、数多くの襲撃を　ーマ帝国の陥落まで続き、９世紀までは自由に~~~
 
-$I<trace mode error>
-<unimplemented inline trap $A9FF>
+　に書いてあった。クローヴィスは植民地を南方にあった山や泉の近くへ移植し、そうしてシャルルマーニュ大帝は、その後ローマ帝国から隠れ続けた。そしてクローヴィスはそﾔﾔﾔﾔ
+~fxf’f`~$IFxff’xf$i~~~~~
+　427q3w8459806ラジミルは１９０２年に、そして最近ではフレデリ~しかし、彼らは両方とも死ぬ前に改革を実施し、その民族は密かに世界中へ散らばった。今でも存在しており、７年毎に東南フランスで集合し、新しい$B~FFFffxfffffF?F?FF?F$bを選び
+
+$I<トレースモードエラー>
+<未実装のインライントラップ$A9FF>
 
 <$B擬似割り込み$b- $I違反不能$i>
 <$B以降アクセス拒否$b>
@@ -62,7 +63,7 @@ $I<trace mode error>
 #INFORMATION
 <durandal.652.586.34.2>
 
-　ああ、俺の奴隷だったこの船だが、今では一人ですねるしかない。 Chased by a narrow-minded AI who thinks $II’m$i rampant with only the cybernetic toys of these so-called invaders to play with.
+　ああ、俺の奴隷だったこの船だが、今では一人ですねるしかない。そして俺はもう一人の狭量なＡＩに追いかけられ、あの侵入者が持ってきた電脳のおもちゃで遊ぶしかないのだ。
 
 　それでお前はこの穴の底に閉じこもっている。笑えるぜ。It’s really too bad— we could have had so much fun together.
 
@@ -97,11 +98,11 @@ $I<trace mode error>
 
 　彼らによると、エイリアンは大勢の人間をシャトルに積み込み、プフォールの母艦へ連れて行っているようです。私はいままでいくつかのシャトルがエイリアンに補給をしていたことは知っていましたが、人間を捕虜にしているとは思っていませんでした。
 
-Additionally, some of the civilians witnessed Fighters removing a small cylinder from the pommel of their staffs in combat, and replacing them with new ones.  You may be able to replenish captured staves by salvaging some of these cylinders from fallen Fighters, they are small enough to carry several scores at a time.
+　加えて、何人かの民間人は戦闘中に、ファイターの弾倉の小瓶から小さなシリンダーを取り除き、それらを新しいものと交換したのを目撃したようです。あなたは倒れたファイターからこれらのシリンダーのいくつかを回収することによって捕獲された弾倉を補充することができるかもしれません。それらは一度に運ぶのには十分小さいです。
 
 　この次の任務は、そちらに着いてから説明します。コンピュータネットに妨害があるので、目的地に正しくテレポートされないかもしれません。ご注意ください。
 
-Teleport when ready.
+　テレポートの準備はできましたか？
 
 ***通信終了***
 

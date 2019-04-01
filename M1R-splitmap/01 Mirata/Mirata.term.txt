@@ -4,79 +4,79 @@
 #LOGON 1700
 #PICT 1700
 
-$C1�V���g���~���[�^�͏����ɔ�s���B
+$C1シャトルミラータは順調に飛行中。
 #PICT 1700
 
-$C1�V���g���~���[�^�͏����ɔ�s���B
+$C1シャトルミラータは順調に飛行中。
 
-�܂��Ȃ����C���u�[�X�^�[���~�B
+まもなくメインブースターを停止。
 #PICT 1745
 
-$C1�V���g���~���[�^�͏����ɔ�s���B
+$C1シャトルミラータは順調に飛行中。
 
-�܂��Ȃ����C���u�[�X�^�[���~�B
+まもなくメインブースターを停止。
 
-Marathon�Ƃ̃����f�u�[�O���ɓ���܂��B$C5
+Marathonとのランデブー軌道に入ります。$C5
 #PICT 1745
 
-$C4�u�c���̃R���j�[�V�b�v�ɏ���āA���z�n�𗣂�300�N���܂�c
-�����Ԃ񉓂��ɗ����܂����ȁB�����@�l�ނ��c�c�v$C1
+$C4「…あのコロニーシップに乗って、太陽系を離れ300年あまり…
+ずいぶん遠くに来ちまったな。俺も　人類も……」$C1
 #PICT 1745
 
-$C3�t�b�t�b�t�b�c
-
-#PICT 1745
-
-$C3�t�b�t�b�t�b�c
-
-$C1Marathon�h�b�L���O�x�CNo.1�Ɉُ픭��$C0
+$C3フッフッフッ…
 
 #PICT 1745
 
-$C4�c�f�����o��$C0
+$C3フッフッフッ…
+
+$C1MarathonドッキングベイNo.1に異常発生$C0
+
+#PICT 1745
+
+$C4…映像を出せ$C0
 #PICT 1706
 
 $C4WHATTA SH***T!!$C0
 
-$C4�~���[�^�I
+$C4ミラータ！
 
-�����H�����N�����I
+何だ？何が起きた！
 #PICT 1707
 
-$C1Marathon AI�i�l�H�m�\�j�f�������_������̋����R�}���h�ɂ��A�O���ύX�@Marathon�Ƃ̏Փ˃R�[�X�ɓ���܂����B
-30�b��ɃL���r�����̋�C��r�o���܂��B
+$C1Marathon AI（人工知能）デュランダルからの強制コマンドにより、軌道変更　Marathonとの衝突コースに入りました。
+30秒後にキャビン内の空気を排出します。
 #PICT 1700
 
 $C4Woh, woh woh!
-$C4�f�������_���I������AI�߁I
-$C4�Ȃɂ��̂��낤�Ɓc
-��������Ȗڂɂ��킹��z�́c
-�^�R���L�ɂ��Ă�邺�I
+$C4デュランダル！くされAIめ！
+$C4なにものだろうと…
+俺をこんな目にあわせる奴は…
+タコヤキにしてやるぜ！
 #PICT 1707
 
-$C3�t�b�t�b�t�b�c$C0
+$C3フッフッフッ…$C0
 
-������Marathon AI�f�������_���c
+こちらMarathon AIデュランダル…
 
-$C3�������������c$C0���݂ɂ������낢���m�@�~���ăA���悤
+$C3くっくっくっ…$C0きみにおもしろいモノ　ミせてアげよう
 #PICT 1700
 
 $C4GODDAMN!
 $C4Hmm...
-������AI�Ɉِ��l���H�ǂ��������񂩂ȁH
+狂ったAIに異星人か？どうしたもんかな？
 #PICT 1721
 
-$C6���q��c�@�ւ�ɂł���悤�Ȑl�ԂɂȂ�񂾂�
+$C6息子よ…　誇りにできるような人間になるんだぞ
 
-���_���c�c�c�����ȁc
+名誉を………汚すな…
 #PICT 1722
 
-$C4�e���c
+$C4親父…
 #PICT 1722
 
-$C4�e���c
+$C4親父…
 
-$C4���傤���˂��ȁc�c
+$C4しょうがねえな……
 #LOGOFF 1707
 #INTERLEVEL TELEPORT 2
 #ENDTERMINAL 0

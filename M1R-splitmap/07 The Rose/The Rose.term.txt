@@ -52,9 +52,9 @@
 #INFORMATION
 ***リーラからの受信***
 
-You have done well.  The area is secure, and the civilians are now giving me reports as to what they have seen since the invasion began.  Hopefully, some of their information will become useful.
+　よくやりました。この地域は安全になり民間人は侵略が始まって以来彼らが何を見てきたかについて、私に報告してきています。うまくいけば、彼らの情報のいくつかが役に立つようになるでしょう。
 
-The Aliens seem to have been caught off guard by the strength of our counterattack.  This is good news, but I have detected more ships landing on the Marathon, and I fear that the Aliens are reinforcing their efforts.
+　エイリアンは、私達の反撃の強さに気を取られて一部を捕らえることができたようです。これは朗報ですが、マラソンに着陸する船が増えていることがわかりました。エイリアンが武装を強化していることを恐れています。
 
 ***通信終了***
 
@@ -72,7 +72,7 @@ The Aliens seem to have been caught off guard by the strength of our counteratta
 
 　あまりにも多くの人間が殺されてしまいました。生き残った者から使えそうな情報は取れないと思われます。
 
-　エイリアンは我々の反撃を予想していなかった様です。しかしながら、今でもマラソンにエイリアンが乗船しているので、再び攻撃を開始するようです。
+　エイリアンは、我々の反撃を予想していなかった様です。しかしながら、今でもマラソンにエイリアンが乗船しているので、再び攻撃を開始するようです。
 
 ***通信終了***
 
@@ -96,49 +96,49 @@ $B第三次火星戦争 (地球暦 2345-48)$b
 
 　第三次火星戦争は、ミスライアの虐殺で始まったと一般的に認められているが、火星の闘争は必然でもあった。火星の経済の失敗や、火星と地球との間の政治問題は、MIDA と呼ばれる過激派の発展を支えたのである。この過激化はまた、マラソンの開発とその後のCRISTの失敗で加速した。
 
-$BMisriah Massacre$b
+$Bミスライヤの虐殺$b
 
-On January 6, 2345(Earth A.D.), at the United Earth Government Misriah food distribution center, what had begun as a
+　2345年1月6日、地球統合政府(UEG)のミスライア食料配布センターで、始めは単なる暴動であったものが虐殺になってしまった。現場に
 #INFORMATION
-commonplace food riot turned into a massacre.  The UEG riot troopers who arrived at the scene had been informed that the rioters were armed.  As the UEG troopers approached the scene in their Randal Hovertank, plasma fire began spraying upwards.  In a flash decision, the commander of the Hovertank ordered his crew to open fire upon the crowd. It took only five seconds for over five hundred starving Martians to be incinerated.  
+たUEGの警備隊は、暴動者が武装していると聞いていた。ランダル・ホーバータンクに乗っていた警備隊は、プラズマ銃による砲火を浴びせられた。その時司令官は、群衆に発砲するように指示した。そしてわずか５秒で、５００人以上の火星人が焼却されてしまったのだ。
 
-In the ensuing investigation of the Hovertank Vid-cams, it was clear that only three of the rioters were armed, and that the rest of the crowd was trying to flee the scene.  Those three became known as the Misriah Three.  They have gone down in history for starting the most destructive and bloody conflict since Humanity had left Earth.  However, it is clear that these three have gained the credit for starting a war that would have happened anyway.
+　その後、ホーバータンクに搭載されたビデオカメラの録画を調査した結果、実際に武装していた暴動者はたったの３人で、その他の人達は逃げようとしていたことが明らかになった。この事件の首謀者は後に「ミスライアの３人」と呼ばれている。彼らは、人類が地球を離れて以来、最も破壊的な闘争を巻き起こしたことで歴史に残るであろう。しかし、彼らのおかげで始まったといわれる戦争は必然でもあった。
 #INFORMATION
 <Search String “mida”>
 
 
-The History of MIDA:
+MIDA の歴史：
 
-MIDA, as it was known, was a popular political party until the failed coup of 2321, when their popularity suffered during their short rule.  MIDA gained control of Mars for only three months, but their rule was ruthless and cruel.  The MIDA death squads killed anyone who they suspected of being loyal to the UEG.  Although accurate census data is not available for that period, it is estimated that about ten percent of the population was killed.
+　MIDAは、2321年のクーデターまでは、かなりの人気をもっていた政党であった。だが、その政権はわずか３ヶ月しか続かず、乱暴で残酷であった。MIDAの警察隊は、UEG派と思われた人をだれもかも殺していた。当時の人口調査データは存在していないが、人口の一割はこのようにして殺されたものと思われる。
 
-The MIDA coup was afterwards criticized for its shortsightedness.  In an organization that was notorious for its long ranging policies and politicking, the coup was very short-lived: MIDA never seriously accounted for the UEG’s overwhelming superiority in ground forces and warships.
+　MIDAのクーデターはその後、先の見通しがなかったといわれかなり非難された。大規模な計画で知られていた組織でありながら、その政権は非常に短かった。一つの理由は、UEGの陸軍と軍艦の力を予想していなかったことである。
 #INFORMATION
-In fact, they never attempted to take over the Marathon, which was nearing completion and would have made a very powerful weapon.  The Marathon’s massive size made it invulnerable to most normal space attacks, and it would have made a very stable weapons platform.
+　また、当時完成寸前であったマラソンを乗っ取ろうともしなかったのである。マラソンはその大きさで普通の攻撃には難攻不落であり、重兵器としての使用には向いていた。
 
-After the failed coup, the leaders of MIDA were executed for their crimes, and the political organization was banned in all forms.
+　クーデターが失敗した後、MIDAの指導者には死刑が執行され、その政治組織は完全に禁止された。
 
-The organization has survived as an underground terrorist organization, and remains active to this day.  In its underground state, it fosters terrorism throughout Sol, and due to its spectacular funding and excellent personnel, it has
+　MIDAはテロリストの地下政治組織として残り、今でも活躍している。太陽系のあらゆる地域でテロ活動を続け、
 #INFORMATION
-The organization has survived as an underground terrorist organization, and remains active to this day.  In its underground state, it fosters terrorism throughout Sol, and due to its spectacular funding and excellent personnel, it has grown to be one of the most feared terrorist groups active anywhere in Sol.
+　MIDAはテロリストの地下政治組織として残り、今でも活躍している。太陽系のあらゆる地域でテロ活動を続け、豊富な資金と人材によって、太陽系で最も恐れられているテロリスト組織の座を誇るとされている。
 
-$B$ISpurious Interrupt$b$i- $IBreach Disabled$i>
-<$BFurther Access Denied$b>
+<$B$I擬似割り込み$b$i- $I違反不能$i>
+<$B以降アクセス拒否$b>
 #INFORMATION
-The organization has survived as an underground terrorist organization, and remains active to this day.  In its underground state, it fosters terrorism throughout Sol, and due to its spectacular funding and excellent personnel, it has grown to be one of the most feared terrorist groups active anywhere in Sol.
+　MIDAはテロリストの地下政治組織として残り、今でも活躍している。太陽系のあらゆる地域でテロ活動を続け、豊富な資金と人材によって、太陽系で最も恐れられているテロリスト組織の座を誇るとされている。
 
-$B$ISpurious Interrupt$b$i- $IBreach Disabled$i>
-<$BFurther Access Denied$b>
+<$B$I擬似割り込み$b$i- $I違反不能$i>
+<$B以降アクセス拒否$b>
 
-<$BAccess Denied$b>
+<$Bアクセス拒否$b>
 #INFORMATION
-The organization has survived as an underground terrorist organization, and remains active to this day.  In its underground state, it fosters terrorism throughout Sol, and due to its spectacular funding and excellent personnel, it has grown to be one of the most feared terrorist groups active anywhere in Sol.
+　MIDAはテロリストの地下政治組織として残り、今でも活躍している。太陽系のあらゆる地域でテロ活動を続け、豊富な資金と人材によって、太陽系で最も恐れられているテロリスト組織の座を誇るとされている。
 
-$B$ISpurious Interrupt$b$i- $IBreach Disabled$i>
-<$BFurther Access Denied$b>
+<$B$I擬似割り込み$b$i- $I違反不能$i>
+<$B以降アクセス拒否$b>
 
-<$BAccess Denied$b>
+<$Bアクセス拒否$b>
 
-<$BAccess Denied$b>
+<$Bアクセス拒否$b>
 #LOGOFF 1000
-Public Access Terminal 23-f<432.82.38.198>
+公衆ターミナル 23-f<432.82.38.198>
 #ENDTERMINAL 3
