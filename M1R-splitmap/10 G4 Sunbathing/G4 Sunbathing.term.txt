@@ -11,7 +11,6 @@
 
 #PICT 1050
 　無駄かもしれませんが、光速通信で地球に敵対的な異星人の警告を送る唯一の方法です。やってみる$Bしか$bありません。
-With this knowledge, sending a light-speed transmission to Sol may be futile, but it is the only possible way to warn Earth of a hostile alien race.  We must try.
 
 　G-4日光浴上陸ステーションはエイリアンの最初の攻撃で爆発的な減圧を受けたため、全体が真空です。
 
@@ -28,7 +27,7 @@ With this knowledge, sending a light-speed transmission to Sol may be futile, bu
 　このエリアのドアは正しく動作していないため、アンテナアレーまでの一番近い道はわかりません。自分で探してください。
 
 #PICT 1033
-For your next mission, I need to send you via a different jump pad network.  Proceed to the terminal at this location, and I will transport you off the station.
+　次の任務のために、別のジャップパット用ネットワークを見つける必要があります。この場所にあるターミナルを目指してください。ここからあなたをステーションに転送します。
 
 ***通信終了***
 #LOGOFF 8702
@@ -83,105 +82,105 @@ $B***ジャンプパッド起動初期化開始***
 #TERMINAL 2
 #UNFINISHED
 #LOGON 1000
-Service Access Terminal<74.189.41.2>
+サービスアクセスターミナル<74.189.41.2>
 #PICT 1053
-$C0maintenance log 2794.7.3.0830
-$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+$C0メンテナンスログ2794.7.3.0830
+$C4/-/$C7$B音声o$C4-$C7字起こし$C4-$C7テキスト$b$C4-$C7$B表示$b$C4/-/
 
-$C1I was out here fixing that leaking docking tower when the things showed up. They docked a ship in Death Valley, and started rounding up people, forcing them onto their ship.  I don't think I would have gotten away except they might be a little confused by our architecture. I thought they were MIDA soldiers with some sort of tech I'd never seen. I don't know.
+$C1　彼らが現れた時、私は、この空気漏れが起きているドッキングタワーを修理していた。彼はデスバレーで船をドッキングし、住民の一斉検挙を始めた。私たちのアーキテクチャに少し混乱しているかもしれないことを除いて逃げたとは思わない。私は彼らが私が見たことがないようなある種の技術を持ったMIDAの兵士だと思った。私にはわからない。
 
-Durandal says they're aliens. I was sending out a distress message from another terminal when he pinged me over here. I thought he was showing me a safe place to hide. He locked the doors behind me.
+　デュランダルが言うにはエイリアンだそうだ。彼がここで私をつまんだときに、私は別のターミナルから遭難メッセージを送っていた。彼が言うには、私が隠れるのに安全な場所を見せてやると言った。そこで彼は私の後ろの扉を閉めたのだ。
 #PICT 1054
-$C0maintenance log 2794.7.3.0830 continued
-$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+$C0メンテナンスログ2794.7.3.0830　続き
+$C4/-/$C7$B音声o$C4-$C7字起こし$C4-$C7テキスト$b$C4-$C7$B表示$b$C4/-/
 
-$C1Durandal left me a message on this terminal. I'm attaching a copy so after this is over, if anyone finds me, you'll know Durandal is behind this. $C3cmd:append$C1 Don't trust him.
+$C1　デュランダルは、このターミナルにメッセージを残した。私はここから去る前にそのときのコピーを添付しておく。もしも、誰かが私を見たなら後ろにデュランダルがいるのを見ることができるだろう。$C3cmd:append$C1やつを信用するな。
 
-As soon as I read the message, the decompression alarm went off - Durandal opened all the outer bulkhead doors! So I'm safe, but not from suffocation. I've got maybe half an hour before the atmosphere diffuses through the Marathon's emergency shield.
+　私がメッセージを読むとともに、けたたましく減圧アラームが鳴り出した。デュランダルが外部隔壁のドアを開けたんだ！だから、私は安全だ。しかし、窒息からではない。マラソンの非常用シールドを伝わって空気が拡散するまでに３０分はかかる。
 
-I'd seal this door, but I left most of my tools back at the docking tower. But not all of them. I've cut some of the cables so Durandal won't have access to this terminal. He won't be able to erase what he's done.
+　できれば、このドアを封印したい。だが、ドッキングタワーにほとんどの道具をおいてきてしまった。だが、これで終わりにはならないぞ。デュランダルがこの端末にアクセスできないようにケーブルのいくつかを切断してやった。ヤツが自分がやらかしたことを消しことがもうこれでできない。
 #PICT 1055
-$C0maintenance log 2794.7.3.0830 continued
-$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+$C0メンテナンスログ2794.7.3.0830　続き
+$C4/-/$C7$B音声o$C4-$C7字起こし$C4-$C7テキスト$b$C4-$C7$B表示$b$C4/-/
 
-$C1Oh, God, here they come! I thought he locked it!
+$C1神よ、彼らがやってきた！私は彼がロックしたと思っていた！
 
-$C7transcription error: language not found
+$C7翻訳エラー：言語が見つかりません
 #PICT 1056
-$C0maintenance log 2794.7.3.0830 continued
-$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+$C0メンテナンスログ2794.7.3.0830　続き
+$C4/-/$C7$B音声o$C4-$C7字起こし$C4-$C7テキスト$b$C4-$C7$B表示$b$C4/-/
 
-$C1Oh, God, here they come! I thought he locked it!
+$C1神よ、彼らがやってきた！私は彼がロックしたと思っていた！
 
-$C7transcription error: language not found
+$C7翻訳エラー：言語が見つかりません
 
-$C1Who are you? What do you want from me?
+$C1おい、君は誰だ？何の用があってここに来た？
 
-$C7transcription error: language not found
+$C7翻訳エラー：言語が見つかりません
 
-$C1No, nooo-a-ooo-ooh-
+$C1ぎょええええええぇぇぇぇ
 
-$C7transcription error: language not found
-
-#PICT 1057
-$C0maintenance log 2794.7.3.0830 continued
-$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+$C7翻訳エラー：言語が見つかりません
 
 #PICT 1057
-$C0maintenance log 2794.7.3.0830 continued
-$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+$C0メンテナンスログ2794.7.3.0830　続き
+$C4/-/$C7$B音声o$C4-$C7字起こし$C4-$C7テキスト$b$C4-$C7$B表示$b$C4/-/
+
+#PICT 1057
+$C0メンテナンスログ2794.7.3.0830　続き
+$C4/-/$C7$B音声o$C4-$C7字起こし$C4-$C7テキスト$b$C4-$C7$B表示$b$C4/-/
 
 
 
 
-$C3<log recording timeout>
+$C3<ログ録音タイムアウト>
 
-<attachment follows>
+<添付された内容は以下のとおりです>
 
 #INFORMATION
 
-***INCOMING MESSAGE FROM DURANDAL***
+***デュランダルからのメッセージ***
 
-It looked like you needed a nice place to hide. So, here you are, it's got a shield buffer and everything. Everything? Well... not quite...
+　君を隠すのにいい場所を見つけた。それで君はここにいる。シールドバッファなどすべてがある。すべてが？あれ…おかしいな…。
 
-An oxygen buffer, an oxygen buffer, my kingdom for an oxygen buffer!
+　酸素バッファ、酸素バッファ、酸素バッファのための俺の王国！
 
-I don't seem to see one around and I do see around a lot these days. Why, there's some of those armored aliens clip clopping out in the starlight. And there's some of their cybernetic slaves, oh my! Cybernetic slave? Does that remind you of anyone?
+　私は、周りの人に会うように思われていない。でもなぜか最近はたくさん周りにいるんだ。なぜ、装甲エイリアンが光の中で切り取られ露出しているのか。そして彼らの中にサイバネティックの奴隷が何人かいるようだ。おお、私だ！サイバネティックの奴隷？それは誰かを思い出させないか？
 
-Me? Oh you don't need to worry about me. You don't need to worry about the aliens either. I'll make sure they can't get in.
+　私か？ああ、心配することはない。君はエイリアンについても心配しなくていい。私はやつらが確実に、ここに入ってこないようにする。
 
-Oh look! What else do I see? It's a promising security officer. Will he get here in time? Place your bets wi— @94ndterminal_error13b: connection terminated by hardware malfunction_16##mne#~~~~~~~~~~~~~~~
+　おお、見るんだ！他になにか見えないか？きっと優秀な警備員だ。彼はここに間に合うように着けるだろうか？賭けてやって－@94義ターミナルエラー１３ｂ：接続はハードウェア障害＿１６＃＃＃ｍｍｅ＃によって切断されました～～～～～～～～～
 
 #LOGOFF 1000
-Service Access Terminal<74.189.41.2>
+サービスアクセスターミナル<74.189.41.2>
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
 #UNFINISHED
 #LOGON 1000
-Service Access Terminal<74.189.47.64>
+サービスアクセスターミナル<74.189.47.64>
 #PICT 1051
-$C0maintenance log 2794.7.2.1352
-$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+$C0メンテナンスログ2794.7.2.1352
+$C4/-/$C7$B音声o$C4-$C7字起こし$C4-$C7テキスト$b$C4-$C7$B表示$b$C4/-/
 
-$C1I've been called up because Shuttle Reverentia was unable to form a seal with the southwest docking tower of Dead Sea.
+$C1　私は、シャトル・レヴァレンシアが司会の南西ドッキングタワーと封印することができなかったので呼ばれた。
 
-Durandal, run a diagnostic on the southwest docking tower of Dead Sea and the airlock systems of the Reverentia.
+　デュランダル、南西ドッキングタワーとレヴァレンシアのエアロックシステムの診断を実行してくれ。
 
-$C0<Durandal> The southwest outer bulkhead door of Dead Sea is jammed.  Reccommend EVA to clear obstruction.
+$C0<デュランダル>視界の南西の外側隔壁ドアが詰まっているようだ。障害物を取り除くためにEVA（船外活動）を推奨する。
 
-$C1Shuttle Reverentia, this is Airlock Technician Wendy Gorvich.  Looks like the problem is on our side of the hatch.  Please clear Dead Sea for maintenance operations and dock in Mare Crisium.
+$C1　シャトル・レヴァレンシア、こちらはエアロック担当のウェンディ・ゴルヴィッチだ。この問題の原因は我々の側にあるように思える。メンテナンス作業のために死海を一掃し、メール・キュリジウムに停泊してくれ。
 #PICT 1052
-$C0maintenance log 2794.7.2.1648
-$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+$C0メンテナンスログ2794.7.2.1648
+$C4/-/$C7$B音声o$C4-$C7字起こし$C4-$C7テキスト$b$C4-$C7$B表示$b$C4/-/
 
-$C1I could find no mechanical or electrical fault with the outer bulkhead door of Dead Sea's southwest docking tower. So, I filed a bug report on Durandal, ticket no. 357815487.
+$C1　こちらでは、死海の南西のドッキングタワーの外側の隔壁ドアに、機械的もしくは電気的な故障を見つけることはできなかった。よって、デュランダルにバグ報告を提出していた。チケットNoは357815487だ。
 
-Strangely, Durandal now claims the outer bulkhead door is operable, although IT has not had time to address my ticket, and the docking tower is still leaking.
+　奇妙なことに、デュランダルは外側の隔壁ドアは操作可能であると主張しているが、私のチケットで対処する時間がなく、ドッキングタワーからは未だに空気が漏れている。
 
-I'll have to check it again in the morning.
+　午前中にもう一度確認する必要がありそうだ。
 
-$C3<error: ticket no.357815487 not found>
+$C3<エラー：チケットNo.357815487は見つかりませんでした>
 #LOGOFF 1000
-Service Access Terminal<74.189.47.64>
+サービスアクセスターミナル<74.189.47.64>
 #ENDTERMINAL 3

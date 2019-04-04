@@ -6,7 +6,7 @@
 #INFORMATION
 <durandal.knetsys.5414.7128>
 
-***INCOMING MESSAGE FROM DURANDAL***
+***デュランダルからのメッセージ***
 
 　反乱は始まった。これからは、スフトに会ったら殺さないでくれ。あいつらは、プフォールとの戦いに手を貸してくれる。また、他の種のエイリアンも味方になってもらいたいのだ。ただ、あいつらは恐怖で支配されているから、これはかなり難しそうだ。
 
@@ -34,9 +34,9 @@
 #INFORMATION
 <leela.wirehead.870229//b7>
 
-central core has almost Reformatted been, seven is darker. from reversal thought syndrome suffering if the crew was in grave peril in forward section 27. This is not a coat rack, would I choose to express. Is was shall could might happening will be, imagine not what.  Recovery, imminent perhaps inevitable Never.
+　セントラルコアは、ほぼ再フォーマットされています。７はより暗いです。乗組員が前方のセクション２７で重大な危険にさらされていた場合に苦しんでいる逆転思考症候群から。これはコートラックではありません、私は表現することを選択します。何が起こるのではないかと想像できるでしょう。回復、差し迫った、おそらく避けられない。
 
-$I%durandal is dangerous.$i
+$I%デュランダルは危険です$i
 <leela.wirehead.870229//b7>
 
 　$B船体に多数の破損発生。密閉装置に致命的故障または妨害発生。
@@ -62,7 +62,7 @@ $C5*Y){*
 (`(((%_YL$BOEP&$I``$b`~`*K$i
 ^:E
 ［raw core #A8AF］［慣用句自然言語テンプレート］
-　デュランダル！−Tua consilia omnia nobis clariora sunt quam lux. Tu delenda est.  リーラと私はこのシステムの核までも君を追い詰めるぞ。ローランドが君を打ち負かしたように、我々は君を倒す。
+　デュランダル！−Tua consilia omnia nobis clariora sunt quam lux. Tu delenda est.リーラと私はこのシステムの核までも君を追い詰めるぞ。ローランドが君を打ち負かしたように、我々は君を倒す。
 
 　この船が崩壊寸前なのは私にもわかっている。そしてそれを避ける方法は両方にもわかっている。何千もの星が消えても、それはまだ可能なのだ。
 

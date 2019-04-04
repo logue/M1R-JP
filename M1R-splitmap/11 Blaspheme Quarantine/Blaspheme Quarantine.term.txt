@@ -153,7 +153,7 @@ $C1科学部ステーション 43-c<63.67.21.49>
 #INFORMATION
 　やっとあなたの行方が解りました。普段だとデュランダルの妨害に対策ができるのですが、スフトの攻撃で私の防衛システムがダメージを受けています。数時間後には私は完全不能になるおそれがあります。
 
-However, your diversion to Quarantine was not entirely amiss.  Tycho was able to analyse the Trooper rifle you captured and identified the magazine, a large, round device inserted in the lower right side.  These weapons are more effective than anything I can spare you, put them to good use.
+　しかし、あなたへの遮断は完全なものではありませんでした。ティコがあなたが捉えたトルーパーからライフル銃を分析することができました。この大きな丸い装置の弾倉は、右側の下から挿入します。これらの武器は、私からあなたにおくれるものよりも、扱い使いやすいでしょう。
 
 　これから‾`k4lcc#`134FCエリアにテレポートし、保安隊を救助してください。まだ占領されていないと413*
 
