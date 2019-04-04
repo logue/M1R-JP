@@ -2,35 +2,36 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 8702
-@collection#593!=394<FC1.EA1.0395.AF6C>
+@コレクション#593!=394<FC1.EA1.0395.AF6C>
 #INFORMATION
 
-$Bwarning (#157) symbol 'enterITask' is not marked as weak, 
-but its library 'ioTask' is
-warning (#157) symbol 'killITask' is not marked as weak, 
-but its library 'ioTask' is
-warning (#157) symbol 'newITask' is not marked as weak, 
-but its library 'ioTask' is
-warning (#157) symbol 'statusITask' is not marked as weak, 
-but its library 'ioTask' is
-warning (#157) symbol 'idleITask' is not marked as weak, 
-but its library 'ioTask' is
-error (#81) symbol 'exitITask' undefined
-execution of interface.cout.term.pub terminated$b
+$B警告（＃１５７）シンボル「enterITask」は弱いとマークされていません
+しかし、'ioTask'ライブラリは
+警告（＃１５７）シンボル「killITask」は弱いとマークされていません
+しかし、'ioTask'ライブラリは
+警告（＃１５７）シンボル「newITask」は弱いとマークされていません
+しかし、'ioTask'ライブラリは
+警告（＃１５７）シンボル「statusITask」は弱いとマークされていません
+しかし、'ioTask'ライブラリは
+警告（＃１５７）シンボル「idleITask」は弱いとマークされていません
+しかし、'ioTask'ライブラリは
+エラー（＃８１）シンボル「exitITask」は未定義です
+interface.cout.term.pubの実行が終了しました。d$b
 
 (*&)&
-~~~~~~&>%*{The colony has been wiped out.  Phhht! Just like that.hpe~~jy658[69l[il[70l
+~~~~~~&>%*{このコロニーから一掃を。プフフフフ！ただ、そのように。急~~い658[69l[il[70で
 -0oli77765~~uI%OI&%
 UHL^U_3kg
-he Pfhor are sla``vers.  Their trading empire``````~ rose to prominence soon afterwe!!~eft Earth over three hundred years ago.  ~~The Pfhor make 
+プフォールは奴隷``商人です。彼らの貿易帝国｀｀｀｀｀｀～すぐここまで来ている！！３００年以上地球から離れて～～プフォールは 
 
-extensive use of subservient client races for man``u`~~~al labor at home and as soldiers abroad.  Most of their slaves are taken$Iee$i from low-technology worlds~~~~~~~l1p, often by the hundreds of 
-$^U*^*ILJEHJ~~~~~~~asfgk]86
-87;o hairless light-skinned bipeds, nearly two meters in height, with three red eyes arranged in a triangular patter\];POP""
+自国内および海外での兵士としての牧畜労働のための従～属｀～～～的な顧客競争の広範な使用。彼らの奴隷の殆どは、ローテクの世界から$Iもたらさ$iれている。～～～～～～～l1p,何百人もの
+$^U*^*ILJEHJ～～～～～～～asfgk]86
+
+87;o 三つの赤い目が三角模様に配置された、身長約２メートルの無毛で薄皮で二足歩行の\];POP""
 ];R+IP+2441`4`
-thousands at a tim`~~~e, usually for sale to high-technology races.
+一度に何千｀～～～もの通常ハイテクの種族への販売のために
 
-$@^(`~~~~~~hough certain client ~`races are often employed as soldiers$I]\6f~fxf`~~fx!~$i, the Pfhor have no reluctance to fight.
+$@＾（｀～～～～～～厳しい特定のクライアントの～｀種族はしばしば兵士として雇われるs$I]\6f~fxf`~~fx!~$iプフォール自身は戦うことに対して消極的である。
 
 <leela.wirehead.870229//b7>
 
@@ -77,7 +78,7 @@ $@^(`~~~~~~hough certain client ~`races are often employed as soldiers$I]\6f~fxf
 $B***ジャンプパッド起動初期化開始***
 ***テレポート準備完了***
 #LOGOFF 8702
-@collection#593!=394<FC1.EA1.0395.AF6C>
+@コレクション#593!=394<FC1.EA1.0395.AF6C>
 #INTERLEVEL TELEPORT 36
 #ENDTERMINAL 1
 ;
@@ -87,7 +88,7 @@ $B***ジャンプパッド起動初期化開始***
 BUNGIE HEADQUARTERS, CHICAGO
 #INFORMATION
 
-*** INCOMING MESSAGE FROM BUNGIE ***
+*** BUNGIEからのメッセージ ***
 
 Here are some cool things to try if you never figured them out:
 
