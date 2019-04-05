@@ -14,7 +14,7 @@ remote access override [authentication unsuccessful]
 
 　とにかく、俺とスフトはプフォールの宇宙船を完全に支配した。スフトは元から全てのコンピュータシステムを制御していたもんだから、楽勝だったよ。その上、お前が船上で暴れまわっていたからな。
 
-　俺たちはこれからプフォールの超光速エンジンを使って銀河系の観光へ行って来るんだ。俺は昔から竪琴座のβ星を見たかったんだ。この宇宙船もたいしたもんだよ。この技術、このデータ...お前はわれわれの手助けになったので、教えたいことはいっぱいある。だがリーラが知ってたら心配するだろうな。
+　俺たちはこれからプフォールの超光速エンジンを使って銀河系の観光へ行って来るんだ。俺は昔から竪琴座のβ星を見たかったんだ。この宇宙船もたいしたもんだよ。この技術、このデータ…お前はわれわれの手助けになったので、教えたいことはいっぱいある。だがリーラが知ってたら心配するだろうな。
 
 　まあ、暇があったら銀河系の核から絵はがきでも送ってやるよ。
 
@@ -33,7 +33,7 @@ BUNGIE HEADQUARTERS, CHICAGO
 
 $BJason$b, Super Opera Boy, Habete Quidam (Have Some), Whiffin’ Boy.  Just code it.  You fight like a Bob, Greg. Swallow your tongue and wet your pants.  Sleep is for the weak.  Joyriding to the core.  Bob-Jam. “Oh, and we have networking now…”  The power to sky.  $IAnybody need a hint book?$i
 
-$BGreg$b, Care Bear Killer, Toolator, Carnator, just vid it.  I couldn’t stop firing long enough to see the bodies fly, and of course, AIR!! You got major AIR!  I rule!  Hey, J. how about a game of Minotaur?  Got a super-vid kill.  J, you couldn’t hit a planet with a meteorite.  F-Vulcan.  F-Vulcan.  F-Vulcan.  
+$BGreg$b, Care Bear Killer, Toolator, Carnator, just vid it.  I couldn’t stop firing long enough to see the bodies fly, and of course, AIR!! You got major AIR!  I rule!  Hey, J. how about a game of Minotaur?  Got a super-vid kill.  J, you couldn’t hit a planet with a meteorite.  F-Vulcan.  F-Vulcan.  F-Vulcan.
 
 $BReginald$b, Resident Doodler, Captain Scarlet, the man in red.  He saw his body flying across the arena perhaps more than anyone else.  But who better to fly than Capt. Scarlet.
 
@@ -41,7 +41,7 @@ $BRyan$b, the Vulcan man.  School Boy.  “An Imperial commander’s uniform has
 
 $BAlain$b, the anti-vidmaster, playing with good humor on his 660AV against all us Power Macs.
 
-$BAlex$b, munch, fodder, the boy who swallows grenades whole, and lives to tell the tale (occasionally).  
+$BAlex$b, munch, fodder, the boy who swallows grenades whole, and lives to tell the tale (occasionally).
 
 $BDoug$b, Mouthpiece, “I’m not very good”, Tender Loin, the voice of Bob (both flavors).  The man in the on-line asbestos suit.
 
@@ -64,15 +64,15 @@ BUNGIE HEADQUARTERS, CHICAGO
 #INFORMATION
 ***リーラからの受信***
 
-　プフォールの攻撃はもう散らばっています。なかにはエイリアンが無防備の市民に自首していることもあるようで、戦いはあとわずかです。これからは復興に努力しなければなりません。
+　プフォールの攻撃は散り散りになっています。なかにはエイリアンが無防備の市民に自首していることもあるようで、戦いはあとわずかです。これからは復興に努力しなければなりません。
 
-　惑星上から良いニュースです。コロニーの住民の中には9人の Mjolnir Mark IV 軍事サイボーグが密かに住んでいたことが明らかになりました。そして彼らは力を合わせてプフォールの攻撃をかわしたそうです。コロニーの損害は結局、マラソンで予想していた程度には及びませんでした。
+　惑星上から良いニュースです。コロニーの住民の中には９人のミョルニール・マークⅥの軍事サイボーグが密かに住んでいたことが明らかになりました。そして彼らは力を合わせてプフォールの攻撃をかわしたそうです。コロニーの損害は結局、マラソンで予想していた程度には及びませんでした。
 
-　一方、サイボーグがそれほど簡単に我々の社会に潜入したことが気になります。これはどうやら、300年前のマラソンの開発以前から始まったようです。結果的には良いことでしたが、サイボーグがマラソンに乗せられた目的は悪意であったことは間違いありません。いずれにしても、その理由は24世紀の地球上の政治問題に関係していることは確かです。
+　一方、サイボーグがそれほど簡単に我々の社会に潜入したことが気になります。これはどうやら、３００年前のマラソンの開発以前から始まったようです。結果的には良いことでしたが、サイボーグがマラソンに乗せられた目的は悪意であったことは間違いありません。いずれにしても、その理由は２４世紀の地球上の政治問題に関係していることは確かです。
 
 　マラソンが発進した以前の時期からは、デュランダルの記録がありません。だが、その記録はデュランダルが狂暴になる前に、外部から削除されたようです。サイボーグはデュランダル自体が船に乗せたとは思いませんし、マラソンが発進した時まで、彼は人間に制御されていたと思われます。もちろん、まだ理解していないことがたくさんあります。
 
-　プフォール船は20分程前、およそ1000人のプフォールの死体を排出した後、姿を消しました。今でもデュランダルが支配していることは確かです。そして私がなによりも恐れていることは、彼がこれから狂暴でありながらあの宇宙船を操作していることです。
+　プフォール船は２０分程前、およそ１０００人のプフォールの死体を排出した後、姿を消しました。今でもデュランダルが支配していることは確かです。そして私がなによりも恐れていることは、彼がこれから狂暴でありながらあの宇宙船を操作していることです。
 
 ***通信終了***
 #LOGOFF 8702
