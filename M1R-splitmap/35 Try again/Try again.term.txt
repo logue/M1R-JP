@@ -22,16 +22,16 @@ interface.cout.term.pubの実行が終了しました。d$b
 ～～～～～～&>%*{このコロニーから一掃を。プフフフフ！ただ、そのように。急～～い658[69l[il[70で
 -0oli77765~~uI%OI&%
 UHL^U_3kg
-プフォールは奴隷｀｀商人です。彼らの貿易帝国｀｀｀｀｀｀～すぐここまで来ています！！３００年以上地球から離れて～～プフォールは 
+プフォールは奴隷｀｀商人です。彼らの貿易帝国｀｀｀｀｀｀～すぐここまで来ています！！300年前に地球を去った当時から発展し～～プフォールは多くの
 
-自国内および属州での兵士としての牧畜労働のための従～属｀～～～的な顧客競争の広範なに利用されています。彼らの奴隷の殆どは、ローテクの世界から$Iもたらさ$iれています。～～～～～～～l1p,何百人もの
+他の種族を支配して、～労｀～～～働や兵士のために使っていました。彼らの奴隷はほとんどの場合、技術の低い種族から$Iもたらさ$iれています。～～～～～～～l1p,何百人もの
 $^U*^*ILJEHJ～～～～～～～asfgk]86
 
 87;o 三つの赤い目が三角模様に配置された、身長約２メートルの無毛で薄皮で二足歩行の\];POP""
 ];R+IP+2441`4`
-一度に何千｀～～～もの通常ハイテクの種族への販売のために
+一度に何千｀～～～普段は高等技術を持った種族に売って
 
-$@＾（｀～～～～～～厳しい特定のクライアントの～｀種族はしばしば兵士として雇われていますが$I]\6f～fxf｀～～fx！～$iプフォール自身は戦うことに対して消極的です。
+$@＾（｀～～～～～～くつかのの～｀種族を兵士として扱っていましたが$I]\6f～fxf｀～～fx！～$iプフォールは自分達で戦うことを決していやがっていたわけでもないようです。
 
 <leela.wirehead.870229//b7>
 
@@ -90,17 +90,19 @@ BUNGIE HEADQUARTERS, CHICAGO
 
 *** BUNGIEからのメッセージ ***
 
-Here are some cool things to try if you never figured them out:
+えっ？まだ発見していないって?見てくれ、この必殺技を：
 
-• $IAir Pfhor.$i  Whenever shooting at anything with explosive munitions, aim at their feet.
-• $IHang Time$i.  Point down at the floor, run forwards, and launch a grenade or missile.
-• $IFlying$i.  When in low-gravity on the alien ship, point down and use the flamethrower or the alien weapon to “fly.”
-• $IClimbing Walls$i.  Correct application of grenades to one’s own feet while running parallel to a wall can allow players to “climb” them.
-• $IDead Man’s Discharge$i.  A charged fusion pistol discharges when it’s owner dies.
-• $INigh-Invulerability$i.  “Invincible” players can be hurt by the fusion gun.
-• $IWe Have Tone$i.  Guided munitions can’t track invisible players.
+・$Iエア・プフォール$i　炸裂弾で敵を打つときは足を狙え。
+• $Iハングタイム$i　地面を狙いながら、前に走ってグレネードかミサイルを発射してごらん。
+• $I飛行$i　エイリアンの宇宙船で低重力のときは、火炎放射機またはエイリアンの武器を下に向けると「飛べる」よ。
+• $I壁登り$i　壁沿いに走りながら自分の足を狙ってグレネードを発射すると壁を「登れる」ぞ。
+• $I死者の発射$i　核融合ピストルはその持ち主が死ぬと自動的に発射するようだ。
+• $I近づいて$i　「無敵」のプレーヤーでも核融合ピストルにはかなわない。
+• $I調子を整えて$i　誘導兵器は透明のプレーヤーを探知できないぞ。
 
-There are some other things, too, but we wouldn’t want to give away $Iall$i our secrets…
+この他にも色々あるけど、秘密を$I全部$iばらしてしまったら面白くないよネ…。
+
+***通信終了***
 #LOGOFF 1000
 BUNGIE HEADQUARTERS, CHICAGO
 #ENDTERMINAL 2
