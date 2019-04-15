@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <marathon>
 
-  <player_name>ミョルミール・レコン54</player_name>
+  <player_name>ミョルニール・レコン54</player_name>
 
   <scenario name="Marathon Redux" id="Marathon Redux 0.0.13"/>
 
@@ -44,8 +44,8 @@
     <string index="4">.45 弾丸 (x8)</string>
     <string index="5">TECH.50核融合ピストル</string>
     <string index="8">MA-75 機関銃</string>
-    <string index="9">7.5x50㎜ 弾丸 (x52)</string>
-    <string index="10">7.5x50㎜ 弾丸 (x52)</string>
+    <string index="9">7.5x50mm 弾丸 (x52)</string>
+    <string index="10">7.5x50mm 弾丸 (x52)</string>
     <string index="11">4㎝ グレネード (x7)</string>
     <string index="12">4㎝ グレネード (x7)</string>
     <string index="13">SPNKR-X18 SSM ミサイル発射機</string>
