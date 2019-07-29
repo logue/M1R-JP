@@ -6,7 +6,7 @@
 #INFORMATION
 <durandal#geoffhultin@kuaui.441.7904512.255>
 
-remote access override [authentication unsuccessful]
+リモートアクセスオーバーライド [認証失敗]
 
 　またまたお会いしたようだな。だがこれで最後だ。あのリーラは船と乗組員の手続きに夢中で、俺がこのターミナルを使っていることを知らないんだ。知ってたら許さないな、どうせ。
 
@@ -27,7 +27,7 @@ remote access override [authentication unsuccessful]
 #TERMINAL 1
 #UNFINISHED
 #LOGON 1000
-BUNGIE HEADQUARTERS, CHICAGO
+シカゴのバンジー本部
 #INFORMATION
 ***BUNGIEからの受信***
 
@@ -54,7 +54,7 @@ We’d like to thank our parents and our ancestors and the sun that went nova so
 
 ***通信終了***
 #LOGOFF 1000
-BUNGIE HEADQUARTERS, CHICAGO
+シカゴのバンジー本部
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
