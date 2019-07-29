@@ -80,4 +80,15 @@
     <string index="5">オーブ</string>
   </stringset>
 
+  <stringset index="177">
+    <string index="0">ここからは、ヴィドマスターの宣誓を</string>
+    <string index="1">誓わないといけないぜ：</string>
+    <string index="2"></string>
+    <string index="3">[QUOTE]『宣誓、</string>
+    <string index="4">[QUOTE]全てのスイッチをこぶしで殴ってオンにし、</string>
+    <string index="5">[QUOTE]グレネードを使える場所でも決して発射せず、</string>
+    <string index="6">[QUOTE]最高難易度「虐殺」以外で遊ばず、</string>
+    <string index="7">[QUOTE]「常時走行」オプションを無効化した状態で、</string>
+    <string index="8">[QUOTE]一人残らずボブ市民を皆殺しにしま～す。』</string>
+  </stringset>
 </marathon>

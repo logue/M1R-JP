@@ -2,6 +2,7 @@
   <opengl>
 
     <!-- Items -->
+
     <texture coll="7" bitmap="25" normal_image="Textures/items/chip0.dds" type="2"/>
     <texture coll="7" bitmap="26" normal_image="Textures/items/chip1.dds" type="2"/>
     <texture coll="7" bitmap="27" normal_image="Textures/items/chip2.dds" type="2"/>
@@ -9,6 +10,7 @@
     <texture coll="7" bitmap="29" normal_image="Textures/items/chip4.dds" type="2"/>
 
     <!-- Walls -->
+
     <texture coll="17" bitmap="0" normal_image="Textures/general/controlpanels01.dds" type="0"/>
     <texture coll="17" bitmap="1" normal_image="Textures/general/controlpanels04.dds" type="0"/>
     <texture coll="17" bitmap="2" normal_image="Textures/general/rechargers01.dds" type="0"/>
@@ -118,7 +120,7 @@
     <texture coll="18" bitmap="6" normal_image="Textures/lava/lava06.dds" type="0"/>
     <texture coll="18" bitmap="7" normal_image="Textures/lava/lava07.dds" type="0"/>
     <texture coll="18" bitmap="8" normal_image="Textures/lava/lava08.dds" type="0"/>
-    <texture coll="18" bitmap="9" normal_image="Textures/lava/lava09.bmp" glow_image="Textures/lava/lava09gm.bmp" glow_premultiply="true" type="0"/>
+    <texture coll="18" bitmap="9" normal_image="Textures/lava/lava09.dds" glow_image="Textures/lava/lava09gm.dds" type="0"/>
     <texture coll="18" bitmap="10" normal_image="Textures/lava/lava10.dds" type="0"/>
     <texture coll="18" bitmap="11" normal_image="Textures/lava/lava11.dds" type="0"/>
     <texture coll="18" bitmap="12" normal_image="Textures/lava/lava12.dds" glow_image="Textures/lava/lava12gm.dds" type="0"/>
@@ -202,6 +204,7 @@
     <texture coll="19" bitmap="10" normal_image="Textures/sewage/sewage10.dds" type="0"/>
     <texture coll="19" bitmap="11" normal_image="Textures/sewage/sewage11.dds" type="0"/>
     <texture coll="19" bitmap="12" normal_image="Textures/sewage/sewage12.dds" type="0"/>
+    <texture coll="19" bitmap="13" normal_image="Textures/sewage/sewage13.dds" type="0"/>
     <texture coll="19" bitmap="14" normal_image="Textures/sewage/sewage14.dds" type="0"/>
     <texture coll="19" bitmap="15" normal_image="Textures/sewage/sewage15.dds" type="0"/>
     <texture coll="19" bitmap="16" normal_image="Textures/sewage/sewage16.dds" type="0"/>
@@ -432,8 +435,10 @@
     <texture coll="21" bitmap="79" normal_image="Textures/pfhor/pfhor79.dds" type="0"/>
     <texture coll="21" bitmap="80" normal_image="Textures/pfhor/pfhor80.dds" type="0"/>
     <texture coll="21" bitmap="81" normal_image="Textures/pfhor/pfhor81.dds" type="0"/>
+    <texture coll="21" bitmap="82" normal_image="Textures/pfhor/pfhor82.dds" type="0"/>
 
     <!-- Scenery -->
+
     <texture coll="22" bitmap="18" normal_image="Textures/grendel/grendel18.dds" type="2"/>
     <texture coll="22" bitmap="43" normal_image="Textures/grendel/grendel43.dds" type="2"/>
     <texture coll="22" bitmap="45" normal_image="Textures/scenery/antenna0.dds" type="2"/>
@@ -512,8 +517,19 @@
     <texture coll="24" bitmap="65" normal_image="Textures/scenery/escape7.dds" type="2"/>
 
     <!-- Landscapes -->
-    <texture coll="27" bitmap="0" normal_image="Textures/grendel/grendel_noon.dds" landscape_bloom="1" type="1"/>
-    <texture coll="28" bitmap="0" normal_image="Textures/grendel/grendel_night.dds" landscape_bloom="1" type="1"/>
+
+    <texture coll="27" bitmap="0" landscape_bloom="1" />
+
+    <texture coll="28" bitmap="0" landscape_bloom="1"/>
+
+    <texture coll="29" bitmap="0" landscape_bloom="0" normal_image="Textures/general/deimos-1.dds" type="1"/>
+    <texture coll="29" bitmap="1" landscape_bloom="0" normal_image="Textures/general/deimos-noship.dds" type="1"/>
+
+    <texture coll="30" bitmap="0" landscape_bloom="0" normal_image="Textures/general/pfhorscape.dds" type="1"/>
 
   </opengl>
+  <landscapes>
+    <landscape coll="29" horiz_exp="0" vert_exp="0" ogl_asprat_exp="1"/>
+    <landscape coll="30" horiz_exp="0" vert_exp="0" ogl_asprat_exp="1"/>
+  </landscapes>
 </marathon>
