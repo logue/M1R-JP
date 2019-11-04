@@ -1,4 +1,4 @@
-0 新テルモピュライ（New Thermopylae）
+0 到着（Arrival）
 1 ミラータ（Mirata）
 2 到着（Arrival）
 3 近くの大きな銃（Bigger Guns Nearby）
@@ -20,24 +20,24 @@
 19 コロニーネットにティコを移植（planttychoincolonynet）
 20 入植者を救出（rescuesomecolonists）
 21 ジャロ遺跡を調査する（investigatejjaroruins）
-22 プフォールをあなたの目だけに（Pfhor Your Eyes Only）
-23 人口色無し（No Artificial Colors）
+22 プフォールを君の目だけに（Pfhor Your Eyes Only）
+23 人工色無し（No Artificial Colors）
 24 プフォール許されず（Unpfhorgiven）
 25 ２×２＝（Two Times Two Equals）
 26 低空飛行の防衛ドローンに注意（Beware of Low-Flying Defense Drones）
 27 プフォール幸福感（Eupfhoria）
 28 プフォール恐怖症（Pfhoraphobia）
-29 プフォールに時間はかかりません（Ain't Got Time Pfhor This）
+29 プフォールにかける時間なし（Ain't Got Time Pfhor This）
 30 死ぬには良い方法だ（A Good Way To Die）
 31 大変革へようこそ（Welcome to the Revolution）
 32 人生で最高のもの（Whats Best in Life）
 33 コロニーを守れ（savethecolony）
-34 橋上の氷を監視する（Watch for Ice on Bridge）
+34 橋上の氷を監視せよ（Watch for Ice on Bridge）
 35 再び挑め（Try Again）
 36 通過球和鐵（Ingue Ferroque）
 37 ルーツと起端（Roots and Radicals）
-100 火星には助成が必要だ（Mars Needs Woman）[R]
-101 屠殺宮殿 ディー・ラックス（Carnage Palace Deeee-Luxe）[R]
+100 火星には女性が必要だ（Mars Needs Woman）[R]
+101 屠殺宮殿　ディー・ラックス（Carnage Palace Deeee-Luxe）[R]
 102 ５次元空間（5-D space）[R]
 103 アリーナ（Arena）[R]
 104 エネルギーはMC WHAT!!（E equals MC WHAT!!）[R]
