@@ -106,7 +106,6 @@
       <frame index="47"/>
       <frame index="48"/>
       <frame index="49"/>
-      <frame index="4"/>
       <frame index="46"/>
       <frame index="45"/>
       <frame index="44"/>
@@ -123,13 +122,17 @@
       <frame index="96"/>
       <frame index="97"/>
     </sequence>
-    <sequence coll="18" numticks="3">
+    <sequence coll="18" numticks="2">
       <frame index="72"/>
       <frame index="73"/>
       <frame index="74"/>
       <frame index="75"/>
       <frame index="76"/>
       <frame index="77"/>
+      <frame index="76"/>
+      <frame index="75"/>
+      <frame index="74"/>
+      <frame index="73"/>
     </sequence>
     <sequence coll="19" numticks="3">
       <frame index="71"/>
